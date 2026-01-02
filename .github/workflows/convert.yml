@@ -1,0 +1,62 @@
+name: Convert Domain Lists to Clash Rules
+
+on:
+  schedule:
+    # 每24小时运行一次 (UTC时间每天凌晨2点)
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches:
+      - main
+    paths:
+      - 'convert.py'
+      - '.github/workflows/convert.yml'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+      
+      - name: Run conversion script
+        run: |
+          python convert.py
+      
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_OUTPUT
+      
+      - name: Deploy to release branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: release
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: "Update rules: ${{ steps.date.outputs.date }}"
+          force_orphan: true  # 只保留最新的提交，避免仓库过大
+      
+      - name: Create release summary
+        run: |
+          echo "## Conversion Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Update Time**: ${{ steps.date.outputs.date }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Files Generated**:" >> $GITHUB_STEP_SUMMARY
+          echo "- Classical format: $(ls output/classical/*.yaml 2>/dev/null | wc -l) files" >> $GITHUB_STEP_SUMMARY
+          echo "- Domain format: $(ls output/domain/*.yaml 2>/dev/null | wc -l) files" >> $GITHUB_STEP_SUMMARY
