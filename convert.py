@@ -69,8 +69,13 @@ def parse_line(line: str) -> tuple:
     elif line.startswith('domain:'):
         return 'domain', line[7:].strip(), attributes
     else:
-        # Default is domain (subdomain matching)
-        return 'domain', line, attributes
+        # No prefix: check if it looks like a domain (contains '.') or a keyword
+        if '.' in line:
+            # Has dot, treat as domain (subdomain matching)
+            return 'domain', line, attributes
+        else:
+            # No dot, treat as keyword
+            return 'keyword', line, attributes
 
 
 def load_file(filepath: str, processed_files: Set[str] = None) -> List[Dict]:
