@@ -1,6 +1,6 @@
 # Domain List to Clash Rules Converter
 
-[![Convert Domain Lists](https://github.com/YOUR_USERNAME/domain-list-clash/actions/workflows/convert.yml/badge.svg)](https://github.com/YOUR_USERNAME/domain-list-clash/actions/workflows/convert.yml)
+[![Convert Domain Lists](https://github.com/cs3306/domain-list-clash/actions/workflows/convert.yml/badge.svg)](https://github.com/cs3306/domain-list-clash/actions/workflows/convert.yml)
 
 将 [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) 的域名列表自动转换为 Clash 兼容的 YAML 规则文件。
 
