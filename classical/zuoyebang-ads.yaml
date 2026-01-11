@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: zuoyebang-ads
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 1
+
+payload:
+- DOMAIN-SUFFIX,syh.zybang.com

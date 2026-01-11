@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: mytvsuper
+# Updated: 2026-01-11 03:53:27 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mytvsuper.com
+- +.tvb.com

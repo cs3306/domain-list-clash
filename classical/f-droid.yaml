@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: f-droid
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,f-dro1d.org
+- DOMAIN-SUFFIX,f-droid.com
+- DOMAIN-SUFFIX,f-droid.org
+- DOMAIN-SUFFIX,fdroid.org

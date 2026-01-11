@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: deezer
+# Updated: 2026-01-11 03:53:25 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.deezer.com
+- +.dzcdn.net

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: costco
+# Updated: 2026-01-11 03:53:25 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.costco-static.com
+- +.costco.com
+- +.costcobusinessdelivery.com

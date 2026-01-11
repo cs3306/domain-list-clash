@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: forza
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,forza.net
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,forzaracingchampionship.com
+DOMAIN-SUFFIX,forzarc.com
+DOMAIN,prodforza.blob.core.windows.net

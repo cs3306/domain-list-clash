@@ -1,0 +1,6 @@
+# Generated from v2fly/domain-list-community
+# Source: gofundme
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 1
+
+DOMAIN-SUFFIX,gofundme.com

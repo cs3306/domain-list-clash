@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: jinshuju
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,jinshuju.net
+DOMAIN-SUFFIX,jinshujucdn.com

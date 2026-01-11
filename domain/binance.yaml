@@ -1,0 +1,43 @@
+# Generated from v2fly/domain-list-community
+# Source: binance
+# Updated: 2026-01-11 03:53:23 UTC
+# Total domains: 36
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.binance.cc
+- +.binance.charity
+- +.binance.cloud
+- +.binance.co
+- +.binance.com
+- +.binance.info
+- +.binance.me
+- +.binance.net
+- +.binance.org
+- +.binance.us
+- +.binance.vision
+- +.binancecnt.com
+- +.binancezh.be
+- +.binancezh.biz
+- +.binancezh.cc
+- +.binancezh.co
+- +.binancezh.com
+- +.binancezh.info
+- +.binancezh.ink
+- +.binancezh.kim
+- +.binancezh.link
+- +.binancezh.live
+- +.binancezh.mobi
+- +.binancezh.net
+- +.binancezh.pro
+- +.binancezh.sh
+- +.binancezh.top
+- +.binanceapi.com
+- +.bnbstatic.com
+- +.bntrace.com
+- +.nftstatic.com
+- +.appsflayer.com
+- +.saasexch.cc
+- +.saasexch.co
+- +.saasexch.com
+- +.saasexch.io

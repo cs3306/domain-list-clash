@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: zendesk
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,outbound.io
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zndsk.com
+DOMAIN-SUFFIX,zopim.com

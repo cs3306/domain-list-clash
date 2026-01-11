@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: deezer
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net

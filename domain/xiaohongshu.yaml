@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: xiaohongshu
+# Updated: 2026-01-11 03:53:28 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.askdiandian.com
+- +.diandianlife.top
+- +.xhscdn.com
+- +.xhscdn.net
+- +.xhslink.com
+- +.xiaohongshu.com

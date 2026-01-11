@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: chinaz
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,chinaz.com
+DOMAIN-SUFFIX,chinaz.net

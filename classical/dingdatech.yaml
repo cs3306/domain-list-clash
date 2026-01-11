@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: dingdatech
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,diiing.cn
+- DOMAIN-SUFFIX,dingdachuxing.com
+- DOMAIN-SUFFIX,dingdatech.com
+- DOMAIN-SUFFIX,jintdev.com
+- DOMAIN-SUFFIX,xiangbababus.com

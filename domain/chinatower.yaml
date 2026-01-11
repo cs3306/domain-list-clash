@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: chinatower
+# Updated: 2026-01-11 03:53:25 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.chinatowercom.cn
+- +.china-tower.com
+- +.tower.com.cn
+- +.tower0788.com
+- +.tower0788.cn

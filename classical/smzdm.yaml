@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: smzdm
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,smzdm.com
+- DOMAIN-SUFFIX,smzdmimg.com
+- DOMAIN-SUFFIX,zdmimg.com
+- DOMAIN-SUFFIX,zhidemai.com

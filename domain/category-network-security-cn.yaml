@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: category-network-security-cn
+# Updated: 2026-01-11 03:53:24 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cnmstl.net
+- +.fofa.so
+- +.t00ls.cc
+- +.t00ls.net
+- +.tools.team

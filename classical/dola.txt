@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: dola
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com

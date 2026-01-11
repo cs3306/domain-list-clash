@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: bootstrap
+# Updated: 2026-01-11 03:53:23 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,getbootstrap.com

@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: f-droid
+# Updated: 2026-01-11 03:53:25 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.f-dro1d.org
+- +.f-droid.com
+- +.f-droid.org
+- +.fdroid.org

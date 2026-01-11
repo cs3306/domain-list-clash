@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: apple-ads
+# Updated: 2026-01-11 03:53:23 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,api-adservices.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,qwapi.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: amd
+# Updated: 2026-01-11 03:53:23 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,radeon.com
+DOMAIN,www.amd.com

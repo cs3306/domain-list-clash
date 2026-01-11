@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: mxroute
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,mxlogin.com
+DOMAIN-SUFFIX,mxroute.com
+DOMAIN-SUFFIX,mxroutedocs.com
+DOMAIN-SUFFIX,mxroutehelp.com
+DOMAIN-SUFFIX,mxrouting.net

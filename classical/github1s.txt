@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: github1s
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,sourcegraph.com

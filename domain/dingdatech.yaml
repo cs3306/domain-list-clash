@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: dingdatech
+# Updated: 2026-01-11 03:53:25 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.diiing.cn
+- +.dingdachuxing.com
+- +.dingdatech.com
+- +.jintdev.com
+- +.xiangbababus.com

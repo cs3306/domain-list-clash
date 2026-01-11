@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: bitauto
+# Updated: 2026-01-11 03:53:23 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bitauto.com
+- +.bitautoimg.com
+- +.cheyisou.com
+- +.yiche.com
+- +.yccdn.com

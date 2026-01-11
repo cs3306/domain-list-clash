@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: chinatower
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,chinatowercom.cn
+DOMAIN-SUFFIX,china-tower.com
+DOMAIN-SUFFIX,tower.com.cn
+DOMAIN-SUFFIX,tower0788.com
+DOMAIN-SUFFIX,tower0788.cn

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: okko
+# Updated: 2026-01-11 03:53:27 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.playfamily.ru
+- +.okko.sport
+- +.okko.tv

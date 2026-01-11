@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: category-hospital-cn
+# Updated: 2026-01-11 03:53:24 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.fuwai.com
+- +.pkuh6.cn
+- +.puh3.net.cn
+- hospital.pku.edu.cn
+- ss.bjmu.edu.cn
+- +.yctdyy.com
+- +.smuszh.com

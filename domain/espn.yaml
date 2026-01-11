@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: espn
+# Updated: 2026-01-11 03:53:25 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.dtci.co
+- +.dtci.technology
+- +.espn.co.uk
+- +.espn.com
+- +.espn.net
+- +.espncdn.com
+- +.espnqa.com
+- +.watchespn.com
+- espn.api.edge.bamgrid.com
+- espn.hb.omtrdc.net
+- espndotcom.tt.omtrdc.net

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: zuoyebang
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,syh.zybang.com
+DOMAIN-SUFFIX,zuoyebang.cc
+DOMAIN-SUFFIX,zuoyebang.com
+DOMAIN-SUFFIX,zybang.com

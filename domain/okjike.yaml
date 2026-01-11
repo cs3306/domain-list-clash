@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: okjike
+# Updated: 2026-01-11 03:53:27 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.jike.city
+- +.jikecdn.com
+- +.okjike.com
+- +.okjk.co
+- +.ruguoapp.com

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: freecodecamp
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 1
+
+payload:
+- DOMAIN-SUFFIX,freecodecamp.org

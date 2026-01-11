@@ -1,0 +1,24 @@
+# Generated from v2fly/domain-list-community
+# Source: category-enhance-gaming
+# Updated: 2026-01-11 03:53:24 UTC
+# Total domains: 17
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.playcover.io
+- +.playcover.workers.dev
+- +.fflogs.com
+- +.rpglogs.com
+- +.rpglogs.cn
+- +.thetrackernetwork.com
+- +.tracker.gg
+- +.tracker.network
+- +.bluestacks.com
+- +.ldmnq.com
+- +.lsplayer.com
+- +.yeshen.com
+- +.maa.plus
+- +.prts.plus
+- +.heavenlywind.cc
+- +.poi.moe
+- +.steampp.net

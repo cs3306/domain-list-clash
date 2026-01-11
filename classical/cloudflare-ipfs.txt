@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: cloudflare-ipfs
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com

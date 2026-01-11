@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: rumble
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,rmbl.ws
+DOMAIN-SUFFIX,rumble.com

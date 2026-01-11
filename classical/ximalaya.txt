@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: ximalaya
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com

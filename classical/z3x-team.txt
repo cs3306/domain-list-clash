@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: z3x-team
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,z3x-team.com

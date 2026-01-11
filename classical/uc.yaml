@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: uc
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,uc.cn
+- DOMAIN-SUFFIX,uc123.com
+- DOMAIN-SUFFIX,ucweb.com
+- DOMAIN-SUFFIX,uczzd.cn

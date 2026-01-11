@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: wanfang
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,wanfangdata.com.cn
+DOMAIN-SUFFIX,wf.pub

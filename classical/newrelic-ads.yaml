@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: newrelic-ads
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 1
+
+payload:
+- DOMAIN-SUFFIX,js-agent.newrelic.com

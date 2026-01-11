@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: embl
+# Updated: 2026-01-11 03:53:25 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,ebi.ac.uk
+- DOMAIN-SUFFIX,embl-hamburg.de
+- DOMAIN-SUFFIX,embl.de
+- DOMAIN-SUFFIX,embl.fr
+- DOMAIN-SUFFIX,embl.it
+- DOMAIN-SUFFIX,embl.org
+- DOMAIN-SUFFIX,emblstatic.net

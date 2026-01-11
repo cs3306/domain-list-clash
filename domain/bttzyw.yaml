@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: bttzyw
+# Updated: 2026-01-11 03:53:23 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.btt804.com
+- +.btt904.com
+- +.bttzyw.com
+- +.bttzyw.net

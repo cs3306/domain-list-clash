@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: matters
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,matters.one
+DOMAIN-SUFFIX,matters.town
+DOMAIN-SUFFIX,mattersprotocol.io

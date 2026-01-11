@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: weathercn
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,hf-aw.cn
+- DOMAIN-SUFFIX,hf-aw.com
+- DOMAIN-SUFFIX,huafeng-accuweather.cn
+- DOMAIN-SUFFIX,huafengaw.com
+- DOMAIN-SUFFIX,weathercn.com

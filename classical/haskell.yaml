@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: haskell
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,haskell.org
+- DOMAIN-SUFFIX,haskellstack.org
+- DOMAIN-SUFFIX,stackage.org

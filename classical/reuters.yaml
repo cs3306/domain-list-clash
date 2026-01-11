@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: reuters
+# Updated: 2026-01-11 03:53:27 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,reut.rs
+- DOMAIN-SUFFIX,reuters.com
+- DOMAIN-SUFFIX,reuters.tv
+- DOMAIN-SUFFIX,reutersmedia.net

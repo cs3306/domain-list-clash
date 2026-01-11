@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: zb
+# Updated: 2026-01-11 03:53:28 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,zb.app
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,zb.io
+DOMAIN-SUFFIX,zb.live

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: hinet-eca
+# Updated: 2026-01-11 03:53:27 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.eca.hinet.net
+- +.gtlsca.nat.gov.tw
+- +.pki.hinet.net
+- +.publicca.hinet.net
+- +.tls.hinet.net
