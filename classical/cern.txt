@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: cern
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 7
+
+DOMAIN-KEYWORD,cern
+DOMAIN-SUFFIX,ams02.space
+DOMAIN-SUFFIX,cern.ch
+DOMAIN-SUFFIX,cixp.net
+DOMAIN-SUFFIX,dotcernpilot.info
+DOMAIN-SUFFIX,ippog.org
+DOMAIN-SUFFIX,linearcollider.org

@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: iflytek
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.iflyink.com
+- +.iflyrec.com
+- +.iflysec.com
+- +.iflytek.com
+- +.xfyun.cn
+- +.xunfei.cn
+- +.ets100.com
+- +.zhixue.com
+- +.changyan.com
+- +.xunfeixxj.com

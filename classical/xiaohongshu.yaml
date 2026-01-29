@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: xiaohongshu
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,askdiandian.com
+- DOMAIN-SUFFIX,diandianlife.top
+- DOMAIN-SUFFIX,rednotecdn.com
+- DOMAIN-SUFFIX,xhscdn.com
+- DOMAIN-SUFFIX,xhscdn.net
+- DOMAIN-SUFFIX,xhslink.com
+- DOMAIN-SUFFIX,xiaohongshu.com

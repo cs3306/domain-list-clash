@@ -1,0 +1,36 @@
+# Generated from v2fly/domain-list-community
+# Source: cbs
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 29
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cbs.com
+- +.cbscorporation.com
+- +.cbsi.com
+- +.cbsi.video
+- +.cbsiam.com
+- +.cbsig.net
+- +.cbsimg.net
+- +.cbsinteractive.com
+- +.cbsistatic.com
+- +.cbsivideo.com
+- +.cbsnews.com
+- +.cbspressexpress.com
+- +.cbssports.com
+- +.cbsstatic.com
+- +.cbssvideo.com
+- +.viacbs.com
+- +.viacom.com
+- +.viacomcbs.com
+- +.viacomcbspressexpress.com
+- +.paramount.com
+- +.amlg.io
+- +.cbsaavideo.com
+- +.mtvnservices.com
+- +.paramountplus.com
+- +.pplusstatic.com
+- cbsi.live.ott.irdeto.com
+- cbsplaylistserver.aws.syncbak.com
+- cbsservice.aws.syncbak.com
+- link.theplatform.com

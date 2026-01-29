@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: ifanr
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,coolbuy.com
+DOMAIN-SUFFIX,ifanr.cn
+DOMAIN-SUFFIX,ifanr.com
+DOMAIN-SUFFIX,ifanr.in
+DOMAIN-SUFFIX,ifanrusercontent.com
+DOMAIN-SUFFIX,ifanrx.com
+DOMAIN-SUFFIX,minapp.com

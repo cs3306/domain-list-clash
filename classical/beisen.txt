@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: beisen
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,beisen.com
+DOMAIN-SUFFIX,beisen.cn
+DOMAIN-SUFFIX,beisenapp.com
+DOMAIN-SUFFIX,beisencloud.com
+DOMAIN-SUFFIX,beisenpaas.com
+DOMAIN-SUFFIX,bsurl.cc
+DOMAIN-SUFFIX,bsurl.cn
+DOMAIN-SUFFIX,zhiye.com

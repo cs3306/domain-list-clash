@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: zhimeishe
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,168sex.top
+DOMAIN-SUFFIX,a7sex.com
+DOMAIN-SUFFIX,ctotires.com
+DOMAIN-SUFFIX,ferryclean.com
+DOMAIN-SUFFIX,zhimeishe888.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: jkf
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.jkf.net
+- +.jkface.net
+- +.jkforum.net
+- +.jr24h.com
+- +.jvid.com

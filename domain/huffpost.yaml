@@ -1,0 +1,25 @@
+# Generated from v2fly/domain-list-community
+# Source: huffpost
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 18
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.huffingtonpost.ca
+- +.huffingtonpost.co.uk
+- +.huffingtonpost.co.za
+- +.huffingtonpost.com
+- +.huffingtonpost.com.au
+- +.huffingtonpost.com.mx
+- +.huffingtonpost.de
+- +.huffingtonpost.es
+- +.huffingtonpost.fr
+- +.huffingtonpost.gr
+- +.huffingtonpost.in
+- +.huffingtonpost.it
+- +.huffingtonpost.jp
+- +.huffingtonpost.kr
+- +.huffpost.com
+- +.huffpostarabi.com
+- +.huffpostbrasil.com
+- +.huffpostmaghreb.com

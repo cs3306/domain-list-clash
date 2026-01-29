@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: upai
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,aicdn.com
+DOMAIN-SUFFIX,upai.com
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upcdn.net
+DOMAIN-SUFFIX,upyun.com
+DOMAIN-SUFFIX,oncdp.com

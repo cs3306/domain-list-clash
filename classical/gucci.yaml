@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: gucci
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-KEYWORD,gucci
+- DOMAIN-SUFFIX,chimeforchange.org
+- DOMAIN-SUFFIX,gucci.cn
+- DOMAIN-SUFFIX,gucci.com
+- DOMAIN-SUFFIX,guccimuseo.com
+- DOMAIN-SUFFIX,guccitimeless.com
+- DOMAIN-SUFFIX,regiongold.com

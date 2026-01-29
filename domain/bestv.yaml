@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: bestv
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bbtv.cn
+- +.bestv.com.cn
+- +.bestvcdn.cn
+- +.bestvcdn.com
+- +.bestvcdn.com.cn
+- +.bestvcdn.net
+- +.smgbb.cn

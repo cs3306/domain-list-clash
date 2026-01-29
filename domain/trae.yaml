@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: trae
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.doudou.com
+- +.marscode.cn
+- +.marscode.com.cn
+- +.mcbaas.work
+- +.mcdemo.show
+- +.mchost.guru
+- +.mcprev.cn
+- +.tcwqqdy.guru
+- +.trae.cn
+- +.trae.com.cn
+- +.trae.guru
+- +.yoma.cn

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: anon-v
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,anon-v.com
+DOMAIN-SUFFIX,anon-v.lol

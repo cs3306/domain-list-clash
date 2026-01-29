@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: zte
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,nubia.cn
+- DOMAIN-SUFFIX,nubia.com
+- DOMAIN-SUFFIX,redmagic.com
+- DOMAIN-SUFFIX,zte.com.cn
+- DOMAIN-SUFFIX,ztedevices.com
+- DOMAIN-SUFFIX,ztemall.com
+- DOMAIN-SUFFIX,ztems.com

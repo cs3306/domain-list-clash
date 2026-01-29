@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: google-trust-services
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.pki.goog
+- pki-goog.l.google.com
+- c.pki.goog
+- i.pki.goog
+- o.pki.goog
+- publicca.googleapis.com
+- preprod-publicca.googleapis.com
+- clients1.google.com
+- pki.google.com
+- crl.pki.goog
+- crls.pki.goog
+- ocsp.pki.goog

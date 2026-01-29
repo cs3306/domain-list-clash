@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: qwant
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,qwant.com
+DOMAIN-SUFFIX,qwant.de
+DOMAIN-SUFFIX,qwant.fr
+DOMAIN-SUFFIX,qwant.it

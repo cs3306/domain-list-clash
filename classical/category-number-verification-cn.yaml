@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: category-number-verification-cn
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN,id6.me
+- DOMAIN-SUFFIX,cmpassport.com
+- DOMAIN,opencloud.wostore.cn
+- DOMAIN,hs.wosms.cn
+- DOMAIN,enrichgw.10010.com
+- DOMAIN,hap.10010.com

@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: slack
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,slack-core.com
+- DOMAIN-SUFFIX,slack-edge.com
+- DOMAIN-SUFFIX,slack-files.com
+- DOMAIN-SUFFIX,slack-imgs.com
+- DOMAIN-SUFFIX,slack-msgs.com
+- DOMAIN-SUFFIX,slack-redir.net
+- DOMAIN-SUFFIX,slack.com
+- DOMAIN-SUFFIX,slackb.com
+- DOMAIN-SUFFIX,slackcertified.com
+- DOMAIN-SUFFIX,slackdemo.com
+- DOMAIN-SUFFIX,slackhq.com

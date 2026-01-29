@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: ynet
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ynet.cn
+- +.ynet.com
+- +.ynet.com.cn

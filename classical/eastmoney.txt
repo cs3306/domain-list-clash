@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: eastmoney
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,1234567.com.cn
+DOMAIN-SUFFIX,18.cn
+DOMAIN-SUFFIX,18.com.cn
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,eastmoneyfutures.com
+DOMAIN-SUFFIX,emsec.hk
+DOMAIN-SUFFIX,guba.com.cn

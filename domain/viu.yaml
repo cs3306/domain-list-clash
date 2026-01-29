@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: viu
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.viu.tv
+- api.viu.now.com
+- +.viu.com
+- dfp6rglgjqszk.cloudfront.net
+- d1k2us671qcoau.cloudfront.net
+- d2anahhhmp1ffz.cloudfront.net

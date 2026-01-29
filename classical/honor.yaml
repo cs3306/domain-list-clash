@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: honor
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,hihonor.cn
+- DOMAIN-SUFFIX,hihonor.com
+- DOMAIN-SUFFIX,hihonorcdn.com
+- DOMAIN-SUFFIX,hihonorcloud.com
+- DOMAIN-SUFFIX,honor.cn
+- DOMAIN-SUFFIX,honor.com
+- DOMAIN-SUFFIX,honor.com.cn
+- DOMAIN-SUFFIX,honorfile.com

@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: viber
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.viber.com
+- +.viber.co
+- +.viber.me
+- +.s-bid.rmp.rakuten.com
+- +.vbcdn.com
+- +.vbcdn.net

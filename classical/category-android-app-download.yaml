@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: category-android-app-download
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,apkcombo.com
+- DOMAIN-SUFFIX,apkmirror.com
+- DOMAIN-SUFFIX,apkpure.com
+- DOMAIN-SUFFIX,apkpure.net
+- DOMAIN-SUFFIX,cdnpure.com
+- DOMAIN-SUFFIX,pureapk.com
+- DOMAIN-SUFFIX,winudf.com

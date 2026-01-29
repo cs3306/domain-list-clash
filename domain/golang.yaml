@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: golang
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.go-lang.com
+- +.go-lang.net
+- +.go-lang.org
+- +.go.dev
+- +.godoc.org
+- +.golang.com
+- +.golang.net
+- +.golang.org

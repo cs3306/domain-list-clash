@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: category-number-verification-cn
+# Updated: 2026-01-29 04:09:53 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- id6.me
+- +.cmpassport.com
+- opencloud.wostore.cn
+- hs.wosms.cn
+- enrichgw.10010.com
+- hap.10010.com

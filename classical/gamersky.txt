@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: gamersky
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,gamersky.com
+DOMAIN-SUFFIX,click.gamersky.com
+DOMAIN-SUFFIX,ja.gamersky.com
+DOMAIN-SUFFIX,ja1.gamersky.com
+DOMAIN-SUFFIX,ja2.gamersky.com
+DOMAIN-SUFFIX,wmbd.gamersky.com

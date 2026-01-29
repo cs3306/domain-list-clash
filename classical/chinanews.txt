@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: chinanews
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,chinanews.com
+DOMAIN-SUFFIX,chinanews.com.cn
+DOMAIN-SUFFIX,cns.com.cn
+DOMAIN-SUFFIX,ecns.cn
+DOMAIN-SUFFIX,inewsweek.cn

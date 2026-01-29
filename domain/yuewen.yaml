@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: yuewen
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.yuewen.com
+- +.hongxiu.com
+- +.lrts.me
+- +.qdmm.com
+- +.qidian.com
+- +.readnovel.com
+- +.rongshuxia.com
+- +.tingbook.com
+- +.xs.cn
+- +.xs8.cn
+- +.xxsy.net

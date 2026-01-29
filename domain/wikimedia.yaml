@@ -1,0 +1,25 @@
+# Generated from v2fly/domain-list-community
+# Source: wikimedia
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 18
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mediawiki.org
+- +.wikibooks.org
+- +.wikidata.org
+- +.wikimediafoundation.org
+- +.wikimedia.org
+- +.wikinews.org
+- +.wikipedia.org
+- +.wikiquote.org
+- +.wikisource.org
+- +.wikiversity.org
+- +.wikivoyage.org
+- +.wiktionary.org
+- +.wmfusercontent.org
+- +.w.wiki
+- +.toolforge.org
+- +.wikimediacloud.org
+- +.wmcloud.org
+- +.wmflabs.org

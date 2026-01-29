@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: kuaishou-ads
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,adbkwai.com
+- DOMAIN-SUFFIX,adkwai.com
+- DOMAIN-SUFFIX,adukwai.com
+- DOMAIN-SUFFIX,e.kuaishou.cn
+- DOMAIN-SUFFIX,e.kuaishou.com
+- DOMAIN,log-sdk.gifshow.com
+- DOMAIN,wlog.kuaishou.com

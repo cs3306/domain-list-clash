@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: letv-ads
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,apple.www.letv.com
+- DOMAIN-SUFFIX,ark.letv.com
+- DOMAIN-SUFFIX,dc.letv.com
+- DOMAIN-SUFFIX,g3.letv.com

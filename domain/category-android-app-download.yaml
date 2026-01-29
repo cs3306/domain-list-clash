@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: category-android-app-download
+# Updated: 2026-01-29 04:09:53 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.apkcombo.com
+- +.apkmirror.com
+- +.apkpure.com
+- +.apkpure.net
+- +.cdnpure.com
+- +.pureapk.com
+- +.winudf.com

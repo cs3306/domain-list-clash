@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: fengxing
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,fspcdn.com
+DOMAIN-SUFFIX,fun.tv
+DOMAIN-SUFFIX,funshion.com
+DOMAIN-SUFFIX,funshion.net
+DOMAIN-SUFFIX,ibidian.com
+DOMAIN-SUFFIX,jvcsmart.cn
+DOMAIN-SUFFIX,jvcsmart.com.cn

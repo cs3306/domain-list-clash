@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: acfun
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ac.fun
+- +.acfun.cn
+- +.acfun.net
+- +.acfunchina.cn
+- +.acfunchina.com
+- +.acfunchina.net
+- +.aixifan.com
+- apilog-web.acfun.cn

@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: youmind
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site

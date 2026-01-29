@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: intsig
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,intsig.com
+DOMAIN-SUFFIX,intsig.net
+DOMAIN-SUFFIX,camscanner.com
+DOMAIN-SUFFIX,camcard.com
+DOMAIN-SUFFIX,qixin.com

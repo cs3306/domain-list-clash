@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: starplus
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,starott.com
+- DOMAIN-SUFFIX,starplus.com
+- DOMAIN-SUFFIX,star.api.edge.bamgrid.com
+- DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
+- DOMAIN-SUFFIX,star.content.edge.bamgrid.com
+- DOMAIN-SUFFIX,star.playback.edge.bamgrid.com

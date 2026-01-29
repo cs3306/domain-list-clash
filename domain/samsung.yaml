@@ -1,0 +1,26 @@
+# Generated from v2fly/domain-list-community
+# Source: samsung
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 19
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.galaxyappstore.com
+- +.galaxymobile.jp
+- +.game-platform.net
+- +.knoxemm.com
+- +.ospserver.net
+- +.samsung.com
+- +.samsungads.com
+- +.samsungapps.com
+- +.samsungcloud.com
+- +.samsungconsent.com
+- +.samsungdm.com
+- +.samsungeshop.com.cn
+- +.samsunggalaxyfriends.com
+- +.samsunghealth.com
+- +.samsungiotcloud.com
+- +.samsungknox.com
+- +.samsungosp.com
+- +.samsungqbe.com
+- +.samsungrs.com

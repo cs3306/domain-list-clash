@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: fansta
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,fansta.me
+- DOMAIN,misa-prod.s3.ap-northeast-1.amazonaws.com
+- DOMAIN-SUFFIX,2023aga.oen.tw
+- DOMAIN-SUFFIX,aga-expo.com
+- DOMAIN-SUFFIX,cosfans-tw.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: youmind
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.youmind.ai
+- +.youmind.com
+- +.youmind.site

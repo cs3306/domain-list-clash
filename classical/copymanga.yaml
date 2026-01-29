@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: copymanga
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,2025copy.com
+- DOMAIN-SUFFIX,copy-manga.com
+- DOMAIN-SUFFIX,copy20.com
+- DOMAIN-SUFFIX,copy2000.online
+- DOMAIN-SUFFIX,mangacopy.com
+- DOMAIN-SUFFIX,mangafuna.xyz
+- DOMAIN-SUFFIX,mangafunb.fun

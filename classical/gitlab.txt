@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: gitlab
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com

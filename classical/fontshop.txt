@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: fontshop
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com

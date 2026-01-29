@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: elsevier
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cell.com
+- +.clinicalkey.com
+- +.els-cdn.com
+- +.elsevier-ae.com
+- +.elsevier.com
+- +.elsevier.io
+- +.engineeringvillage.com
+- +.evise.com
+- +.fundinginstitutional.com
+- +.knovel.com
+- +.mendeley.com
+- +.reaxys.com
+- +.scival.com
+- +.scopus.com

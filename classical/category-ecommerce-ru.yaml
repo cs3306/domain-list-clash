@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: category-ecommerce-ru
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 12
+
+payload:
+- DOMAIN-SUFFIX,ozon.ru
+- DOMAIN-SUFFIX,ozone.ru
+- DOMAIN-SUFFIX,ozonusercontent.com
+- DOMAIN-SUFFIX,geobasket.ru
+- DOMAIN-SUFFIX,paywb.com
+- DOMAIN-SUFFIX,rwb.ru
+- DOMAIN-SUFFIX,wb-basket.ru
+- DOMAIN-SUFFIX,wb.ru
+- DOMAIN-SUFFIX,wbbasket.ru
+- DOMAIN-SUFFIX,wbpay.ru
+- DOMAIN-SUFFIX,wibes.ru
+- DOMAIN-SUFFIX,wildberries.ru

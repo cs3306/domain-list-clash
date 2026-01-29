@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: canonical
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.launchpad.net
+- +.launchpadcontent.net
+- +.launchpadlibrarian.com
+- +.launchpadlibrarian.net
+- +.launchpadlibrarian.org
+- +.snapcraft.io
+- +.snapstore.io
+- +.ubuntu.com
+- +.ubuntu.net
+- +.ubuntuforums.org
+- +.ubuntu-touch.io
+- +.canonical.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: python
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,pycon.org
+- DOMAIN-SUFFIX,pypa.io
+- DOMAIN-SUFFIX,pypi.io
+- DOMAIN-SUFFIX,pypi.org
+- DOMAIN-SUFFIX,python.org
+- DOMAIN-SUFFIX,pythonhosted.org

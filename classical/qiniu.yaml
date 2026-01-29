@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: qiniu
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 10
+
+payload:
+- DOMAIN-SUFFIX,staticfile.net
+- DOMAIN-SUFFIX,staticfile.org
+- DOMAIN-SUFFIX,qbox.me
+- DOMAIN-SUFFIX,qiniu.com
+- DOMAIN-SUFFIX,qiniucdn.com
+- DOMAIN-SUFFIX,qiniudn.com
+- DOMAIN-SUFFIX,qiniudns.com
+- DOMAIN-SUFFIX,qiniup.com
+- DOMAIN-SUFFIX,qnsdk.com
+- DOMAIN-SUFFIX,qnssl.com

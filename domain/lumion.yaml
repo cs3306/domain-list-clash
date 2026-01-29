@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: lumion
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.lumion-la.com
+- +.lumion.com
+- +.lumion3d.com.my
+- +.lumion3d.net
+- +.lumiontech.net
+- +.mylumion.com

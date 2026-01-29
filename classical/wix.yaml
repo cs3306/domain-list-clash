@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: wix
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,editorx.com
+- DOMAIN-SUFFIX,parastorage.com
+- DOMAIN-SUFFIX,wix-code.com
+- DOMAIN-SUFFIX,wix.com
+- DOMAIN-SUFFIX,wixanswers.com
+- DOMAIN-SUFFIX,wixapps.net
+- DOMAIN-SUFFIX,wixmp.com
+- DOMAIN-SUFFIX,wixsite.com
+- DOMAIN-SUFFIX,wixstatic.com

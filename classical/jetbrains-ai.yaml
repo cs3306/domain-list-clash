@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: jetbrains-ai
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,grazie.ai
+- DOMAIN-SUFFIX,grazie.aws.intellij.net
+- DOMAIN-SUFFIX,jetbrains.ai

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: ssrcloud
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,airport-gov-cn.com
+- DOMAIN-SUFFIX,cnix-gov-cn.com
+- DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com

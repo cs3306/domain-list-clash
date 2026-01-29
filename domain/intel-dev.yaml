@@ -1,0 +1,24 @@
+# Generated from v2fly/domain-list-community
+# Source: intel-dev
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 17
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.01.org
+- +.hyperscan.io
+- +.intellinuxgraphics.com
+- +.intellinuxgraphics.net
+- +.oneapi.com
+- +.oneapi.io
+- +.opencas.io
+- +.opendroneid.org
+- +.openvino.ai
+- +.openvinotoolkit.org
+- +.renderingtoolkit.org
+- +.snap-telemetry.io
+- +.universalscalablefirmware.org
+- +.acpica.com
+- +.clearlinux.org
+- +.ospray.net
+- +.ospray.org

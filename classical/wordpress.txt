@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: wordpress
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpvip.com

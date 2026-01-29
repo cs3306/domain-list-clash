@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: bandwagonhost
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bwh1.net
+DOMAIN-SUFFIX,bwh8.net
+DOMAIN-SUFFIX,bwh81.net
+DOMAIN-SUFFIX,bwh88.net
+DOMAIN-SUFFIX,bwh89.net
+DOMAIN-SUFFIX,bwhstatus.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: qingcloud
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,frontwize.com
+- DOMAIN-SUFFIX,qingcache.com
+- DOMAIN-SUFFIX,qingcloud.com
+- DOMAIN-SUFFIX,qingstor.com
+- DOMAIN-SUFFIX,routewize.com
+- DOMAIN-SUFFIX,yunify.com

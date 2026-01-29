@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: clips4sale
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,c4slive.com
+DOMAIN-SUFFIX,clips4sale.com
+DOMAIN-SUFFIX,videos4sale.com

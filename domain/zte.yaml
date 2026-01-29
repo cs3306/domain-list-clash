@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: zte
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.nubia.cn
+- +.nubia.com
+- +.redmagic.com
+- +.zte.com.cn
+- +.ztedevices.com
+- +.ztemall.com
+- +.ztems.com

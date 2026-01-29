@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: docker
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.compose-spec.io
+- +.docker.com
+- +.docker.io
+- +.dockerstatic.com
+- docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+- docker-pinata-support.s3.amazonaws.com

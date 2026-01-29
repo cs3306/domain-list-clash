@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: category-novel
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,quanben-xiaoshuo.com
+DOMAIN-SUFFIX,quanben.io

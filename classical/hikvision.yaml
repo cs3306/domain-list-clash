@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: hikvision
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,hik-cloud.com
+- DOMAIN-SUFFIX,hik-express.com
+- DOMAIN-SUFFIX,hikiot.com
+- DOMAIN-SUFFIX,hikmall.com
+- DOMAIN-SUFFIX,hikvision.com
+- DOMAIN-SUFFIX,eziot.com
+- DOMAIN-SUFFIX,ezviz.com
+- DOMAIN-SUFFIX,ys7.com

@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: bybit
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bybit.com
+- +.bycsi.com
+- +.bytick.com
+- +.byapis.com
+- +.bycbe.com
+- +.bymj.io
+- +.byabcde.com
+- +.byapps.net
+- +.byd3c3.com
+- +.bybit.biz
+- +.bybdc6.com
+- +.bybit-global.com
+- +.bybit.cloud
+- +.bybitglobal.com
+- bybit-exchange.github.io
+- bybit.ada.support

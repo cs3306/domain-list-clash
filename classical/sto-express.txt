@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: sto-express
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,sto-express.cn
+DOMAIN-SUFFIX,sto-express.com
+DOMAIN-SUFFIX,sto-express.com.cn
+DOMAIN-SUFFIX,sto.cn
+DOMAIN-SUFFIX,stointl.com
+DOMAIN-SUFFIX,stosolution.com

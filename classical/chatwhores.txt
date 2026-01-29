@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: chatwhores
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,chatwhores.com
+DOMAIN-SUFFIX,chatwhores.net
+DOMAIN-SUFFIX,chatwhores.org
+DOMAIN-SUFFIX,chatwhores.sex
+DOMAIN-SUFFIX,chatwhores.tv

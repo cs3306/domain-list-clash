@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: 928plus
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,928.plus
+DOMAIN-SUFFIX,zind.cloud

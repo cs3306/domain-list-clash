@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: citic
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 17
+
+DOMAIN-KEYWORD,citic
+DOMAIN-KEYWORD,xn--fiq64b
+DOMAIN-SUFFIX,cfc108.com
+DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,citic-prudential.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,citicprufunds.com.cn
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,csci.hk
+DOMAIN-SUFFIX,ecitic.com

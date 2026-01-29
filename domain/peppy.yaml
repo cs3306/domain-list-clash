@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: peppy
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- a.ppy.sh
+- assets.ppy.sh
+- c.ppy.sh
+- osu.ppy.sh
+- m1.ppy.sh
+- lazer.ppy.sh
+- notify.ppy.sh
+- sentry.ppy.sh
+- spectator.ppy.sh
+- +.ppy.sh

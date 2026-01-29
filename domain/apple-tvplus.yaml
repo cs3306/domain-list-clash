@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: apple-tvplus
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- apple-tv-plus-press.apple.com
+- hls-amt.itunes.apple.com
+- hls.itunes.apple.com
+- np-edge.itunes.apple.com
+- play-edge.itunes.apple.com
+- tv.applemusic.com
+- uts-api.itunes.apple.com
+- +.tv.apple.com

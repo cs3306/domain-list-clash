@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: wordpress
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.videopress.com
+- +.w.org
+- +.wordpress.com
+- +.wordpress.org
+- +.wordpress.tv
+- +.wp-themes.com
+- +.wp.com
+- +.wpvip.com

@@ -1,0 +1,24 @@
+# Generated from v2fly/domain-list-community
+# Source: thelinuxfoundation
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 17
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.kernel.org
+- +.linux.org
+- +.amp.dev
+- +.ampproject.com
+- +.ampproject.net
+- +.ampproject.org
+- cdn.ampproject.org
+- amp.akamaized.net
+- +.electronjs.org
+- +.jquery.com
+- +.jquerymobile.com
+- +.jqueryui.com
+- +.mochajs.org
+- +.nodejs.org
+- +.openjsf.org
+- +.lfai.foundation
+- +.linuxfoundation.org

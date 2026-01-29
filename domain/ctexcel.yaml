@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: ctexcel
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ctexcel.ca
+- +.ctexcel.com
+- +.ctexcel.com.hk
+- +.ctexcel.fr
+- +.ctexcel.us

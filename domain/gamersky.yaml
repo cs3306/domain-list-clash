@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: gamersky
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gamersky.com
+- +.click.gamersky.com
+- +.ja.gamersky.com
+- +.ja1.gamersky.com
+- +.ja2.gamersky.com
+- +.wmbd.gamersky.com

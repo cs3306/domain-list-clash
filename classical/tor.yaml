@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: tor
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-KEYWORD,exit
+- DOMAIN-KEYWORD,onion
+- DOMAIN-KEYWORD,tor

@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: eleme
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,doservice.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,ele.to
+DOMAIN-SUFFIX,eleme.cn
+DOMAIN-SUFFIX,eleme.io
+DOMAIN-SUFFIX,elemecdn.cn
+DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,elenet.me

@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: wps
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.wps.cn
+- +.wps.com
+- +.wpscdn.cn
+- +.wpscdn.com
+- +.qwps.cn
+- +.kscord.com
+- +.51dzt.com
+- +.iciba.com
+- +.docer.com
+- +.kdocs.cn
+- +.wpsmail.net
+- +.papocket.com
+- +.wpspdf.cn

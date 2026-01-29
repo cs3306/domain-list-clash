@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: bilibili-game
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,bilibiligame.cn
+- DOMAIN-SUFFIX,bilibiligame.co
+- DOMAIN-SUFFIX,bilibiligame.net
+- DOMAIN-SUFFIX,biligame.co
+- DOMAIN-SUFFIX,biligame.com
+- DOMAIN-SUFFIX,biligame.net

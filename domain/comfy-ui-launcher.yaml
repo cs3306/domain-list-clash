@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: comfy-ui-launcher
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 1
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.oystermercury.top

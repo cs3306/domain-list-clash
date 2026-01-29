@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: tencent-dev
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cnb.cool
+- +.coding.me
+- +.coding.net
+- +.openmidas.com
+- +.qq.design
+- +.qqgamedesign.com
+- +.tencent-cloud.cn
+- +.tencent-cloud.com
+- +.tencent.design
+- +.tencentcloud.com
+- +.tjstats.com
+- +.wegamedeveloper.com
+- +.weixinbridge.com
+- +.weui.io

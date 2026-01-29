@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: flickr
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-KEYWORD,flickr
+- DOMAIN-SUFFIX,flic.kr
+- DOMAIN-SUFFIX,flickr.com
+- DOMAIN-SUFFIX,flickr.net
+- DOMAIN-SUFFIX,staticflickr.com

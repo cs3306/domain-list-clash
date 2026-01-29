@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: hooligapps
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,cuntempire.com
+- DOMAIN-SUFFIX,cuntwars.com
+- DOMAIN-SUFFIX,dirtyleague.com
+- DOMAIN-SUFFIX,faptitans.com
+- DOMAIN-SUFFIX,hooligapps.com
+- DOMAIN-SUFFIX,slotbitches.com
+- DOMAIN-SUFFIX,smutstone.com
+- DOMAIN-SUFFIX,townofsins.com

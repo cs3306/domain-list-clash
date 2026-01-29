@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: niconico
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-KEYWORD,nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp

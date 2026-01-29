@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: matrix
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,arewereadyyet.com
+DOMAIN-SUFFIX,cinny.in
+DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,fluffychat.im
+DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,matrix.to
+DOMAIN-SUFFIX,modular.im
+DOMAIN-SUFFIX,riot.im
+DOMAIN-SUFFIX,vector.im

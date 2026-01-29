@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: arphic
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,arphic.com
+- DOMAIN-SUFFIX,arphic.com.cn
+- DOMAIN-SUFFIX,arphic.com.tw
+- DOMAIN-SUFFIX,ifontcloud.com

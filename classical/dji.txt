@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: dji
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,dji.ink
+DOMAIN-SUFFIX,dji.net
+DOMAIN-SUFFIX,djicdn.com
+DOMAIN-SUFFIX,djiits.com
+DOMAIN-SUFFIX,djiops.com
+DOMAIN-SUFFIX,djiservice.org
+DOMAIN-SUFFIX,skypixel.com
+DOMAIN-SUFFIX,robomaster.com

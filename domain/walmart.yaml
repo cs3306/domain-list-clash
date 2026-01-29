@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: walmart
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.w-mt.co
+- +.wal-mart.com
+- +.wal.co
+- +.walmart-content.com
+- +.walmart.cn
+- +.walmart.com
+- +.walmart.pharmacy
+- +.walmartimages.com
+- +.wmt.co

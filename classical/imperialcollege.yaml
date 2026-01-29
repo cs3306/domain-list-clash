@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: imperialcollege
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,ic.ac.uk
+- DOMAIN-SUFFIX,imperial.ac.uk
+- DOMAIN-SUFFIX,imperialbusiness.school
+- DOMAIN,imperial.insendi.com

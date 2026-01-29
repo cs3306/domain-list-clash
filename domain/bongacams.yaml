@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: bongacams
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bcicdn.com
+- +.bcrncdn.com
+- +.bcvcdn.com
+- +.bgicdn.com
+- +.bongacams.com

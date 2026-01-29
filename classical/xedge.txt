@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: xedge
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,xedge.cc
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,xn0.cc
+DOMAIN-SUFFIX,ganjiangvpn.com

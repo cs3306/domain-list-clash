@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: openstreetmap
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: cygames
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,worldflipper.akamaized.net
+DOMAIN-SUFFIX,umamusume.akamaized.net

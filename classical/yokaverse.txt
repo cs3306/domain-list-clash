@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: yokaverse
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,dobest.com
+DOMAIN-SUFFIX,langrenclub.com
+DOMAIN-SUFFIX,sanguosha.com
+DOMAIN-SUFFIX,xhlsgs.com
+DOMAIN-SUFFIX,xinwuji.com
+DOMAIN-SUFFIX,yokaverse.com
+DOMAIN-SUFFIX,zhuoyou.com

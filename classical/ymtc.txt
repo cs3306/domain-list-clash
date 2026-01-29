@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: ymtc
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,ymtc.com
+DOMAIN-SUFFIX,ymtc.com.cn
+DOMAIN-SUFFIX,ymtc.cn

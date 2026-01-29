@@ -1,0 +1,24 @@
+# Generated from v2fly/domain-list-community
+# Source: firebase
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 17
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.firebase.com
+- +.firebase.io
+- +.firebaseapp.com
+- +.firebaseio.com
+- firebase-settings.crashlytics.com
+- firebase.google.com
+- firebase.googleapis.com
+- firebaseappcheck.googleapis.com
+- firebasedynamiclinks-ipv4.googleapis.com
+- firebasedynamiclinks-ipv6.googleapis.com
+- firebasedynamiclinks.googleapis.com
+- firebaseinappmessaging.googleapis.com
+- firebaseinstallations.googleapis.com
+- firebaselogging-pa.googleapis.com
+- firebaselogging.googleapis.com
+- firebaseperusertopics-pa.googleapis.com
+- firebaseremoteconfig.googleapis.com

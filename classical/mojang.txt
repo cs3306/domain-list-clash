@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: mojang
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com

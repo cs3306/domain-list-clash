@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: bilibili-cdn
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bilicdn1.com
+- +.bilicdn2.com
+- +.bilicdn3.com
+- +.bilicdn4.com
+- +.bilicdn5.com
+- +.biliimg.com
+- +.bilivideo.cn
+- +.bilivideo.com
+- +.bilivideo.net
+- +.hdslb.com
+- +.hdslb.org
+- +.maoercdn.com
+- +.mincdn.com
+- upos-hz-mirrorakam.akamaized.net

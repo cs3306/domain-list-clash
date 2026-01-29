@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: getui
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gepush.com
+- +.getui.cn
+- +.getui.com
+- +.getui.net
+- +.igehuo.com
+- +.igetui.com
+- +.igexin.com

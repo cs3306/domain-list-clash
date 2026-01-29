@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: bttzyw
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,btt804.com
+DOMAIN-SUFFIX,btt904.com
+DOMAIN-SUFFIX,bttzyw.com
+DOMAIN-SUFFIX,bttzyw.net

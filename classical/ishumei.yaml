@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: ishumei
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 10
+
+payload:
+- DOMAIN-SUFFIX,ishumei.com
+- DOMAIN-SUFFIX,fengkongbao.com
+- DOMAIN-SUFFIX,fengkongcloud.com
+- DOMAIN-SUFFIX,fengkongcloud.cn
+- DOMAIN-SUFFIX,portal101.cn
+- DOMAIN-SUFFIX,portal102.cn
+- DOMAIN-SUFFIX,portal201.cn
+- DOMAIN-SUFFIX,portal301.cn
+- DOMAIN-SUFFIX,tebiefuza.cloud
+- DOMAIN-SUFFIX,tebiefuza.cn

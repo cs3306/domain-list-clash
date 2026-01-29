@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: amap-ads
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com

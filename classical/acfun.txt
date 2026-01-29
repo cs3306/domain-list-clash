@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: acfun
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,ac.fun
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.net
+DOMAIN-SUFFIX,acfunchina.cn
+DOMAIN-SUFFIX,acfunchina.com
+DOMAIN-SUFFIX,acfunchina.net
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN,apilog-web.acfun.cn

@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: ftv
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,ftvnews.com.tw

@@ -1,0 +1,26 @@
+# Generated from v2fly/domain-list-community
+# Source: softbank
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 19
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.sb-mobile.jp
+- +.sb-telecom.net
+- +.softbank-ipo.com
+- +.softbank-jp.com
+- +.softbank-robotics.com
+- +.softbank-telecom.com
+- +.softbank-telecom.net
+- +.softbank.jp
+- +.softbank.tv
+- +.softbankbb.com
+- +.softbankbb.net
+- +.softbankci.com
+- +.softbankhawksstore.jp
+- +.softbankmobile.net
+- +.softbankrobotics.com
+- +.softbanktelecom.com
+- +.softbankusa.net
+- +.softbankventuresasia.com
+- +.softbankworld.com

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: kaggle
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggle.net
+DOMAIN-SUFFIX,kaggleusercontent.com

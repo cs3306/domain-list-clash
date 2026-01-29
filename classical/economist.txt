@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: economist
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,economistgroup.com
+DOMAIN-SUFFIX,economistgroupcareers.com
+DOMAIN-SUFFIX,eiu.com

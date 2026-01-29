@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: vodafone
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,myvodafone.com.au
+- DOMAIN-SUFFIX,myvodafone.com.ws
+- DOMAIN-SUFFIX,vodafone.co.uk
+- DOMAIN-SUFFIX,vodafone.com
+- DOMAIN-SUFFIX,vodafone.com.au
+- DOMAIN-SUFFIX,vodafone.com.tr
+- DOMAIN-SUFFIX,vodafone.de
+- DOMAIN-SUFFIX,vodafone.it

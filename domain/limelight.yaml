@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: limelight
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.delvenetworks.com
+- +.limelight.com
+- +.lldns.net
+- +.llnw-trials.com
+- +.llnw.com
+- +.llnw.net
+- +.llnwd.net
+- +.llnwi.net

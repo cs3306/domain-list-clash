@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: xiaomi-iot
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,account.xiaomi.com
+- DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+- DOMAIN-SUFFIX,ha.api.io.mi.com
+- DOMAIN-SUFFIX,miot-spec.org

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: oschina
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gitee.com
+- +.gitee.io
+- +.oschina.net

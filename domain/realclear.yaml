@@ -1,0 +1,24 @@
+# Generated from v2fly/domain-list-community
+# Source: realclear
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 17
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.realclear.com
+- +.realclearbooks.com
+- +.realcleardefense.com
+- +.realcleareducation.com
+- +.realclearenergy.org
+- +.realclearfoundation.org
+- +.realclearhealth.com
+- +.realclearhistory.com
+- +.realclearinvestigations.com
+- +.realclearlife.com
+- +.realclearmarkets.com
+- +.realclearpolicy.com
+- +.realclearpolitics.com
+- +.realclearpublicaffairs.com
+- +.realclearreligion.org
+- +.realclearscience.com
+- +.realclearworld.com

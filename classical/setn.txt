@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: setn
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,settv.com.tw

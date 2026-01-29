@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: category-mooc-cn
+# Updated: 2026-01-29 04:09:53 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.chinesemooc.org
+- +.cnmooc.org
+- +.icourse163.org
+- +.icourses.cn
+- +.icve.com.cn
+- +.mooc.cn
+- +.openlearning.com
+- +.pmphmooc.com
+- moocs.unipus.cn
+- opencourse.pku.edu.cn
+- study.163.com

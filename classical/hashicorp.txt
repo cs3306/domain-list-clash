@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: hashicorp
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io

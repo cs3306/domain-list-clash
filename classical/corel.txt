@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: corel
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,corel.com
+DOMAIN-SUFFIX,corel.net
+DOMAIN-SUFFIX,coreldraw.app
+DOMAIN-SUFFIX,coreldraw.com
+DOMAIN-SUFFIX,corelstore.com

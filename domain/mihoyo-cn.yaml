@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: mihoyo-cn
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 15
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mhystatic.com
+- +.mhyurl.cn
+- +.mihayo.com
+- +.mihayou.com
+- +.mihoyo.com
+- +.mihoyocg.com
+- +.mihoyogift.com
+- +.mihoyomall.com
+- +.miyoushe.com
+- +.benghuai.com
+- +.bh3.com
+- +.bhsr.com
+- +.themisweeps.com
+- +.yuanshen.com
+- +.juequling.com

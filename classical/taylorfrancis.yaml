@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: taylorfrancis
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,tandf.co.uk
+- DOMAIN-SUFFIX,tandfonline.com
+- DOMAIN-SUFFIX,taylorandfrancis.com
+- DOMAIN-SUFFIX,taylorfrancis.com

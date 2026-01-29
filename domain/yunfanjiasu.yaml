@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: yunfanjiasu
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.yfcache.com
+- +.yfcalc.com
+- +.yfcdn.net
+- +.yfcloud.com
+- +.yfdts.net
+- +.yfp2p.net
+- +.yfscdn.net
+- +.yunfancdn.com

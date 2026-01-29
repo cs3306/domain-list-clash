@@ -1,0 +1,26 @@
+# Generated from v2fly/domain-list-community
+# Source: kindle
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 19
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.kindle.cn
+- +.kindle.co.jp
+- +.kindle.co.uk
+- +.kindle.com
+- +.kindle.de
+- +.kindle.es
+- +.kindle.fr
+- +.kindle.in
+- +.kindle.it
+- +.kindle.jp
+- +.kindleoasis.cn
+- +.kindleoasis.com
+- +.kindleoasis.com.cn
+- +.kindleoasis.info
+- +.kindleoasis.jp
+- +.kindleoasis.org
+- +.kindleoasis.us
+- +.kindleoasisnews.com
+- +.kindleproject.com

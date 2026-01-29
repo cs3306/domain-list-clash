@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: 17zuoye
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.net

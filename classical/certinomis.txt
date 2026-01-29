@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: certinomis
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,certinomis.com
+DOMAIN-SUFFIX,certinomis.fr

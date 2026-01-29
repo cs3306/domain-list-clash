@@ -1,0 +1,27 @@
+# Generated from v2fly/domain-list-community
+# Source: chinaunicom
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 20
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.10010.com
+- +.10010.com.cn
+- +.10155.com
+- +.114menhu.com
+- +.169ol.com
+- +.chinaunicom.cn
+- +.chinaunicom.com
+- +.chinaunicom.com.cn
+- +.chinaunicom.com.hk
+- +.chinaunicomglobal.com
+- +.cuguplus.com
+- +.cuniq.com
+- +.cuniq.sg
+- +.mychinaunicom.com
+- +.wo.cn
+- +.wo.com.cn
+- +.wo116114.com
+- +.wocloud.com.cn
+- +.woread.com.cn
+- +.wosms.cn

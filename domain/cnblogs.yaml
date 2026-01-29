@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: cnblogs
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.blogjava.net
+- +.cnblogs.com
+- +.cnitblog.com
+- +.cnweblog.com
+- +.cppblog.com
+- +.phpweblog.net
+- +.teachblog.net

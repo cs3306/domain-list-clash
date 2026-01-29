@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: category-shopping-ir
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 15
+
+payload:
+- DOMAIN-SUFFIX,divar.cloud
+- DOMAIN-SUFFIX,divar.ir
+- DOMAIN-SUFFIX,divarcdn.com
+- DOMAIN-SUFFIX,digi-kala.com
+- DOMAIN-SUFFIX,emalls.ir
+- DOMAIN-SUFFIX,esam.ir
+- DOMAIN-SUFFIX,janebi.com
+- DOMAIN-SUFFIX,janebi.ir
+- DOMAIN-SUFFIX,sheypoor.com
+- DOMAIN-SUFFIX,torob.com
+- DOMAIN-SUFFIX,zanbil.ir
+- DOMAIN-SUFFIX,digikala.com
+- DOMAIN-SUFFIX,digikalabusiness.com
+- DOMAIN-SUFFIX,digikalajet.com
+- DOMAIN-SUFFIX,digistyle.com

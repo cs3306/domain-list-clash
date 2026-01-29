@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: annas-archive
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,annas-archive.in
+DOMAIN-SUFFIX,annas-archive.li
+DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,annas-archive.pm
+DOMAIN-SUFFIX,annas-archive.se

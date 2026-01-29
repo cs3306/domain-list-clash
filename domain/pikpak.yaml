@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: pikpak
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mypikpak.com
+- +.mypikpak.net
+- +.pickpackapp.com
+- +.pikpak.io
+- +.pikpak.me
+- +.pikpakdrive.com
+- o4504926511693824.ingest.sentry.io

@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: bilibili2
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,bili2.cc
+DOMAIN-SUFFIX,bili888.com
+DOMAIN-SUFFIX,bili999.com

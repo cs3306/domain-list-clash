@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: 4chan
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.4cdn.org
+- +.4chan.org
+- +.4channel.org

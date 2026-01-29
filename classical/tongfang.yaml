@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: tongfang
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,thtf.com.cn
+- DOMAIN-SUFFIX,tongfangpc.com
+- DOMAIN-SUFFIX,mechrevo.com

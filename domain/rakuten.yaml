@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: rakuten
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.r10s.com
+- +.r10s.jp
+- +.rakuten-static.com
+- +.rakuten.ca
+- +.rakuten.co.jp
+- +.rakuten.com
+- +.rakuten.com.tw
+- +.rakuten.ne.jp
+- +.rakuten.tw
+- +.rclon.com
+- +.rebates.jp

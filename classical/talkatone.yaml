@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: talkatone
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,agkn.com
+- DOMAIN-SUFFIX,cohere.com
+- DOMAIN-SUFFIX,inmobi.com
+- DOMAIN-SUFFIX,ip-api.com
+- DOMAIN-SUFFIX,kochava.com
+- DOMAIN-SUFFIX,mobilefuse.com
+- DOMAIN-SUFFIX,talkatone.com
+- DOMAIN-SUFFIX,tktn.at
+- DOMAIN-SUFFIX,tktn.be

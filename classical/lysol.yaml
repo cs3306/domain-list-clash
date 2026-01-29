@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: lysol
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,lizol.co.in
+- DOMAIN-SUFFIX,lysol.ca
+- DOMAIN-SUFFIX,lysol.cl
+- DOMAIN-SUFFIX,lysol.cn
+- DOMAIN-SUFFIX,lysol.co.cr
+- DOMAIN-SUFFIX,lysol.com
+- DOMAIN-SUFFIX,lysol.com.cn
+- DOMAIN-SUFFIX,lysol.com.mx
+- DOMAIN-SUFFIX,lysol.net

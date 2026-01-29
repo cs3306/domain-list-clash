@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: clarivate
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,newisiknowledge.com
+- DOMAIN-SUFFIX,isiknowledge.com
+- DOMAIN-SUFFIX,clarivate.com
+- DOMAIN-SUFFIX,webofknowledge.com
+- DOMAIN-SUFFIX,webofscience.com

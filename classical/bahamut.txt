@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: bahamut
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net

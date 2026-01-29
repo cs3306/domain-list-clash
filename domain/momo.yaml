@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: momo
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.momo.dm
+- +.momo5188.com
+- +.momomall.com.tw
+- +.momoshop.com.tw

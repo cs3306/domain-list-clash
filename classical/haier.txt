@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: haier
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,ehaier.com
+DOMAIN-SUFFIX,haier.com
+DOMAIN-SUFFIX,haier.net
+DOMAIN-SUFFIX,haiersmarthomes.com

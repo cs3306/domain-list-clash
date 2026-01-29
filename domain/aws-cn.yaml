@@ -1,0 +1,32 @@
+# Generated from v2fly/domain-list-community
+# Source: aws-cn
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 25
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.a2z.org.cn
+- +.amazonaws.cn
+- +.amazonaws.com.cn
+- +.amazonwebservices.com.cn
+- +.amazonworkdocs.cn
+- +.amazonworkdocs.com.cn
+- +.asfiovnxocqpcry.com.cn
+- +.aws-border.cn
+- +.aws-icp-domain-manager.cn
+- +.awsapps.cn
+- +.awsapps.com.cn
+- +.awsstatic.cn
+- +.cloudfront-cn.net
+- +.cloudfront-test.cn
+- +.cloudfront.cn
+- +.nwcdcloud.cn
+- +.nwcdcloud.com.cn
+- +.nwcddns.cn
+- +.nwcdinfosec.cn
+- +.route53.cn
+- +.sagemaker.com.cn
+- +.amzndns-cn.biz
+- +.amzndns-cn.cn
+- +.amzndns-cn.com
+- +.amzndns-cn.net

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: pubg
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,kraftonde.com
+DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,pubg.com
+DOMAIN,pubg1.battleye.com

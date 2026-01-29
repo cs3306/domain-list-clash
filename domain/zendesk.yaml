@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: zendesk
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.outbound.io
+- +.zdassets.com
+- +.zdusercontent.com
+- +.zendesk.com
+- +.zndsk.com
+- +.zopim.com

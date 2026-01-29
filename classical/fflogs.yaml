@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: fflogs
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,fflogs.com
+- DOMAIN-SUFFIX,rpglogs.com
+- DOMAIN-SUFFIX,rpglogs.cn

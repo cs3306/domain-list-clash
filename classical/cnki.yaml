@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: cnki
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,cnki.com.cn
+- DOMAIN-SUFFIX,cnki.net
+- DOMAIN-SUFFIX,chndoi.org

@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: ngrok
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,ngrok-free.app
+- DOMAIN-SUFFIX,ngrok-free.dev
+- DOMAIN-SUFFIX,ngrok-free.pizza
+- DOMAIN-SUFFIX,ngrok.app
+- DOMAIN-SUFFIX,ngrok.com
+- DOMAIN-SUFFIX,ngrok.dev
+- DOMAIN-SUFFIX,ngrok.io
+- DOMAIN-SUFFIX,ngrok.pizza
+- DOMAIN-SUFFIX,ngrok.pro

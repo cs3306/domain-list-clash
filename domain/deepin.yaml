@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: deepin
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 15
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.deepin.cn
+- +.deepin.com
+- +.deepin.io
+- +.deepin.org
+- +.deepin.org.cn
+- +.sndu.cn
+- +.51changxie.com
+- +.51jianxie.cn
+- +.91changxie.com
+- +.changxie.com
+- +.chinauos.com
+- +.linglong.space
+- +.linyaps.org.cn
+- +.uniontech.cn
+- +.uniontech.com

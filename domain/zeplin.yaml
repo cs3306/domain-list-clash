@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: zeplin
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.zeplin.dev
+- +.zeplin.io

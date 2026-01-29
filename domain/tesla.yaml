@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: tesla
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.solarcity.com
+- +.tesla.cn
+- +.tesla.com
+- +.tesla.com.cn
+- +.tesla.services
+- +.teslaenergy.services
+- +.teslamotors.cn
+- +.teslamotors.com
+- +.teslamotors.com.cn
+- +.teslazta.net
+- +.ts.la
+- tesla-cdn.thron.cn
+- tesla-cdn.thron.com

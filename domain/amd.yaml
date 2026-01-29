@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: amd
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.amd.com
+- +.amd.com.cn
+- +.amdfanstore.com
+- +.radeon.com
+- www.amd.com

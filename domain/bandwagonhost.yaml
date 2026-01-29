@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: bandwagonhost
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bandwagonhost.com
+- +.bwh1.net
+- +.bwh8.net
+- +.bwh81.net
+- +.bwh88.net
+- +.bwh89.net
+- +.bwhstatus.com

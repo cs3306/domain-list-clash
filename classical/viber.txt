@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: viber
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
+DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net

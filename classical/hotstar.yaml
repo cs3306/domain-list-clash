@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: hotstar
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,hotstar.com
+- DOMAIN-SUFFIX,hotstar-cdn.net
+- DOMAIN-SUFFIX,hotstar-labs.com
+- DOMAIN-SUFFIX,hotstarext.com
+- DOMAIN-SUFFIX,hsprepack.akamaized.net

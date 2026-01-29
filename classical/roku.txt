@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: roku
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,fandango.com
+DOMAIN-SUFFIX,mgo.com
+DOMAIN-SUFFIX,mgo-images.com
+DOMAIN-SUFFIX,ravm.tv
+DOMAIN-SUFFIX,roku.com
+DOMAIN-SUFFIX,rokutime.com

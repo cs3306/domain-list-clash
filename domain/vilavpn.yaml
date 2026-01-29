@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: vilavpn
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.vilavpn.com
+- +.vilavpn.xyz
+- +.vilavpn1.xyz
+- +.vilavpn2.xyz
+- +.vilavpn3.xyz
+- +.vilavpn4.xyz
+- +.vilavpn5.xyz
+- +.vilavpn6.xyz
+- +.vilavpn7.xyz

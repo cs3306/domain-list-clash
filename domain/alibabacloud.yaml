@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: alibabacloud
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.alibabacloud.co.in
+- +.alibabacloud.com
+- +.alibabacloud.com.au
+- +.alibabacloud.com.hk
+- +.alibabacloud.com.my
+- +.alibabacloud.com.sg
+- +.alibabacloud.com.tw
+- +.alicloud.com

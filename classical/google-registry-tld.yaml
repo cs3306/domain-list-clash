@@ -1,0 +1,26 @@
+# Generated from v2fly/domain-list-community
+# Source: google-registry-tld
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 20
+
+payload:
+- DOMAIN-KEYWORD,meme
+- DOMAIN-KEYWORD,ing
+- DOMAIN-KEYWORD,foo
+- DOMAIN-KEYWORD,zip
+- DOMAIN-KEYWORD,mov
+- DOMAIN-KEYWORD,nexus
+- DOMAIN-KEYWORD,dad
+- DOMAIN-KEYWORD,phd
+- DOMAIN-KEYWORD,prof
+- DOMAIN-KEYWORD,esq
+- DOMAIN-KEYWORD,rsvp
+- DOMAIN-KEYWORD,boo
+- DOMAIN-KEYWORD,day
+- DOMAIN-KEYWORD,new
+- DOMAIN-KEYWORD,dev
+- DOMAIN-KEYWORD,page
+- DOMAIN-KEYWORD,app
+- DOMAIN-KEYWORD,how
+- DOMAIN-KEYWORD,soy
+- DOMAIN-KEYWORD,xn--q9jyb4c

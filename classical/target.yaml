@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: target
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-KEYWORD,target
+- DOMAIN-SUFFIX,target.com
+- DOMAIN-SUFFIX,targetimg1.com

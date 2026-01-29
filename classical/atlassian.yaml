@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: atlassian
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,atlassian.com
+- DOMAIN-SUFFIX,atlassian.net
+- DOMAIN-SUFFIX,bitbucket.io
+- DOMAIN-SUFFIX,bitbucket.org
+- DOMAIN-SUFFIX,statuspage.io
+- DOMAIN-SUFFIX,trello.com
+- DOMAIN-SUFFIX,trellocdn.com

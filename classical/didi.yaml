@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: didi
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,didi-food.com
+- DOMAIN-SUFFIX,didi.cn
+- DOMAIN-SUFFIX,didialift.com
+- DOMAIN-SUFFIX,didiaustralia.blog
+- DOMAIN-SUFFIX,didichuxing.com
+- DOMAIN-SUFFIX,didiglobal.com
+- DOMAIN-SUFFIX,didimobility.co.jp
+- DOMAIN-SUFFIX,didistatic.com
+- DOMAIN-SUFFIX,diditaxi.com.cn
+- DOMAIN-SUFFIX,udache.com
+- DOMAIN-SUFFIX,xiaojukeji.com

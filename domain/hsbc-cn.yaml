@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: hsbc-cn
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.hsbc.com.cn
+- +.hsbcqh.com.cn
+- +.hsbcinsurance.com.cn

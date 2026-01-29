@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: category-ads-ir
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,adivery.com
+- DOMAIN-SUFFIX,adivery.ir
+- DOMAIN-SUFFIX,kaprila.com
+- DOMAIN-SUFFIX,najva.com
+- DOMAIN-SUFFIX,sabavision.com
+- DOMAIN-SUFFIX,tapsell.ir
+- DOMAIN-SUFFIX,yektanet.com

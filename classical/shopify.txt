@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: shopify
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifystatus.com
+DOMAIN-SUFFIX,shopifysvc.com

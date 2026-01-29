@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: spotify-ads
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+DOMAIN,adeventtracker.spotify.com
+DOMAIN,adstudio-assets.scdn.co
+DOMAIN,bloodhound.spotify.com

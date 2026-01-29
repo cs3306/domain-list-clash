@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: brightcove
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bcove.video
+- +.bcovlive.io
+- +.bcvp0rtal.com
+- +.boltdns.net
+- +.brightcove.com
+- +.brightcove.net
+- +.brightcove.services
+- +.brightcovecdn.com
+- +.videojs.com
+- +.zencdn.net
+- +.zencoder.com
+- bcovlive-a.akamaihd.net
+- bcsecure01-a.akamaihd.net
+- brightcove.imgix.net

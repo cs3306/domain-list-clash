@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: gateio
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services

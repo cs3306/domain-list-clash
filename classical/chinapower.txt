@@ -1,0 +1,6 @@
+# Generated from v2fly/domain-list-community
+# Source: chinapower
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 1
+
+DOMAIN,chinapower.csis.org

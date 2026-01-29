@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: douyu
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,douyu.com
+- DOMAIN-SUFFIX,douyu.tv
+- DOMAIN-SUFFIX,douyucdn.cn
+- DOMAIN-SUFFIX,douyucdn2.cn
+- DOMAIN-SUFFIX,douyuscdn.com
+- DOMAIN-SUFFIX,douyutv.com

@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: avaxhome
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,avxhm.se
+- DOMAIN-SUFFIX,avh.world
+- DOMAIN-SUFFIX,avxde.org
+- DOMAIN-SUFFIX,avxhm.is
+- DOMAIN-SUFFIX,avxlive.icu
+- DOMAIN-SUFFIX,xsava.xyz
+- DOMAIN-SUFFIX,zavat.pw

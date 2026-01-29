@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: terabox
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,1024terabox.com
+DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,freeterabox.com
+DOMAIN-SUFFIX,nephobox.com
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,terabox1024.com
+DOMAIN-SUFFIX,teraboxcdn.com

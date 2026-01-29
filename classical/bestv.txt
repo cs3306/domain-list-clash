@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: bestv
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,bbtv.cn
+DOMAIN-SUFFIX,bestv.com.cn
+DOMAIN-SUFFIX,bestvcdn.cn
+DOMAIN-SUFFIX,bestvcdn.com
+DOMAIN-SUFFIX,bestvcdn.com.cn
+DOMAIN-SUFFIX,bestvcdn.net
+DOMAIN-SUFFIX,smgbb.cn

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: xueqiu
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.aiganggu.com
+- +.danjuanfunds.com
+- +.imedao.com
+- +.snowballsecurities.com
+- +.xueqiu.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: tutanota
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,keemail.me
+- DOMAIN-SUFFIX,tuta.com
+- DOMAIN-SUFFIX,tuta.io
+- DOMAIN-SUFFIX,tutamail.com
+- DOMAIN-SUFFIX,tutanota.com
+- DOMAIN-SUFFIX,tutanota.de

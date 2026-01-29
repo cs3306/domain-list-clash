@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: corel
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.corel.com
+- +.corel.net
+- +.coreldraw.app
+- +.coreldraw.com
+- +.corelstore.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: b3log
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,b3log.org
+- DOMAIN-SUFFIX,b3logfile.com
+- DOMAIN-SUFFIX,hacpai.com
+- DOMAIN-SUFFIX,ld246.com

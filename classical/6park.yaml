@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: 6park
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,6park.com
+- DOMAIN-SUFFIX,6parkbbs.com
+- DOMAIN-SUFFIX,6parknews.com
+- DOMAIN-SUFFIX,cool18.com
+- DOMAIN-SUFFIX,popo8.com
+- DOMAIN-SUFFIX,parkvv.com
+- DOMAIN-SUFFIX,xwbo.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: stripe
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,link.com
+DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com

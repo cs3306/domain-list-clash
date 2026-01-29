@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: wjx
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,sojump.com
+DOMAIN-SUFFIX,wjx.cn
+DOMAIN-SUFFIX,wjx.com
+DOMAIN-SUFFIX,wjx.top

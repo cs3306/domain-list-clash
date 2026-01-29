@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: monotype
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.fontexplorerx.com
+- +.fonts.com
+- +.fonts.net
+- +.fontbook.com
+- +.fontshop.com
+- +.fstopimages.com
+- fontshop-prod-responsive-images.s3.amazonaws.com
+- +.linotype.com
+- +.myfonts.com
+- +.myfonts.net
+- +.monotype.com
+- +.monotypeimaging.com
+- +.bitstream.com
+- +.itcfonts.com

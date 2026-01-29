@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: garena
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- avatargarenanow-a.akamaihd.net
+- cdngarenanow-a.akamaihd.net
+- dlgarenanow-a.akamaihd.net
+- dlmobilegarena-a.akamaihd.net
+- +.garena.co.id
+- +.garena.co.th
+- +.garena.com
+- +.garena.live
+- +.garena.my
+- +.garena.ph
+- +.garena.sg
+- +.garena.tv
+- +.garena.tw
+- +.garena.vn
+- +.garenanow.com
+- +.seagroup.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: herogame
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.hero.com
+- +.herogame.com
+- +.heroesports.com
+- +.shyxhy.com
+- +.yingxiong.com

@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: wildberries
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,wb-basket.ru
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbpay.ru
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildberries.ru

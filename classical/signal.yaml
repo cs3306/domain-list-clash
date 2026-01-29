@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: signal
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,signal.art
+- DOMAIN-SUFFIX,signal.group
+- DOMAIN-SUFFIX,signal.link
+- DOMAIN-SUFFIX,signal.me
+- DOMAIN-SUFFIX,signal.tube
+- DOMAIN-SUFFIX,signal.org
+- DOMAIN-SUFFIX,signalusers.org
+- DOMAIN-SUFFIX,whispersystems.org

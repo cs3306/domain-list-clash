@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: slack
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.slack-core.com
+- +.slack-edge.com
+- +.slack-files.com
+- +.slack-imgs.com
+- +.slack-msgs.com
+- +.slack-redir.net
+- +.slack.com
+- +.slackb.com
+- +.slackcertified.com
+- +.slackdemo.com
+- +.slackhq.com

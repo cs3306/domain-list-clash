@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: dyna
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.dynacw.co.jp
+- +.dynacw.com
+- +.dynacw.com.cn
+- +.dynacw.com.hk
+- +.dynacw.com.tw

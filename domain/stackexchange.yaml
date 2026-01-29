@@ -1,0 +1,32 @@
+# Generated from v2fly/domain-list-community
+# Source: stackexchange
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 25
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.askubuntu.com
+- +.blogoverflow.com
+- +.codeforaliving.io
+- +.mathoverflow.net
+- +.serverfault.com
+- +.sstatic.net
+- +.stackapps.com
+- +.stackauth.com
+- +.stackexchange.com
+- +.stackmod.blog
+- +.stackoverflow.blog
+- +.stackoverflow.co
+- +.stackoverflow.com
+- +.stackoverflow.email
+- +.stackoverflow.help
+- +.stackoverflow.net
+- +.stackoverflowbusiness.com
+- +.stackoverflowcareers.com
+- +.stackoverflowjobs.com
+- +.stackoverflowsolutions.com
+- +.stackoverflowteams.com
+- +.stacksnippets.net
+- +.superuser.com
+- +.tex-talk.net
+- +.thesffblog.com

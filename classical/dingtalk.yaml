@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: dingtalk
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 10
+
+payload:
+- DOMAIN-SUFFIX,ddurl.to
+- DOMAIN-SUFFIX,dingding.xin
+- DOMAIN-SUFFIX,dingtalk.cn
+- DOMAIN-SUFFIX,dingtalk.com
+- DOMAIN-SUFFIX,dingtalk.net
+- DOMAIN-SUFFIX,dingtalkapps.com
+- DOMAIN-SUFFIX,dingtalkcloud.com
+- DOMAIN-SUFFIX,laiwang.com
+- DOMAIN-SUFFIX,lwurl.to
+- DOMAIN-SUFFIX,ztna-dingtalk.com

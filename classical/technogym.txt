@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: technogym
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,letsmoveforabetterworld.com
+DOMAIN-SUFFIX,technogym.bg
+DOMAIN-SUFFIX,technogym.ch
+DOMAIN-SUFFIX,technogym.com
+DOMAIN-SUFFIX,technogym.com.br
+DOMAIN-SUFFIX,technogym.ru
+DOMAIN-SUFFIX,technogym.su
+DOMAIN-SUFFIX,wellnessinstitute.com

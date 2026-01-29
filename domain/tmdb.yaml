@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: tmdb
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.themoviedb.org
+- +.tmdb.org
+- tmdb-image-prod.b-cdn.net

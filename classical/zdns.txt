@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: zdns
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 12
+
+DOMAIN-SUFFIX,zcmbc.com.cn
+DOMAIN-SUFFIX,zdns.cn
+DOMAIN-SUFFIX,zdns.net.cn
+DOMAIN-SUFFIX,zdns.org.cn
+DOMAIN-SUFFIX,zdnscloud.biz
+DOMAIN-SUFFIX,zdnscloud.cn
+DOMAIN-SUFFIX,zdnscloud.com
+DOMAIN-SUFFIX,zdnscloud.com.cn
+DOMAIN-SUFFIX,zdnscloud.info
+DOMAIN-SUFFIX,zdnscloud.net
+DOMAIN-SUFFIX,zdnscloud.net.cn
+DOMAIN-SUFFIX,zdnscloud.org.cn

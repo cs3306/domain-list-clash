@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: vodafone
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.myvodafone.com.au
+- +.myvodafone.com.ws
+- +.vodafone.co.uk
+- +.vodafone.com
+- +.vodafone.com.au
+- +.vodafone.com.tr
+- +.vodafone.de
+- +.vodafone.it

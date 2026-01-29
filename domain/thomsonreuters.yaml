@@ -1,0 +1,39 @@
+# Generated from v2fly/domain-list-community
+# Source: thomsonreuters
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 32
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.reut.rs
+- +.reuters.com
+- +.reuters.tv
+- +.reutersmedia.net
+- +.aranzadi.es
+- +.corepublishingsolutions.com
+- +.elite.com
+- +.legaltracker.com
+- +.livrariart.com.br
+- +.reutersagency.cn
+- +.sweetandmaxwell.co.uk
+- +.thomsonreuters.ca
+- +.thomsonreuters.cn
+- +.thomsonreuters.co.jp
+- +.thomsonreuters.co.kr
+- +.thomsonreuters.co.nz
+- +.thomsonreuters.co.uk
+- +.thomsonreuters.com
+- +.thomsonreuters.com.ar
+- +.thomsonreuters.com.au
+- +.thomsonreuters.com.br
+- +.thomsonreuters.com.hk
+- +.thomsonreuters.com.my
+- +.thomsonreuters.com.pe
+- +.thomsonreuters.com.sg
+- +.thomsonreuters.com.tr
+- +.thomsonreuters.es
+- +.thomsonreuters.in
+- +.thomsonreuters.ru
+- +.thomsonreutersmexico.com
+- +.tmsnrt.rs
+- +.tr.com

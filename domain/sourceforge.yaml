@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: sourceforge
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.sourceforge.com
+- +.sourceforge.net
+- +.sf.net
+- +.fsdn.com

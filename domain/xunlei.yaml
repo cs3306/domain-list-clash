@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: xunlei
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.sandai.net
+- +.thunderurl.com
+- +.xunlei.com
+- +.00cdn.com
+- +.88cdn.com
+- +.p2cdn.com
+- +.thundercdn.com
+- +.xycloud.com
+- +.xycdn.com

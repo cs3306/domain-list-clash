@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: juejin
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.juejin.cn
+- +.juejin.im
+- +.xitu.io
+- p1-juejin.byteimg.com
+- p2-juejin.byteimg.com
+- p3-juejin.byteimg.com
+- p4-juejin.byteimg.com
+- p5-juejin.byteimg.com
+- p6-juejin.byteimg.com
+- p7-juejin.byteimg.com
+- p8-juejin.byteimg.com
+- p9-juejin.byteimg.com

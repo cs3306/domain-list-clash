@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: meizu
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,flyme.cn
+DOMAIN-SUFFIX,flyme.com
+DOMAIN-SUFFIX,flymeauto.com
+DOMAIN-SUFFIX,meizu.cn
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,mzres.com

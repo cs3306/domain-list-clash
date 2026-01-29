@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: asus
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,asus.com
+- DOMAIN-SUFFIX,asus.com.cn
+- DOMAIN-SUFFIX,asuscloud.com
+- DOMAIN-SUFFIX,asuswebstorage.com

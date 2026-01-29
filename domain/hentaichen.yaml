@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: hentaichen
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.h-chan.me
+- +.hentai-chan.com
+- +.hentai-chan.live
+- +.hentaichan.live
+- +.hentaichan.me
+- +.imgschan.xyz

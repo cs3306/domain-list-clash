@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: didi
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.didi-food.com
+- +.didi.cn
+- +.didialift.com
+- +.didiaustralia.blog
+- +.didichuxing.com
+- +.didiglobal.com
+- +.didimobility.co.jp
+- +.didistatic.com
+- +.diditaxi.com.cn
+- +.udache.com
+- +.xiaojukeji.com

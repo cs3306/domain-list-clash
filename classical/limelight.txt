@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: limelight
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net

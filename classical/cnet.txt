@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: cnet
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,cnet.co.kr
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnet.de
+DOMAIN-SUFFIX,cnetfrance.fr
+DOMAIN-SUFFIX,download.com

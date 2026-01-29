@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: oracle
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ateam-oracle.com
+- +.bronto.com
+- +.covid19-rx.org
+- +.covid19rx.org
+- +.oracle.com
+- +.oraclecloud.com
+- +.oraclefoundation.org
+- +.oracleimg.com
+- +.oracleinfinity.io
+- +.sun.com
+- +.virtualbox.org
+- +.addthis.com
+- +.addthiscdn.com
+- +.addthisedge.com
+- +.java.com
+- +.java.net

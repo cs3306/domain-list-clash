@@ -1,0 +1,35 @@
+# Generated from v2fly/domain-list-community
+# Source: discord
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 28
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.dis.gd
+- +.discord.co
+- +.discord.com
+- +.discord.design
+- +.discord.dev
+- +.discord.gg
+- +.discord.gift
+- +.discord.gifts
+- +.discord.media
+- +.discord.new
+- +.discord.store
+- +.discord.tools
+- +.discord-activities.com
+- +.discordactivities.com
+- +.discordapp.com
+- +.discordapp.net
+- +.discordmerch.com
+- +.discordpartygames.com
+- +.discordsays.com
+- +.discordstatus.com
+- +.airhorn.solutions
+- +.airhornbot.com
+- +.bigbeans.solutions
+- +.watchanimeattheoffice.com
+- +.discordapp.io
+- +.discordcdn.com
+- discord-attachments-uploads-prd.storage.googleapis.com
+- hammerandchisel.ssl.zendesk.com

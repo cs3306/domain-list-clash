@@ -1,0 +1,30 @@
+# Generated from v2fly/domain-list-community
+# Source: spotify
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 23
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.byspotify.com
+- +.pscdn.co
+- +.scdn.co
+- +.spoti.fi
+- +.spotify-everywhere.com
+- +.spotify.com
+- +.spotify.design
+- +.spotifycdn.com
+- +.spotifycdn.net
+- +.spotifycharts.com
+- +.spotifycodes.com
+- +.spotifyforbrands.com
+- +.spotifyjobs.com
+- +.spotify.link
+- +.tospotify.com
+- audio-ak-spotify-com.akamaized.net
+- audio4-ak-spotify-com.akamaized.net
+- cdn-spotify-experiments.conductrics.com
+- heads-ak-spotify-com.akamaized.net
+- heads4-ak-spotify-com.akamaized.net
+- spotify.com.edgesuite.net
+- spotify.map.fastly.net
+- spotify.map.fastlylb.net

@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: hamivideo
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- apl-hamivideo.cdn.hinet.net
+- hamivideo.hinet.net
+- mobilelive-hamivideo.cdn.hinet.net
+- pvr-hamivideo.cdn.hinet.net
+- scc.ott.hinet.net
+- static-hamivideo.cdn.hinet.net
+- tvcastlive-hamivideo.cdn.hinet.net
+- weblive-hamivideo.cdn.hinet.net

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: opensourceinsights
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,deps.dev
+- DOMAIN-SUFFIX,deps.info
+- DOMAIN-SUFFIX,opensourceinsight.dev
+- DOMAIN-SUFFIX,opensourceinsights.dev

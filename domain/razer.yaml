@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: razer
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.razer.com
+- +.razerapi.com
+- +.razerofficial.com
+- +.razersynapse.com
+- +.razersupport.com
+- +.razerzone.com
+- +.razerzone.jp
+- +.respawnbyrazer.com
+- +.rzr.to

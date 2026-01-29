@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: idg
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.idg.com
+- +.idgcommunications.net
+- +.idgconnect-direct.com
+- +.idgconnect-resources.com
+- +.idgconnect.com
+- +.idgesg.net
+- +.idginc.com
+- +.idginsiderpro.com

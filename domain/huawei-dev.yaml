@@ -1,0 +1,30 @@
+# Generated from v2fly/domain-list-community
+# Source: huawei-dev
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 23
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bisheng.cn
+- +.bishengcompiler.cn
+- +.devui.design
+- +.gneec.com
+- +.gneec.com.cn
+- +.gneec3.com
+- +.gneec4.com
+- +.gneec7.com
+- +.harmonyos.com
+- +.hiascend.cn
+- +.hiascend.com
+- +.hiclc.com
+- +.hikunpeng.cn
+- +.hikunpeng.com
+- +.hikunpeng.com.cn
+- +.hikunpeng.net
+- +.hisilicon.com
+- +.hisilicon.com.cn
+- +.huaweiapaas.com
+- +.mindspore.cn
+- +.owsgo.com
+- +.saasops.tech
+- +.teleows.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: madshi
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,madshi.net
+- DOMAIN-SUFFIX,madvr.com
+- DOMAIN-SUFFIX,madvr.net
+- DOMAIN-SUFFIX,madvrlabs.llc

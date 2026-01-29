@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: hcaptcha
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,botstop.com
+- DOMAIN-SUFFIX,hcaptcha.com
+- DOMAIN-SUFFIX,hcaptchastatus.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: perplexity
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,perplexity.ai
+- DOMAIN-SUFFIX,perplexity.com
+- DOMAIN-SUFFIX,pplx.ai
+- DOMAIN,pplx-res.cloudinary.com

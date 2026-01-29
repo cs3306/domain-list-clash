@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: amap
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 15
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.adashx.ut.amap.com
+- +.dualstack-logs.amap.com
+- +.logs.amap.com
+- +.optimus-ads.amap.com
+- +.v6-adashx.ut.amap.com
+- +.a-map.cn
+- +.a-map.co
+- +.a-map.link
+- +.a-map.vip
+- +.acloudrender.com
+- +.amap.com
+- +.amapauto.com
+- +.anav.com
+- +.autonavi.com
+- +.gaode.com

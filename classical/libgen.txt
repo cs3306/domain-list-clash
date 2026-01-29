@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: libgen
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,libgen.life
+DOMAIN-SUFFIX,libgen.fun
+DOMAIN-SUFFIX,library.lol
+DOMAIN-SUFFIX,gen.lib.rus.ec
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.me
+DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libgen.st

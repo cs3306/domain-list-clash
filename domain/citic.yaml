@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: citic
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 15
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cfc108.com
+- +.chinaamc.com
+- +.citic-prudential.com.cn
+- +.citicbank.com
+- +.citiccapital.com
+- +.citiciam.com
+- +.citicifh.com
+- +.citicprufunds.com.cn
+- +.citics.com.hk
+- +.citicsf.com
+- +.clsa.com
+- +.cncbinternational.com
+- +.csc108.com
+- +.csci.hk
+- +.ecitic.com

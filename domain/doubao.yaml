@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: doubao
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.butterfly-static.cn
+- +.butterflyai.cn
+- +.coze.cn
+- +.coze.site
+- +.cozebaas.cn
+- +.cozefn.cn
+- +.cozeide.cn
+- +.doubao.com
+- +.doubaocdn.com
+- +.hi-butterfly.cn
+- +.maoxiangai.com
+- +.myparallelstory.com
+- +.picpic-ai.cn
+- +.pixeldance.com

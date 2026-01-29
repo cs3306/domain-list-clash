@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: vimeo
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.vhx.tv
+- +.vhxqa1.com
+- +.vhxqa2.com
+- +.vhxqa3.com
+- +.vhxqa4.com
+- +.vhxqa6.com
+- +.vimeo-staging.com
+- +.vimeo-staging2.com
+- +.vimeo.com
+- +.vimeo.fr
+- +.vimeobusiness.com
+- +.vimeocdn.com
+- +.vimeogoods.com
+- +.vimeoondemand.com
+- +.vimeostatus.com
+- +.livestream.com

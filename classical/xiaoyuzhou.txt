@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: xiaoyuzhou
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,xyzfm.space
+DOMAIN-SUFFIX,xyzfm.link
+DOMAIN-SUFFIX,xyzcdn.net
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
+DOMAIN-SUFFIX,podcast.xyz

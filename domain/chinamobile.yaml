@@ -1,0 +1,33 @@
+# Generated from v2fly/domain-list-community
+# Source: chinamobile
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 26
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.10086.cn
+- +.139.com
+- +.chinamobile.com
+- +.chinamobileltd.com
+- +.speedtest.hk.chinamobile.com
+- +.speedtestbb.hk.chinamobile.com
+- +.cmread.com
+- +.cmvideo.cn
+- +.migu.cn
+- +.migucloud.com
+- +.migufun.com
+- +.miguvideo.com
+- +.cmft.com.cn
+- +.cmcc-cs.cn
+- +.online-cmcc.cn
+- +.andfx.cn
+- +.andfx.net
+- +.cmicapm.com
+- +.cmicrwx.cn
+- +.cmicvip.cn
+- +.cmpassport.com
+- +.cytxl.com.cn
+- +.fetion-portal.com
+- +.fetionpic.com
+- +.mmarket.com
+- +.mmarket6.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: theporndude
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,porndude2.com
+DOMAIN-SUFFIX,porndudecasting.com
+DOMAIN-SUFFIX,pornsites.com
+DOMAIN-SUFFIX,pornwebmasters.com
+DOMAIN-SUFFIX,theporndude.cc
+DOMAIN-SUFFIX,theporndude.com
+DOMAIN-SUFFIX,theporndude.vip

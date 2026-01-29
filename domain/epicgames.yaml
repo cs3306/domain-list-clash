@@ -1,0 +1,35 @@
+# Generated from v2fly/domain-list-community
+# Source: epicgames
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 28
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.3lateral.com
+- +.artstation.com
+- +.capturingreality.com
+- +.cubicmotion.com
+- +.battlebreakers.com
+- +.eac-cdn.com
+- +.easy.ac
+- +.easyanticheat.net
+- +.epicgames.com
+- +.epicgames.dev
+- +.epicgamescdn.com
+- +.fab.com
+- +.fortnite.com
+- +.hyprsense.com
+- +.paragon.com
+- +.playparagon.com
+- +.quixel.com
+- +.quixel.se
+- +.radgametools.com
+- +.realityscan.com
+- +.roborecall.com
+- +.shadowcomplex.com
+- +.sketchfab.com
+- +.spyjinx.com
+- +.twinmotion.com
+- +.unrealengine.com
+- +.unrealtournament.com
+- +.egdownload.fastly-edge.com

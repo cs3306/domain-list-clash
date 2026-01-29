@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: tcl
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.tclai.top
+- +.tcl.com
+- +.tcl.com.cn
+- +.tcltech.com
+- +.leiniao.com

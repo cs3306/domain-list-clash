@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: fandom
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cursecdn.com
+- +.fandom.com
+- +.wikia.com
+- +.wikia.org
+- +.dndbeyond.com
+- +.futhead.com
+- +.gamepedia.com
+- +.muthead.com
+- +.cortexrpg.com
+- +.fanatical.com
+- +.wikia.nocookie.net
+- fandom.zendesk.com

@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: hkt
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.1010.com.hk
+- +.esmarthealth.com
+- +.hkcsl.com
+- +.hkt-enterprise.com
+- +.hkt-eye.com
+- +.hkt.com
+- +.hkteducation.com
+- +.hktpremier.com
+- +.hktshop.com
+- +.netvigator.com
+- +.theclub.com.hk
+- +.uhub.com

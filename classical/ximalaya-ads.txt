@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: ximalaya-ads
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com

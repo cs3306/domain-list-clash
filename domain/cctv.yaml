@@ -1,0 +1,49 @@
+# Generated from v2fly/domain-list-community
+# Source: cctv
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 42
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cctv.cn
+- +.cctv.com
+- +.cctvlib.cn
+- +.cctvlib.com.cn
+- +.cctvlibrary.cn
+- +.cctvlibrary.com.cn
+- +.cctvpic.com
+- +.cctvpro.cn
+- +.cctvpro.com.cn
+- +.chinaepg.cn
+- +.chinalive.com
+- +.chinaott.com
+- +.citv.net.cn
+- +.cnms.net.cn
+- +.cntv.cn
+- +.cntv.com.cn
+- +.cntvwb.cn
+- +.gjgbdszt.cn
+- +.gjgbdszt.com.cn
+- +.gjgbdszt.net.cn
+- +.icntvcdn.com
+- +.ipanda.cn
+- +.ipanda.com
+- +.ipanda.com.cn
+- +.ipanda.net
+- +.livechina.cn
+- +.livechina.com
+- +.olympicchannelchina.cn
+- +.ottcn.com
+- +.tvcc.cn
+- +.tvcc.com.cn
+- +.xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+- +.xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+- +.xn--fiq53l90et9fpncc7joo6apn8a.cn
+- +.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+- +.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+- +.yangshipin.cn
+- +.zggbdszt.cn
+- +.zggbdszt.com.cn
+- +.zggbdszt.net.cn
+- +.zygbdszt.net.cn
+- +.ad.cctv.com

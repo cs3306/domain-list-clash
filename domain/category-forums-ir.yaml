@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: category-forums-ir
+# Updated: 2026-01-29 04:09:53 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.quera.ir
+- +.quera.org

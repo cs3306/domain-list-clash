@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: qnap
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,myqnapcloud.com
+DOMAIN-SUFFIX,qlink.to
+DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,myqnapcloud.cn
+DOMAIN-SUFFIX,qlinkto.cn
+DOMAIN-SUFFIX,qnap.com.cn

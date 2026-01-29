@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: coursera
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,coursera-for-business.org
+- DOMAIN-SUFFIX,coursera.community
+- DOMAIN-SUFFIX,coursera.help
+- DOMAIN-SUFFIX,coursera.org

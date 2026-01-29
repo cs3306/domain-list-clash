@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: 2ch
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,2ch.hk
+DOMAIN-SUFFIX,2ch.life
+DOMAIN-SUFFIX,2ch.org
+DOMAIN-SUFFIX,2ch.su

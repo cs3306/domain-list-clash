@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: cheetahmobile
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,cmcm.com
+DOMAIN-SUFFIX,cmcmcdn.com
+DOMAIN-SUFFIX,liebao.cn
+DOMAIN-SUFFIX,duba.com
+DOMAIN-SUFFIX,duba.net
+DOMAIN-SUFFIX,ijinshan.com

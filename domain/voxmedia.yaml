@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: voxmedia
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cstatic.net
+- +.curbed.com
+- +.eater.com
+- +.funnyordie.com
+- +.meridian.net
+- +.polygon.com
+- +.racked.com
+- +.recode.net
+- +.sbnation.com
+- +.theverge.com
+- +.vox-cdn.com
+- +.vox.com
+- +.voxcreative.com
+- +.voxfieldguide.com
+- +.voxmedia.com
+- +.voxops.net

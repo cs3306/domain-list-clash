@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: wisekey
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,wisecoin.com
+DOMAIN-SUFFIX,wiseid.com
+DOMAIN-SUFFIX,wisekey.com
+DOMAIN-SUFFIX,wisekey.com.hk

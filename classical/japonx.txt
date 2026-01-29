@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: japonx
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,x18r.co
+DOMAIN-SUFFIX,x18r.com
+DOMAIN-SUFFIX,z18r.co
+DOMAIN-SUFFIX,z18r.com

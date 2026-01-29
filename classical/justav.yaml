@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: justav
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,hkporn.net
+- DOMAIN-SUFFIX,justav.net
+- DOMAIN-SUFFIX,twporn.net

@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: zeplin
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 2
+
+payload:
+- DOMAIN-SUFFIX,zeplin.dev
+- DOMAIN-SUFFIX,zeplin.io

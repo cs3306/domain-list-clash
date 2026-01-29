@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: dlsite
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.chobit.cc
+- +.ci-en.jp
+- +.ci-en.net
+- +.dlsite.com
+- +.dlsite.com.tw
+- +.dlsite.jp
+- +.dlsitestudio.com
+- +.nijiyome.jp
+- +.triokini.com

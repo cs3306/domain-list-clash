@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: tex
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,ctan.org
+- DOMAIN-SUFFIX,latex-project.org
+- DOMAIN-SUFFIX,miktex.org
+- DOMAIN-SUFFIX,tug.org

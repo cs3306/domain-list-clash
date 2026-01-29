@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: thetimes
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,driving.co.uk
+- DOMAIN-SUFFIX,mytimesplus.co.uk
+- DOMAIN-SUFFIX,sportswomanoftheyear.co.uk
+- DOMAIN-SUFFIX,sportswomenoftheyear.co.uk
+- DOMAIN-SUFFIX,the-tls.co.uk
+- DOMAIN-SUFFIX,thesundaytimes.co.uk
+- DOMAIN-SUFFIX,thetimes.co.uk
+- DOMAIN-SUFFIX,thetimes.ie
+- DOMAIN-SUFFIX,timesmembership.com

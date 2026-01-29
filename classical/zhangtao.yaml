@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: zhangtao
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,mob.com
+- DOMAIN-SUFFIX,sharesdk.cn
+- DOMAIN-SUFFIX,accuratead.cn
+- DOMAIN-SUFFIX,dutils.com
+- DOMAIN-SUFFIX,hiaiabc.com
+- DOMAIN-SUFFIX,mobsdks.com
+- DOMAIN-SUFFIX,yksdks.com

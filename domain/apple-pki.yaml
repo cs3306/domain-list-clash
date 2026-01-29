@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: apple-pki
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- certs-lb.apple.com.akadns.net
+- certs.apple.com
+- crl-lb.apple.com.akadns.net
+- crl.apple.com
+- ocsp-lb.apple.com.akadns.net
+- ocsp.apple.com
+- ocsp2-lb.apple.com.akadns.net
+- ocsp2.apple.com
+- valid.apple.com
+- valid.origin-apple.com.akadns.net

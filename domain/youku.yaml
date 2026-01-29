@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: youku
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.kumiao.com
+- +.youku.com
+- +.ykimg.com
+- +.mmstat.com
+- +.soku.com
+- +.cibntv.net

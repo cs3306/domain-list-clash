@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: tvb
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 13
+
+payload:
+- DOMAIN-SUFFIX,mytvsuper.com
+- DOMAIN-SUFFIX,tvb.com
+- DOMAIN-SUFFIX,bigbigchannel.com.hk
+- DOMAIN-SUFFIX,bigbigshop.com
+- DOMAIN-SUFFIX,encoretvb.com
+- DOMAIN-SUFFIX,tvb.com.au
+- DOMAIN-SUFFIX,tvbanywhere.com
+- DOMAIN-SUFFIX,tvbanywhere.com.sg
+- DOMAIN-SUFFIX,tvbc.com.cn
+- DOMAIN-SUFFIX,tvbeventpower.com.hk
+- DOMAIN-SUFFIX,tvbusa.com
+- DOMAIN-SUFFIX,tvbweekly.com
+- DOMAIN-SUFFIX,tvmedia.net.au

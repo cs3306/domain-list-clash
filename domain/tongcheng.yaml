@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: tongcheng
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.40017.cn
+- +.17u.cn
+- +.17u.net
+- +.17usoft.com
+- +.17usoft.net
+- +.elong.com
+- +.elongstatic.com
+- +.ly.com

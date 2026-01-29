@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: xueqiu
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,aiganggu.com
+DOMAIN-SUFFIX,danjuanfunds.com
+DOMAIN-SUFFIX,imedao.com
+DOMAIN-SUFFIX,snowballsecurities.com
+DOMAIN-SUFFIX,xueqiu.com

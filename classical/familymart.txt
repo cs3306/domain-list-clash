@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: familymart
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,famifun.com.tw
+DOMAIN-SUFFIX,family.co.jp
+DOMAIN-SUFFIX,family.com.tw
+DOMAIN-SUFFIX,familymart.com.cn
+DOMAIN-SUFFIX,familymart.com.my
+DOMAIN-SUFFIX,familymart.com.ph
+DOMAIN-SUFFIX,famima.vn

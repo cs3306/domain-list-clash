@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: archlinux
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,archlinux.org
+- DOMAIN-SUFFIX,archlinuxarm.org
+- DOMAIN-SUFFIX,archlinuxcn.org

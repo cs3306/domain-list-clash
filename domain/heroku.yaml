@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: heroku
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.heroku.co
+- +.heroku.com
+- +.heroku.me
+- +.herokuapp.com
+- +.herokucdn.com
+- +.herokucharge.com
+- +.herokussl.com
+- +.heroku-app.com
+- +.heroku-charge.com
+- +.codei.sh
+- +.codeish.co
+- +.codeish.io

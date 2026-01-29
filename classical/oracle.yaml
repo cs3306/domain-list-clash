@@ -1,0 +1,24 @@
+# Generated from v2fly/domain-list-community
+# Source: oracle
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 18
+
+payload:
+- DOMAIN-KEYWORD,oracle
+- DOMAIN-SUFFIX,ateam-oracle.com
+- DOMAIN-SUFFIX,bronto.com
+- DOMAIN-SUFFIX,covid19-rx.org
+- DOMAIN-SUFFIX,covid19rx.org
+- DOMAIN-SUFFIX,oracle.com
+- DOMAIN-SUFFIX,oraclecloud.com
+- DOMAIN-SUFFIX,oraclefoundation.org
+- DOMAIN-SUFFIX,oracleimg.com
+- DOMAIN-SUFFIX,oracleinfinity.io
+- DOMAIN-SUFFIX,sun.com
+- DOMAIN-SUFFIX,virtualbox.org
+- DOMAIN-SUFFIX,addthis.com
+- DOMAIN-SUFFIX,addthiscdn.com
+- DOMAIN-SUFFIX,addthisedge.com
+- DOMAIN-KEYWORD,java
+- DOMAIN-SUFFIX,java.com
+- DOMAIN-SUFFIX,java.net

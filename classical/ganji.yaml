@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: ganji
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,58ganji.com
+- DOMAIN-SUFFIX,58ganji-corp.com
+- DOMAIN-SUFFIX,ganji.com
+- DOMAIN-SUFFIX,ganjistatic1.com

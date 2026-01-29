@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: douyu
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.douyu.com
+- +.douyu.tv
+- +.douyucdn.cn
+- +.douyucdn2.cn
+- +.douyuscdn.com
+- +.douyutv.com

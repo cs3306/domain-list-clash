@@ -1,0 +1,27 @@
+# Generated from v2fly/domain-list-community
+# Source: samsung
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 21
+
+payload:
+- DOMAIN-KEYWORD,samsung
+- DOMAIN-KEYWORD,xn--cg4bki
+- DOMAIN-SUFFIX,galaxyappstore.com
+- DOMAIN-SUFFIX,galaxymobile.jp
+- DOMAIN-SUFFIX,game-platform.net
+- DOMAIN-SUFFIX,knoxemm.com
+- DOMAIN-SUFFIX,ospserver.net
+- DOMAIN-SUFFIX,samsung.com
+- DOMAIN-SUFFIX,samsungads.com
+- DOMAIN-SUFFIX,samsungapps.com
+- DOMAIN-SUFFIX,samsungcloud.com
+- DOMAIN-SUFFIX,samsungconsent.com
+- DOMAIN-SUFFIX,samsungdm.com
+- DOMAIN-SUFFIX,samsungeshop.com.cn
+- DOMAIN-SUFFIX,samsunggalaxyfriends.com
+- DOMAIN-SUFFIX,samsunghealth.com
+- DOMAIN-SUFFIX,samsungiotcloud.com
+- DOMAIN-SUFFIX,samsungknox.com
+- DOMAIN-SUFFIX,samsungosp.com
+- DOMAIN-SUFFIX,samsungqbe.com
+- DOMAIN-SUFFIX,samsungrs.com

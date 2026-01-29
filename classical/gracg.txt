@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: gracg
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,gracg.com
+DOMAIN-SUFFIX,procg.cn

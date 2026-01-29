@@ -1,0 +1,35 @@
+# Generated from v2fly/domain-list-community
+# Source: nurofen
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 28
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.nurofen.at
+- +.nurofen.bg
+- +.nurofen.cn
+- +.nurofen.co.il
+- +.nurofen.co.nz
+- +.nurofen.co.uk
+- +.nurofen.co.za
+- +.nurofen.com
+- +.nurofen.com.au
+- +.nurofen.com.cn
+- +.nurofen.com.sg
+- +.nurofen.cz
+- +.nurofen.de
+- +.nurofen.es
+- +.nurofen.fr
+- +.nurofen.hr
+- +.nurofen.hu
+- +.nurofen.ie
+- +.nurofen.it
+- +.nurofen.net
+- +.nurofen.no
+- +.nurofen.pl
+- +.nurofen.pt
+- +.nurofen.ro
+- +.nurofen.sk
+- +.nurofen.ru
+- +.nurofengel.com
+- nurofensk-prod-env.eu-west-1.elasticbeanstalk.com

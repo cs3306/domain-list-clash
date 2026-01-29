@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: adblock
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 2
+
+payload:
+- DOMAIN-SUFFIX,adblockcdn.com
+- DOMAIN-SUFFIX,getadblock.com

@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: zdns
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.zcmbc.com.cn
+- +.zdns.cn
+- +.zdns.net.cn
+- +.zdns.org.cn
+- +.zdnscloud.biz
+- +.zdnscloud.cn
+- +.zdnscloud.com
+- +.zdnscloud.com.cn
+- +.zdnscloud.info
+- +.zdnscloud.net
+- +.zdnscloud.net.cn
+- +.zdnscloud.org.cn

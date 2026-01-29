@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: eastmoney
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.1234567.com.cn
+- +.18.cn
+- +.18.com.cn
+- +.dfcfw.com
+- +.eastmoney.com
+- +.eastmoneyfutures.com
+- +.emsec.hk
+- +.guba.com.cn

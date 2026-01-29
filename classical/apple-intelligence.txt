@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: apple-intelligence
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 5
+
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,gspe1-ssl.ls.apple.com

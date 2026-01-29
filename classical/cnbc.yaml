@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: cnbc
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,cnbc.com
+- DOMAIN-SUFFIX,cnbcfm.com
+- DOMAIN-SUFFIX,nbcuni.com
+- DOMAIN-SUFFIX,nbcudigitaladops.com

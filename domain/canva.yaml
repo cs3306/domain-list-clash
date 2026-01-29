@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: canva
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.affinity.api.serifservices.com
+- +.affinity.studio
+- +.affinity-beta.s3.amazonaws.com
+- +.affinity-lessons.s3.amazonaws.com
+- +.canva.com
+- +.canvastatus.com

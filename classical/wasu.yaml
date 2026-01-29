@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: wasu
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,aichongzoo.cn
+- DOMAIN-SUFFIX,hzdtv.tv
+- DOMAIN-SUFFIX,hzman.net
+- DOMAIN-SUFFIX,wasu.cn
+- DOMAIN-SUFFIX,wasu.tv
+- DOMAIN-SUFFIX,wasumedia.cn

@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: ifast
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.fsmone.com
+- +.fsmone.com.hk
+- +.fsmone.com.my
+- +.fundsupermart.com
+- +.ifastcapital.com.my
+- +.ifastcorp.com
+- +.ifastfinancial.com.hk
+- +.ifastfinancial.co.in
+- +.ifastgb.com
+- +.ifastgp.com
+- +.ifastgp.com.hk
+- +.ifastnetwork.com
+- +.ifastps.com.cn
+- +.ifasttv.com

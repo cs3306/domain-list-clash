@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: bootcdn
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,bootcdn.cn
+- DOMAIN-SUFFIX,bootcdn.net
+- DOMAIN-SUFFIX,bootcss.com
+- DOMAIN-SUFFIX,phpcomposer.com

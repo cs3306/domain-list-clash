@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: bohemia
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,arma3.com
+DOMAIN-SUFFIX,armaplatform.com
+DOMAIN-SUFFIX,bistudio.com
+DOMAIN-SUFFIX,bohemia.net
+DOMAIN-SUFFIX,dayz.com
+DOMAIN-SUFFIX,makearmanotwar.com
+DOMAIN-SUFFIX,silicagame.com
+DOMAIN-SUFFIX,vigorgame.com
+DOMAIN-SUFFIX,ylands.com

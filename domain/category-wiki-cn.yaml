@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: category-wiki-cn
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.fgo.wiki
+- +.jikipedia.com
+- +.mbalib.com
+- +.sec-wiki.com
+- +.shidianbaike.com
+- +.huijistatic.com
+- +.huijiwiki.com
+- +.moegirl.org
+- +.moegirl.org.cn
+- +.mcmod.cn
+- +.qiuwenbaike.cn
+- +.qiuwen.wiki

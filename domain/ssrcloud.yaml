@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: ssrcloud
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.airport-gov-cn.com
+- +.cnix-gov-cn.com
+- +.xn--d4ty0ojsqzfd.com

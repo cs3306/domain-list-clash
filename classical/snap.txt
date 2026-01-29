@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: snap
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co
+DOMAIN,impala-media-production.s3.amazonaws.com

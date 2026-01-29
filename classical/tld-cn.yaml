@@ -1,0 +1,48 @@
+# Generated from v2fly/domain-list-community
+# Source: tld-cn
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 42
+
+payload:
+- DOMAIN-KEYWORD,alibaba
+- DOMAIN-KEYWORD,alipay
+- DOMAIN-KEYWORD,baidu
+- DOMAIN-KEYWORD,citic
+- DOMAIN-KEYWORD,cn
+- DOMAIN-KEYWORD,icbc
+- DOMAIN-KEYWORD,sohu
+- DOMAIN-KEYWORD,taobao
+- DOMAIN-KEYWORD,tmall
+- DOMAIN-KEYWORD,unicom
+- DOMAIN-KEYWORD,xn--fiqs8s
+- DOMAIN-KEYWORD,xn--fiqz9s
+- DOMAIN-KEYWORD,xn--zfr164b
+- DOMAIN-KEYWORD,xn--55qw42g
+- DOMAIN-KEYWORD,xn--55qx5d
+- DOMAIN-KEYWORD,xn--io0a7i
+- DOMAIN-KEYWORD,xn--ses554g
+- DOMAIN-KEYWORD,xn--czru2d
+- DOMAIN-KEYWORD,xn--hxt814e
+- DOMAIN-KEYWORD,xn--fiq64b
+- DOMAIN-KEYWORD,xn--czr694b
+- DOMAIN-KEYWORD,xn--xhq521b
+- DOMAIN-KEYWORD,xn--1qqw23a
+- DOMAIN-KEYWORD,xn--vuq861b
+- DOMAIN-KEYWORD,xn--kput3i
+- DOMAIN-KEYWORD,xn--3ds443g
+- DOMAIN-KEYWORD,xn--fiq228c5hs
+- DOMAIN-KEYWORD,xn--3bst00m
+- DOMAIN-KEYWORD,xn--6qq986b3xl
+- DOMAIN-KEYWORD,xn--czrs0t
+- DOMAIN-KEYWORD,xn--vhquv
+- DOMAIN-KEYWORD,xn--fjq720a
+- DOMAIN-KEYWORD,xn--unup4y
+- DOMAIN-KEYWORD,xn--g2xx48c
+- DOMAIN-KEYWORD,xn--imr513n
+- DOMAIN-KEYWORD,xn--otu796d
+- DOMAIN-KEYWORD,xn--9et52u
+- DOMAIN-KEYWORD,xn--6frz82g
+- DOMAIN-KEYWORD,xn--5tzm5g
+- DOMAIN-KEYWORD,xn--8y0a063a
+- DOMAIN-KEYWORD,xn--rhqv96g
+- DOMAIN-KEYWORD,xn--nyqy26a

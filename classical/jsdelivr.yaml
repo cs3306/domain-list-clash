@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: jsdelivr
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,jsdelivr.com
+- DOMAIN-SUFFIX,jsdelivr.net
+- DOMAIN-SUFFIX,esm.run
+- DOMAIN,cdn.jsdelivr.net

@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: pingcap
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,asktug.com
+- DOMAIN-SUFFIX,pingcap.cn
+- DOMAIN-SUFFIX,pingcap.com
+- DOMAIN-SUFFIX,tidb.ai
+- DOMAIN-SUFFIX,tidb.net
+- DOMAIN-SUFFIX,tidbcloud.com
+- DOMAIN-SUFFIX,tikv.org

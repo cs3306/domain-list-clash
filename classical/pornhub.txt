@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: pornhub
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,gaytube.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,porngub.com
+DOMAIN-SUFFIX,pornhub-deutsch.net
+DOMAIN-SUFFIX,pornhubapparel.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhub.org
+DOMAIN-SUFFIX,pornhubpremium.com

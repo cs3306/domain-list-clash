@@ -1,0 +1,26 @@
+# Generated from v2fly/domain-list-community
+# Source: cloudflare-cn
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 19
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cf-china.info
+- +.cf-ns.com
+- +.cf-ns.net
+- +.cf-ns.site
+- +.cf-ns.tech
+- +.cftest5.cn
+- +.cftest6.cn
+- +.cftest7.com
+- +.cftest8.com
+- +.cloudflare-cn.com
+- +.cloudflareanycast.net
+- +.cloudflarechina.cn
+- +.cloudflarecn.net
+- +.cloudflareglobal.net
+- +.cloudflareinsights-cn.com
+- +.cloudflareperf.com
+- +.cloudflareprod.com
+- +.cloudflarestaging.com
+- +.cloudflarestoragegw.com

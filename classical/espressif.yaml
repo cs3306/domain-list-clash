@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: espressif
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,espressif.com
+- DOMAIN-SUFFIX,esp32.com
+- DOMAIN-SUFFIX,esp8266.com

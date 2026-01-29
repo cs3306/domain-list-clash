@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: gree
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,gree.cn
+DOMAIN-SUFFIX,gree.com
+DOMAIN-SUFFIX,gree.com.cn
+DOMAIN-SUFFIX,greeyun.com
+DOMAIN-SUFFIX,kinghomechina.com
+DOMAIN-SUFFIX,tosot.com.cn
+DOMAIN-SUFFIX,zhlyen.com

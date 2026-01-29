@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: intercom
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,intercom.com
+- DOMAIN-SUFFIX,intercom.io
+- DOMAIN-SUFFIX,intercomassets.com
+- DOMAIN-SUFFIX,intercomcdn.com

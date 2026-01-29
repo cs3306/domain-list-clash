@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: ozon
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,ozon.ru
+- DOMAIN-SUFFIX,ozone.ru
+- DOMAIN-SUFFIX,ozonusercontent.com

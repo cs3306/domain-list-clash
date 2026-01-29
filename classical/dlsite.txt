@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: dlsite
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,ci-en.jp
+DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dlsite.com.tw
+DOMAIN-SUFFIX,dlsite.jp
+DOMAIN-SUFFIX,dlsitestudio.com
+DOMAIN-SUFFIX,nijiyome.jp
+DOMAIN-SUFFIX,triokini.com

@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: dazn
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,dazn.com
+- DOMAIN-SUFFIX,dazn-api.com
+- DOMAIN-SUFFIX,dazndn.com
+- DOMAIN-SUFFIX,daznfeeds.com
+- DOMAIN-SUFFIX,daznplayer.com
+- DOMAIN-SUFFIX,daznservices.com
+- DOMAIN-SUFFIX,indazn.com
+- DOMAIN-SUFFIX,indaznlab.com

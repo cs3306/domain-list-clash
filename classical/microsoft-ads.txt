@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: microsoft-ads
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,microsoftads.com
+DOMAIN-SUFFIX,msads.net
+DOMAIN-SUFFIX,nelreports.net

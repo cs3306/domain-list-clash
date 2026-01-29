@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: archivetoday
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,archive.today
+- DOMAIN-SUFFIX,archive.fo
+- DOMAIN-SUFFIX,archive.is
+- DOMAIN-SUFFIX,archive.li
+- DOMAIN-SUFFIX,archive.md
+- DOMAIN-SUFFIX,archive.ph
+- DOMAIN-SUFFIX,archive.vn

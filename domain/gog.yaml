@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: gog
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gog.com
+- +.gog-statics.com
+- gog.qtlglb.com
+- gogalaxy.gog-statics.com
+- menu-static.gog-statics.com
+- productcard.gog-statics.com
+- static-login.gog-statics.com
+- www4-static.gog-statics.com
+- gog-cdn-fastly.gog.com
+- gog-cdn.akamaized.net

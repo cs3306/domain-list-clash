@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: elsevier
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 14
+
+payload:
+- DOMAIN-SUFFIX,cell.com
+- DOMAIN-SUFFIX,clinicalkey.com
+- DOMAIN-SUFFIX,els-cdn.com
+- DOMAIN-SUFFIX,elsevier-ae.com
+- DOMAIN-SUFFIX,elsevier.com
+- DOMAIN-SUFFIX,elsevier.io
+- DOMAIN-SUFFIX,engineeringvillage.com
+- DOMAIN-SUFFIX,evise.com
+- DOMAIN-SUFFIX,fundinginstitutional.com
+- DOMAIN-SUFFIX,knovel.com
+- DOMAIN-SUFFIX,mendeley.com
+- DOMAIN-SUFFIX,reaxys.com
+- DOMAIN-SUFFIX,scival.com
+- DOMAIN-SUFFIX,scopus.com

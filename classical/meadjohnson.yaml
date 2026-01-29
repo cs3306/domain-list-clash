@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: meadjohnson
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,enfinitas.com.cn
+- DOMAIN-SUFFIX,meadjohnson.com
+- DOMAIN-SUFFIX,meadjohnson.com.cn
+- DOMAIN-SUFFIX,meadjohnson.com.hk
+- DOMAIN-SUFFIX,meadjohnson.com.tw
+- DOMAIN-SUFFIX,meadjohnson.net

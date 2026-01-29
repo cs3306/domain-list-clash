@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: discoveryplus
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discoveryplus.com

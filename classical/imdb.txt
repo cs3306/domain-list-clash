@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: imdb
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 5
+
+DOMAIN-KEYWORD,imdb
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: chatwhores
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.chatwhores.com
+- +.chatwhores.net
+- +.chatwhores.org
+- +.chatwhores.sex
+- +.chatwhores.tv

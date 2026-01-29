@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: n3ro
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,n3ro.lol
+DOMAIN-SUFFIX,n3ro.net
+DOMAIN-SUFFIX,n3ro.wtf

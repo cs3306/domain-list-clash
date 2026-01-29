@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: tesla
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 13
+
+DOMAIN-SUFFIX,solarcity.com
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslamotors.com.cn
+DOMAIN-SUFFIX,teslazta.net
+DOMAIN-SUFFIX,ts.la
+DOMAIN,tesla-cdn.thron.cn
+DOMAIN,tesla-cdn.thron.com

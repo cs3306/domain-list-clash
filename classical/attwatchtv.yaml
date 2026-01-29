@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: attwatchtv
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,att.tv
+- DOMAIN-SUFFIX,atttvnow.com
+- DOMAIN-SUFFIX,attwatchtv.com
+- DOMAIN-SUFFIX,directv.com
+- DOMAIN-SUFFIX,dtvce.com
+- DOMAIN-SUFFIX,nettyinternet.com

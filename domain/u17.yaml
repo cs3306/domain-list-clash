@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: u17
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.u17.com
+- +.u17i.com
+- +.u17t.com

@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: nikkei
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.nikkei-cnbc.co.jp
+- +.nikkei.co.jp
+- +.nikkei.com
+- +.nikkei.jp
+- +.nikkei4946.com
+- +.nikkeibp.co.jp

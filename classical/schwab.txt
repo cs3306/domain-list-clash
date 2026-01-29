@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: schwab
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabplan.com

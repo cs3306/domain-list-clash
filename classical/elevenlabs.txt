@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: elevenlabs
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN-SUFFIX,elevenlabs.io

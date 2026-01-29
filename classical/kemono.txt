@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: kemono
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,kemono.cr
+DOMAIN-SUFFIX,kemono.party
+DOMAIN-SUFFIX,kemono.su

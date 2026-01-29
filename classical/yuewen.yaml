@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: yuewen
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,yuewen.com
+- DOMAIN-SUFFIX,hongxiu.com
+- DOMAIN-SUFFIX,lrts.me
+- DOMAIN-SUFFIX,qdmm.com
+- DOMAIN-SUFFIX,qidian.com
+- DOMAIN-SUFFIX,readnovel.com
+- DOMAIN-SUFFIX,rongshuxia.com
+- DOMAIN-SUFFIX,tingbook.com
+- DOMAIN-SUFFIX,xs.cn
+- DOMAIN-SUFFIX,xs8.cn
+- DOMAIN-SUFFIX,xxsy.net

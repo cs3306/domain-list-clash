@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: hentaichen
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,h-chan.me
+- DOMAIN-SUFFIX,hentai-chan.com
+- DOMAIN-SUFFIX,hentai-chan.live
+- DOMAIN-SUFFIX,hentaichan.live
+- DOMAIN-SUFFIX,hentaichan.me
+- DOMAIN-SUFFIX,imgschan.xyz

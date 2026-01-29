@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: canonical
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 12
+
+payload:
+- DOMAIN-SUFFIX,launchpad.net
+- DOMAIN-SUFFIX,launchpadcontent.net
+- DOMAIN-SUFFIX,launchpadlibrarian.com
+- DOMAIN-SUFFIX,launchpadlibrarian.net
+- DOMAIN-SUFFIX,launchpadlibrarian.org
+- DOMAIN-SUFFIX,snapcraft.io
+- DOMAIN-SUFFIX,snapstore.io
+- DOMAIN-SUFFIX,ubuntu.com
+- DOMAIN-SUFFIX,ubuntu.net
+- DOMAIN-SUFFIX,ubuntuforums.org
+- DOMAIN-SUFFIX,ubuntu-touch.io
+- DOMAIN-SUFFIX,canonical.com

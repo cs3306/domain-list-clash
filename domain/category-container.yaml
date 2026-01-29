@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: category-container
+# Updated: 2026-01-29 04:09:53 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.azurecr.io
+- +.docker.io
+- +.ecr.aws
+- +.gcr.io
+- +.ghcr.io
+- +.mcr.microsoft.com
+- +.quay.io
+- +.registry.gitlab.com
+- +.registry.k8s.io

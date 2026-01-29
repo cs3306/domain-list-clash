@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: webex
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.webex.ca
+- +.webex.co.in
+- +.webex.co.it
+- +.webex.co.jp
+- +.webex.co.kr
+- +.webex.co.nz
+- +.webex.co.uk
+- +.webex.com
+- +.webex.com.au
+- +.webex.com.br
+- +.webex.com.cn
+- +.webex.com.hk
+- +.webex.com.mx
+- +.webex.de
+- +.webex.es
+- +.webex.fr

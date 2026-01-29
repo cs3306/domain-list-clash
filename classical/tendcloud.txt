@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: tendcloud
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,tendcloud.com
+DOMAIN-SUFFIX,talkingdata.com
+DOMAIN-SUFFIX,talkinggame.com
+DOMAIN-SUFFIX,cpatrk.net
+DOMAIN-SUFFIX,tdsdk.cpatrk.net

@@ -1,0 +1,6 @@
+# Generated from v2fly/domain-list-community
+# Source: doc88
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 1
+
+DOMAIN-SUFFIX,doc88.com

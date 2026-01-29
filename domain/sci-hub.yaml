@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: sci-hub
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.sci-hub.se
+- +.sci-hub.ee
+- +.sci-hub.it.nf
+- +.sci-hub.mksa.top
+- +.sci-hub.st
+- +.sci.hubg.org

@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: drweb
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 12
+
+DOMAIN-SUFFIX,drweb.by
+DOMAIN-SUFFIX,drweb.cn
+DOMAIN-SUFFIX,drweb.co.jp
+DOMAIN-SUFFIX,drweb.com
+DOMAIN-SUFFIX,drweb.fr
+DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb.ru
+DOMAIN-SUFFIX,drweb.uz
+DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb-av.es
+DOMAIN-SUFFIX,drweb-av.it
+DOMAIN-SUFFIX,drweb-av.pl

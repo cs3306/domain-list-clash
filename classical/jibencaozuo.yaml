@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: jibencaozuo
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,jbcz.tv
+- DOMAIN-SUFFIX,jibencaozuo.com
+- DOMAIN-SUFFIX,media.paperclipclub.net

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: bahamut
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bahamut.akamaized.net
+- +.bahamut.com.tw
+- +.gamer.com.tw
+- gamer2-cds.cdn.hinet.net
+- gamer-cds.cdn.hinet.net

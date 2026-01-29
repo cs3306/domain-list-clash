@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: sci-hub
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,sci-hub.se
+DOMAIN-SUFFIX,sci-hub.ee
+DOMAIN-SUFFIX,sci-hub.it.nf
+DOMAIN-SUFFIX,sci-hub.mksa.top
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci.hubg.org

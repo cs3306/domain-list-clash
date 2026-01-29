@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: schwab
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.aboutschwab.com
+- +.schwab.co.uk
+- +.schwab.com
+- +.schwab.com.hk
+- +.schwab.com.sg
+- +.schwabassetmanagement.com
+- +.schwabplan.com

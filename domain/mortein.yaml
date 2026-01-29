@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: mortein
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mortein.cn
+- +.mortein.co.in
+- +.mortein.co.nz
+- +.mortein.co.za
+- +.mortein.com
+- +.mortein.com.au
+- +.mortein.com.br
+- +.mortein.com.ng
+- +.mortein.com.pk
+- +.morteincam.com
+- +.pifpafarabia.com

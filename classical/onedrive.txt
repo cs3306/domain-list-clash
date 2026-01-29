@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: onedrive
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 11
+
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.co
+DOMAIN-SUFFIX,onedrive.co.uk
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.eu
+DOMAIN-SUFFIX,onedrive.net
+DOMAIN-SUFFIX,onedrive.org
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,storage.live.com

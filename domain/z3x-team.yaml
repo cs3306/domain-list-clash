@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: z3x-team
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.easy-jtag.com
+- +.z3x-team.com

@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: ngrok
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ngrok-free.app
+- +.ngrok-free.dev
+- +.ngrok-free.pizza
+- +.ngrok.app
+- +.ngrok.com
+- +.ngrok.dev
+- +.ngrok.io
+- +.ngrok.pizza
+- +.ngrok.pro

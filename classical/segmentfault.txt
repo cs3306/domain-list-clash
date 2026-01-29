@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: segmentfault
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,segmentfault.com
+DOMAIN-SUFFIX,sifou.com

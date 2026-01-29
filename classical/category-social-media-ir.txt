@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: category-social-media-ir
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 11
+
+DOMAIN-SUFFIX,bale.ai
+DOMAIN-SUFFIX,eitaa.com
+DOMAIN-SUFFIX,eitaa.ir
+DOMAIN-SUFFIX,gap.im
+DOMAIN-SUFFIX,gaplication.com
+DOMAIN-SUFFIX,mizito.ir
+DOMAIN-SUFFIX,niniban.com
+DOMAIN-SUFFIX,ninisite.com
+DOMAIN-SUFFIX,rubika.ir
+DOMAIN-SUFFIX,splus.ir
+DOMAIN-SUFFIX,virasty.com

@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: sb
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.dns.sb
+- +.ip.gs
+- +.ip.sb
+- +.loli.net
+- +.sb.sb
+- +.sm.ms
+- +.u.nu
+- +.www.sb

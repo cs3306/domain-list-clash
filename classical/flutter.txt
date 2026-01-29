@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: flutter
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev

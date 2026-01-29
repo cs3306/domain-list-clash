@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: gemfury
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,fury.blog
+- DOMAIN-SUFFIX,fury.co
+- DOMAIN-SUFFIX,fury.dev
+- DOMAIN-SUFFIX,fury.help
+- DOMAIN-SUFFIX,fury.io
+- DOMAIN-SUFFIX,gemfury.com

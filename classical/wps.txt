@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: wps
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 13
+
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.cn
+DOMAIN-SUFFIX,wpscdn.com
+DOMAIN-SUFFIX,qwps.cn
+DOMAIN-SUFFIX,kscord.com
+DOMAIN-SUFFIX,51dzt.com
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,docer.com
+DOMAIN-SUFFIX,kdocs.cn
+DOMAIN-SUFFIX,wpsmail.net
+DOMAIN-SUFFIX,papocket.com
+DOMAIN-SUFFIX,wpspdf.cn

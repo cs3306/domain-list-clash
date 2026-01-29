@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: theguardian
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,dev-guardianapis.com
+DOMAIN-SUFFIX,dev-theguardian.com
+DOMAIN-SUFFIX,gu-web.net
+DOMAIN-SUFFIX,guardianapis.com
+DOMAIN-SUFFIX,guardianapps.co.uk
+DOMAIN-SUFFIX,guim.co.uk
+DOMAIN-SUFFIX,guimcode.co.uk
+DOMAIN-SUFFIX,theguardian.com
+DOMAIN-SUFFIX,theguardiandns.com

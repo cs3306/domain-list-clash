@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: facebook-ads
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.analytics.facebook.com
+- +.facebookads.com
+- +.pixel.facebook.com

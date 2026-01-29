@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: youku
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,kumiao.com
+- DOMAIN-SUFFIX,youku.com
+- DOMAIN-SUFFIX,ykimg.com
+- DOMAIN-SUFFIX,mmstat.com
+- DOMAIN-SUFFIX,soku.com
+- DOMAIN-SUFFIX,cibntv.net

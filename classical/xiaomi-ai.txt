@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: xiaomi-ai
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomimimo.com

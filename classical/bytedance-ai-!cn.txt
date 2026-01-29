@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: bytedance-ai-!cn
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai

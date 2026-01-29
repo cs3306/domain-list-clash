@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: litv
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.litv.tv
+- +.litvfreepc.akamaized.net
+- ntdfreemobile-tgc.cdn.hinet.net
+- ntdfreepc-tgc.cdn.hinet.net
+- ntdfreetv-tgc.cdn.hinet.net
+- ntdfreevcpc-tgc.cdn.hinet.net
+- +.ofiii.com
+- ntdofifreemobile-tgc.cdn.hinet.net
+- ntdofifreepc-tgc.cdn.hinet.net
+- ntdofifreetv-tgc.cdn.hinet.net
+- ntdofifreevcpc-tgc.cdn.hinet.net

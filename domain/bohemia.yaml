@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: bohemia
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.arma3.com
+- +.armaplatform.com
+- +.bistudio.com
+- +.bohemia.net
+- +.dayz.com
+- +.makearmanotwar.com
+- +.silicagame.com
+- +.vigorgame.com
+- +.ylands.com

@@ -1,0 +1,36 @@
+# Generated from v2fly/domain-list-community
+# Source: category-gov-ir
+# Updated: 2026-01-29 04:09:53 UTC
+# Total domains: 29
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.adliran.ir
+- +.agrieng.org
+- +.bazresi.ir
+- +.bia-judiciary.ir
+- +.budget.imo.org.ir
+- +.dadiran.ir
+- +.dadsara.ir
+- +.dadsetani.ir
+- +.divan-edalat.ir
+- +.dmk.ir
+- +.doe.ir
+- +.dolat.ir
+- +.eadl.ir
+- +.enamad.ir
+- +.gov.ir
+- +.hadafmandi.ir
+- +.intamedia.ir
+- +.irimo.ir
+- +.moi.ir
+- +.mporg.ir
+- +.parliran.ir
+- +.post.ir
+- +.president.ir
+- +.refahi.ir
+- +.sahamedalat.ir
+- +.samandehi.ir
+- +.samanese.ir
+- +.sccr.ir
+- +.shora-gc.ir

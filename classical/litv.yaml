@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: litv
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,litv.tv
+- DOMAIN-SUFFIX,litvfreepc.akamaized.net
+- DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
+- DOMAIN,ntdfreepc-tgc.cdn.hinet.net
+- DOMAIN,ntdfreetv-tgc.cdn.hinet.net
+- DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net
+- DOMAIN-SUFFIX,ofiii.com
+- DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net
+- DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
+- DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
+- DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net

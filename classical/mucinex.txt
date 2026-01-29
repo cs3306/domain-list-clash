@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: mucinex
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,mucinex.ca
+DOMAIN-SUFFIX,mucinex.cn
+DOMAIN-SUFFIX,mucinex.co.nz
+DOMAIN-SUFFIX,mucinex.com
+DOMAIN-SUFFIX,mucinex.com.cn
+DOMAIN-SUFFIX,mucinex.net
+DOMAIN-SUFFIX,mucinex.tv
+DOMAIN-SUFFIX,mucinexprofessional.com

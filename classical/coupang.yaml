@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: coupang
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 2
+
+payload:
+- DOMAIN-SUFFIX,coupang.com
+- DOMAIN-SUFFIX,coupangcdn.com

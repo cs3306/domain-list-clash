@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: category-network-security-cn
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,cnmstl.net
+DOMAIN-SUFFIX,fofa.so
+DOMAIN-SUFFIX,t00ls.cc
+DOMAIN-SUFFIX,t00ls.net
+DOMAIN-SUFFIX,tools.team

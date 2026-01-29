@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: microsoft-pki
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,msocsp.com
+DOMAIN,crl.microsoft.com
+DOMAIN,mscrl.microsoft.com
+DOMAIN,ocsp.microsoft.com
+DOMAIN,oneocsp.microsoft.com
+DOMAIN,www.microsoft.com

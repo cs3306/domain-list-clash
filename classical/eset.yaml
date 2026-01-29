@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: eset
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,cn.eset.com
+- DOMAIN-SUFFIX,e5.sk
+- DOMAIN-SUFFIX,eset.com
+- DOMAIN-SUFFIX,eset.eu
+- DOMAIN-SUFFIX,eset.sk
+- DOMAIN-SUFFIX,eset.systems
+- DOMAIN-SUFFIX,esetsoftware.com
+- DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+- DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: amap-ads
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.adashx.ut.amap.com
+- +.dualstack-logs.amap.com
+- +.logs.amap.com
+- +.optimus-ads.amap.com
+- +.v6-adashx.ut.amap.com

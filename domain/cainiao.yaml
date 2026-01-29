@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: cainiao
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cainiao-inc.com
+- +.cainiao.com
+- +.cainiao.com.cn
+- +.cainiaoyizhan.com
+- +.guoguo-app.com

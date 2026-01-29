@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: category-enterprise-query-platform-cn
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 11
+
+DOMAIN-SUFFIX,aiqicha.baidu.com
+DOMAIN-SUFFIX,aiqicha.cn
+DOMAIN-SUFFIX,aiqicha.com
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,qichacha.com
+DOMAIN-SUFFIX,qixin.com
+DOMAIN-SUFFIX,jindidata.com
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-SUFFIX,qichamao.com
+DOMAIN-SUFFIX,qyyjt.cn
+DOMAIN-SUFFIX,x315.com

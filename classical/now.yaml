@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: now
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,now.com
+- DOMAIN-SUFFIX,now.com.hk
+- DOMAIN-SUFFIX,nowe.com
+- DOMAIN-SUFFIX,nowe.hk
+- DOMAIN-SUFFIX,now-tv.com
+- DOMAIN-SUFFIX,now-ashare.com

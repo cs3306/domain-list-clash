@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: nikke
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.nikke-de.com
+- +.nikke-en.com
+- +.nikke-fr.com
+- +.nikke-jp.com
+- +.nikke-kr.com
+- +.nikke-sea.com

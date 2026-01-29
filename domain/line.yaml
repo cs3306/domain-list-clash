@@ -1,0 +1,27 @@
+# Generated from v2fly/domain-list-community
+# Source: line
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 20
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gcld-line.com
+- +.lin.ee
+- +.line-apps-beta.com
+- +.line-apps-rc.com
+- +.line-apps.com
+- +.line-beta.me
+- +.line-cdn.net
+- +.line-scdn.net
+- +.line.biz
+- +.line.me
+- +.line.naver.jp
+- +.linecorp.com
+- +.linefriends.com
+- +.linefriends.com.tw
+- +.linegame.jp
+- +.linemobile.com
+- +.linemyshop.com
+- +.lineshoppingseller.com
+- +.linetv.tw
+- +.nhncorp.jp

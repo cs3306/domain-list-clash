@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: 9news
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.9cdn.net
+- +.9nation.com.au
+- +.9news.com.au
+- +.9now.com.au
+- +.freeviewplus.net.au
+- +.mi9.com.au
+- +.mi9cdn.com
+- +.nine.com.au
+- +.nineentertainment.com.au
+- +.nineentertainmentco.com.au
+- +.ninemediaroom.com.au
+- +.ninemsn.com.au
+- +.static9.net.au
+- +.yourtv.com.au

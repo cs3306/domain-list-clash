@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: theguardian
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.dev-guardianapis.com
+- +.dev-theguardian.com
+- +.gu-web.net
+- +.guardianapis.com
+- +.guardianapps.co.uk
+- +.guim.co.uk
+- +.guimcode.co.uk
+- +.theguardian.com
+- +.theguardiandns.com

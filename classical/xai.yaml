@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: xai
+# Updated: 2026-01-29 04:09:57 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,grok.com
+- DOMAIN-SUFFIX,grok.x.com
+- DOMAIN-SUFFIX,x.ai

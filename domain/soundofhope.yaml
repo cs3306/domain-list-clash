@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: soundofhope
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bayvoice.net
+- +.ozvoice.org
+- +.sohcradio.com
+- +.sohfrance.org
+- +.soundofhope.eu
+- +.soundofhope.kr
+- +.soundofhope.org
+- +.wanokokorosoh.com

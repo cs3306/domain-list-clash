@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: gree
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gree.cn
+- +.gree.com
+- +.gree.com.cn
+- +.greeyun.com
+- +.kinghomechina.com
+- +.tosot.com.cn
+- +.zhlyen.com

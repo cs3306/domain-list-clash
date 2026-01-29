@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: nypost
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,nypost.com
+DOMAIN-SUFFIX,nypost.help
+DOMAIN-SUFFIX,nypostreprints.com

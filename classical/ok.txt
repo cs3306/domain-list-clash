@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: ok
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,mycdn.me

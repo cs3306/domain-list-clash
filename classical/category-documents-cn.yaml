@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: category-documents-cn
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,doc88.com
+- DOMAIN-SUFFIX,docin.com
+- DOMAIN-SUFFIX,douding.cn

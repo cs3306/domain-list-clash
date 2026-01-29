@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: springer
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,apress.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,wkap.nl

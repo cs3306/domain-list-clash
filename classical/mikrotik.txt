@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: mikrotik
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,mikrotik.com
+DOMAIN-SUFFIX,mt.lv
+DOMAIN-SUFFIX,mynetname.net
+DOMAIN-SUFFIX,routerboard.com

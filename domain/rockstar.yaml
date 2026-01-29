@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: rockstar
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.rockstargames.com
+- +.rsg.sc
+- gamedownloads-rockstargames-com.akamaized.net
+- media-rockstargames-com.akamaized.net
+- videos-rockstargames-com.akamaized.net

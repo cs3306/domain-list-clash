@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: category-mobile-repair
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,borneo.world
+- DOMAIN-SUFFIX,borneoasia.com
+- DOMAIN-SUFFIX,borneoschematic.com
+- DOMAIN-SUFFIX,bosharso.net
+- DOMAIN-SUFFIX,hostborneo.org
+- DOMAIN-SUFFIX,easy-jtag.com
+- DOMAIN-SUFFIX,z3x-team.com
+- DOMAIN-SUFFIX,androidfilehost.com
+- DOMAIN-SUFFIX,unlocktool.net

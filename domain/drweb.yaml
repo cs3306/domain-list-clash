@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: drweb
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.drweb.by
+- +.drweb.cn
+- +.drweb.co.jp
+- +.drweb.com
+- +.drweb.fr
+- +.drweb.kz
+- +.drweb.ru
+- +.drweb.uz
+- +.drweb-av.de
+- +.drweb-av.es
+- +.drweb-av.it
+- +.drweb-av.pl

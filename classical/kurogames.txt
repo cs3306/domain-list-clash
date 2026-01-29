@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: kurogames
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com

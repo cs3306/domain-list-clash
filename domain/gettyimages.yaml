@@ -1,0 +1,32 @@
+# Generated from v2fly/domain-list-community
+# Source: gettyimages
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 25
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gettyimages.ae
+- +.gettyimages.at
+- +.gettyimages.be
+- +.gettyimages.ca
+- +.gettyimages.ch
+- +.gettyimages.co.jp
+- +.gettyimages.co.nz
+- +.gettyimages.co.uk
+- +.gettyimages.com
+- +.gettyimages.com.au
+- +.gettyimages.com.br
+- +.gettyimages.com.mx
+- +.gettyimages.de
+- +.gettyimages.dk
+- +.gettyimages.es
+- +.gettyimages.fi
+- +.gettyimages.fr
+- +.gettyimages.hk
+- +.gettyimages.ie
+- +.gettyimages.in
+- +.gettyimages.it
+- +.gettyimages.nl
+- +.gettyimages.no
+- +.gettyimages.pt
+- +.gettyimages.se

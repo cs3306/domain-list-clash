@@ -1,0 +1,27 @@
+# Generated from v2fly/domain-list-community
+# Source: synology
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 20
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gofile.me
+- +.quickconnect.to
+- +.synology.com
+- +.synologydownload.com
+- +.synologyupdate.com
+- +.quickconnect.cn
+- +.synology.cn
+- +.diskstation.me
+- +.dscloud.biz
+- +.dscloud.me
+- +.dscloud.mobi
+- +.dsmynas.com
+- +.dsmynas.net
+- +.dsmynas.org
+- +.familyds.com
+- +.familyds.net
+- +.familyds.org
+- +.i234.me
+- +.myds.me
+- +.synology.me

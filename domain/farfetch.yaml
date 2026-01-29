@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: farfetch
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.farfetch-apps.com
+- +.farfetch-contents.com
+- +.farfetch.cn
+- +.farfetch.com
+- +.farfetch.com.cn
+- +.farfetch.net
+- +.farfetch.net.cn
+- +.fflnk.net

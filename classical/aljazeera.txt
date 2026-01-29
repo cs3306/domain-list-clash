@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: aljazeera
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,ajplus.net
+DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,aljazeera.net
+DOMAIN-SUFFIX,palestineremix.com
+DOMAIN-SUFFIX,sarajevopodopsadom.com
+DOMAIN-SUFFIX,srebrenica360.com
+DOMAIN-SUFFIX,syhacked.com

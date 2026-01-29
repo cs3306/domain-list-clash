@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: pinduoduo
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,pddcdn.com
+- DOMAIN-SUFFIX,pddim.com
+- DOMAIN-SUFFIX,pddpic.com
+- DOMAIN-SUFFIX,pddugc.com
+- DOMAIN-SUFFIX,pinduoduo.com
+- DOMAIN-SUFFIX,pinduoduo.net
+- DOMAIN-SUFFIX,yangkeduo.com

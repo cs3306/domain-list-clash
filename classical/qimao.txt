@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: qimao
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,jiuyue919.com
+DOMAIN-SUFFIX,qimao.com
+DOMAIN-SUFFIX,qm989.com
+DOMAIN-SUFFIX,qmniu.com
+DOMAIN-SUFFIX,quehu.com
+DOMAIN-SUFFIX,wtzw.com

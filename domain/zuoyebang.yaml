@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: zuoyebang
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.syh.zybang.com
+- +.zuoyebang.cc
+- +.zuoyebang.com
+- +.zybang.com

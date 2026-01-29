@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: mdn
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.developer.allizom.org
+- +.developer.mozilla.org
+- +.mdn.allizom.net
+- +.mdn.dev
+- +.mdn.mozilla.net
+- +.mdn.mozit.cloud
+- +.mdnplay.dev
+- +.mdnyalp.dev
+- mdn.mozillademos.org

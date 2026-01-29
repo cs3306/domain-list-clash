@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: tidal
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,tidal.com
+- DOMAIN-SUFFIX,tidalhifi.com
+- DOMAIN-SUFFIX,wimpmusic.com

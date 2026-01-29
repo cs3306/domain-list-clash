@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: xhamster
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.collector.xhamster.com
+- +.xhamster.com
+- +.xhamster.desi
+- +.xhamster.xxx
+- +.xhamster18.com
+- +.xhamster18.desi
+- +.xhamsterlive.com
+- +.xhcdn.com
+- widgets.stripst.com

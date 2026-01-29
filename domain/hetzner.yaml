@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: hetzner
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 15
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.first-ns.de
+- +.hetzner-cloud.de
+- +.hetzner.cloud
+- +.hetzner.com
+- +.hetzner.company
+- +.hetzner.de
+- +.hetzner.social
+- +.htznr.li
+- +.second-ns.com
+- +.second-ns.de
+- +.your-objectstorage.com
+- +.your-server.de
+- +.your-storagebox.de
+- +.your-storageshare.de
+- sentry.hetzner.company

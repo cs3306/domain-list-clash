@@ -1,0 +1,27 @@
+# Generated from v2fly/domain-list-community
+# Source: boc
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 20
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.boc.cn
+- +.bank-of-china.com
+- +.bankofchina.com
+- +.bocfullertonbank.com
+- +.bocamchina.com
+- +.bocaviation.com
+- +.boccfc.cc
+- +.boccfc.cn
+- +.bocgi.com
+- +.bocgins.com
+- +.bochk.com
+- +.bocichina.cn
+- +.bocichina.com
+- +.bocichina.com.cn
+- +.bocifunds.cn
+- +.bocifunds.com
+- +.bocifunds.com.cn
+- +.bocigroup.com
+- +.bocim.com
+- +.bocservices.com.cn

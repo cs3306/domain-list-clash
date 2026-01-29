@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: discoveryplus
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.content-ause1-ur-discovery1.uplynk.com
+- +.disco-api.com
+- +.discoveryplus.com

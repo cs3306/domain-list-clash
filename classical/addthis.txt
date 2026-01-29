@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: addthis
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com

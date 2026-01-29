@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: ehentai
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.e-hentai.org
+- +.ehgt.org
+- +.ehtracker.org
+- +.ehwiki.org
+- +.exhentai.org
+- +.hath.network
+- +.hentaiathome.net
+- +.hentaiverse.org

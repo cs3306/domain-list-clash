@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: vrzwk
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.vrzwk.cn
+- +.vrzwk.com
+- +.vrzwk.net
+- +.vrzwk.top

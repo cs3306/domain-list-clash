@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: gigabyte
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.aorus.com
+- +.aoruszone.cn
+- +.gigabyte.cn
+- +.gigabyte.com
+- gigabyte2.azureedge.net
+- sa78gs.wpc.edgecastcdn.net
+- sni1dcb6gl.wpc.edgecastcdn.net

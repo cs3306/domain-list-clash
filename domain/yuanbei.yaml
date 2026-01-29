@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: yuanbei
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.i2oo.cn
+- +.laoban100.com
+- +.shengyi.ai
+- +.shengyizhuanjia.com
+- +.yuanbei.biz

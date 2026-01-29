@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: brazzers
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,brazzer.com
+DOMAIN-SUFFIX,brazzers.com
+DOMAIN-SUFFIX,brazzers.xxx
+DOMAIN-SUFFIX,brazzersnetwork.com
+DOMAIN-SUFFIX,mofos.com

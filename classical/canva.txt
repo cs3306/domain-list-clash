@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: canva
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,affinity.api.serifservices.com
+DOMAIN-SUFFIX,affinity.studio
+DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
+DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canvastatus.com

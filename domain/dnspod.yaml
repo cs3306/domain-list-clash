@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: dnspod
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.dns.pub
+- +.dnsapi.cn
+- +.dnspod.cn
+- +.dnspod.com
+- +.dnspod.com.cn
+- +.dnspod.mobi
+- +.dnspod.net
+- +.dnspod.org
+- +.dnsv2.com
+- +.dnsv3.com
+- +.dnsv4.com
+- +.dnsv5.com
+- +.doh.pub
+- +.dot.pub

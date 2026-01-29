@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: muji
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.muji.com
+- +.muji.com.cn
+- +.muji.com.hk
+- +.muji.eu
+- +.muji.net
+- +.muji.tw
+- +.muji.us
+- +.mujikorea.net

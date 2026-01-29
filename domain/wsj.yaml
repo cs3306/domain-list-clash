@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: wsj
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.careerjournal.com
+- +.collegejournal.com
+- +.opinionjournal.com
+- +.realestatejournal.com
+- +.startupjournal.com
+- +.wsj.com
+- +.wsj.jobs
+- +.wsj.net
+- +.wsjmediakit.com
+- +.wsjplus.com
+- +.wsjshop.com
+- +.wsjwine.com

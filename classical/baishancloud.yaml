@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: baishancloud
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,bsclink.cn
+- DOMAIN-SUFFIX,qingcdn.com
+- DOMAIN-SUFFIX,trpcdn.net

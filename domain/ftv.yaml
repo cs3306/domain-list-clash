@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: ftv
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.4gtv.tv
+- +.ftv.com.tw
+- +.ftvnews.com.tw

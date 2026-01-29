@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: category-acg
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,colorfulstage.com
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
+DOMAIN-SUFFIX,bowlroll.net

@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: anthropic
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.anthropic.com
+- +.claude.ai
+- +.claude.com
+- +.claudeusercontent.com
+- +.claudemcpclient.com
+- servd-anthropic-website.b-cdn.net

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: category-education-ir
+# Updated: 2026-01-29 04:09:53 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,faradars.org
+DOMAIN-SUFFIX,git.ir
+DOMAIN-SUFFIX,learnby.ir
+DOMAIN-SUFFIX,toplearn.com
+DOMAIN-SUFFIX,done.ir
+DOMAIN-SUFFIX,iranlms.org
+DOMAIN-SUFFIX,webinarplus.online

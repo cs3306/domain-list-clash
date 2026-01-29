@@ -1,0 +1,28 @@
+# Generated from v2fly/domain-list-community
+# Source: globalsign
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 21
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.alphassl.com
+- +.easy-signing.com
+- +.globalsign-media.com
+- +.globalsign.be
+- +.globalsign.ch
+- +.globalsign.cloud
+- +.globalsign.cn
+- +.globalsign.co.uk
+- +.globalsign.com
+- +.globalsign.com.au
+- +.globalsign.com.br
+- +.globalsign.com.hk
+- +.globalsign.com.sg
+- +.globalsign.es
+- +.globalsign.eu
+- +.globalsign.fr
+- +.globalsign.net
+- +.globalsign.nl
+- +.globalsigncdn.com
+- cdn.globalsigncdn.com.cdn.cloudflare.net
+- crl.globalsign.net

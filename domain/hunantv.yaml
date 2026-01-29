@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: hunantv
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.click.hunantv.com
+- +.da.hunantv.com
+- +.da.mgtv.com
+- +.log.hunantv.com
+- +.log.v2.hunantv.com
+- +.res.hunantv.com
+- +.hifuntv.com
+- +.hitv.com
+- +.hnbntv.com
+- +.hunaniptv.com
+- +.hunantv.com
+- +.imgo.tv
+- +.mgtv.com

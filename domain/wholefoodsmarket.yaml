@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: wholefoodsmarket
+# Updated: 2026-01-29 04:09:57 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.wfm.com
+- +.wholecitiesfoundation.org
+- +.wholefoods.com
+- +.wholefoodsmarket.co.uk
+- +.wholefoodsmarket.com
+- +.wholekidsfoundation.org
+- +.wholeplanetfoundation.org

@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: origin
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,eastore.com
+DOMAIN-SUFFIX,lordofultima.com
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin.tv
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,rtm.tnt-ea.com
+DOMAIN,ssl-lvlt.cdn.ea.com

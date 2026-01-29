@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: 1337x
+# Updated: 2026-01-29 04:09:52 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.1337x.to
+- +.1337x.gd
+- +.1337x.is
+- +.1337x.st
+- +.1337x.tw
+- +.1337xto.to
+- +.1337xx.to
+- +.x1337x.eu
+- +.x1337x.se
+- +.x1337x.ws

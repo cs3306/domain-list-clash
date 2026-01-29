@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: cainiao
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,cainiao-inc.com
+- DOMAIN-SUFFIX,cainiao.com
+- DOMAIN-SUFFIX,cainiao.com.cn
+- DOMAIN-SUFFIX,cainiaoyizhan.com
+- DOMAIN-SUFFIX,guoguo-app.com

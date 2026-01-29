@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: ookla-speedtest
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cdnst.net
+- +.cellmaps.com
+- +.ekahau.cloud
+- +.ekahau.com
+- +.ookla.com
+- +.ooklaserver.net
+- +.pingtest.net
+- +.speedtest.co
+- +.speedtest.net
+- +.speedtestcustom.com
+- +.webtest.net
+- www.speedtest.net.cdn.cloudflare.net
+- +.ookla-speedtest-central.hgconair.hgc.com.hk

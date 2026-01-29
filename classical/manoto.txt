@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: manoto
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,manoto1.tv
+DOMAIN-SUFFIX,manototv.com

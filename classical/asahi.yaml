@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: asahi
+# Updated: 2026-01-29 04:09:52 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,aiasahi.jp
+- DOMAIN-SUFFIX,asagaku.com
+- DOMAIN-SUFFIX,asahi.com
+- DOMAIN-SUFFIX,asahicom.jp
+- DOMAIN-SUFFIX,asakonet.co.jp
+- DOMAIN-SUFFIX,nikkansports.com
+- DOMAIN,asahishimbun.sc.omtrdc.net

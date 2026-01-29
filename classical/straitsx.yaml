@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: straitsx
+# Updated: 2026-01-29 04:09:56 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,straitsx.com
+- DOMAIN,d3r7nsslvs6aaf.cloudfront.net
+- DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com

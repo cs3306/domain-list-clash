@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: familymart
+# Updated: 2026-01-29 04:09:54 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.famifun.com.tw
+- +.family.co.jp
+- +.family.com.tw
+- +.familymart.com.cn
+- +.familymart.com.my
+- +.familymart.com.ph
+- +.famima.vn

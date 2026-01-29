@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: tokyo-sports
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.tokyo-sports.co.jp
+- +.tospo-keiba.jp

@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: chinabroadnet
+# Updated: 2026-01-29 04:09:54 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,10099.com.cn
+- DOMAIN-SUFFIX,chn.cn
+- DOMAIN-SUFFIX,ahitv.com
+- DOMAIN-SUFFIX,cqccn.com
+- DOMAIN-SUFFIX,gcable.com.cn
+- DOMAIN-SUFFIX,sc96655.com
+- DOMAIN-SUFFIX,isxtv.com
+- DOMAIN-SUFFIX,sdgdwljt.com

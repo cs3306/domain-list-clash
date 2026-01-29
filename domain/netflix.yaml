@@ -1,0 +1,31 @@
+# Generated from v2fly/domain-list-community
+# Source: netflix
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 24
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.fast.com
+- +.netflix.ca
+- +.netflix.com
+- +.netflix.net
+- +.netflixinvestor.com
+- +.netflixtechblog.com
+- +.nflxext.com
+- +.nflximg.com
+- +.nflximg.net
+- +.nflxsearch.net
+- +.nflxso.net
+- +.nflxvideo.net
+- +.netflixdnstest0.com
+- +.netflixdnstest1.com
+- +.netflixdnstest2.com
+- +.netflixdnstest3.com
+- +.netflixdnstest4.com
+- +.netflixdnstest5.com
+- +.netflixdnstest6.com
+- +.netflixdnstest7.com
+- +.netflixdnstest8.com
+- +.netflixdnstest9.com
+- +.netflixdnstest10.com
+- netflix.com.edgesuite.net

@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: sky
+# Updated: 2026-01-29 04:09:56 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.sky.com
+- +.skyassets.com
+- +.skymansion.net
+- +.skyoceanrescue.com
+- +.skyoceanrescue.de
+- +.skyoceanrescue.it
+- +.skysports.com
+- +.skysports.fr
+- +.skysports.ie
+- +.skysportsonline.com
+- +.skysportsracing.com
+- +.cn-cdn1.skymansion.net
