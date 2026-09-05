@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: cian
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cian.ru
+- +.cian.site
+- +.ciangroup.ru
+- +.dmir.ru
+- +.poudobnee.com
+- +.xn--80aaafbpzn5blfby1p.xn--p1ai
+- +.xn--80aaeib8abrryx4k.xn--p1ai

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: dlercloud
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dlercloud.org
+DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,dleris.best

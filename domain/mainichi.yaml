@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: mainichi
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.machigoto.jp
+- +.mainichi-athletepartners.jp
+- +.mainichi.jp
+- +.mainichibooks.com
+- +.meijinsen.jp
+- +.mirailab.tech
+- +.mottainai.info
+- +.newsgawakaru.com
+- +.sponichi.co.jp
+- +.weekly-economist.com

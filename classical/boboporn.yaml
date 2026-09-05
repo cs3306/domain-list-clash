@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: boboporn
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,boboporn.com
+- DOMAIN-SUFFIX,boboporn.net
+- DOMAIN-SUFFIX,bobovip.cc
+- DOMAIN-SUFFIX,sesez.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: changyou
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,changyou.com
+DOMAIN-SUFFIX,cy.com
+DOMAIN-SUFFIX,playcool.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com

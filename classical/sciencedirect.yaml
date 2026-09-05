@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: sciencedirect
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 2
+
+payload:
+- DOMAIN-SUFFIX,sciencedirect.com
+- DOMAIN-SUFFIX,sciencedirectassets.com

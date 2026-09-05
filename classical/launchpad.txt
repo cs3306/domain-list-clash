@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: launchpad
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,launchpadcontent.net
+DOMAIN-SUFFIX,launchpadlibrarian.com
+DOMAIN-SUFFIX,launchpadlibrarian.net
+DOMAIN-SUFFIX,launchpadlibrarian.org

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: ficbook
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,fanfictionero.com
+- DOMAIN-SUFFIX,fic.fan
+- DOMAIN-SUFFIX,ficador.com
+- DOMAIN-SUFFIX,ficbook.net
+- DOMAIN-SUFFIX,ficmania.com
+- DOMAIN-SUFFIX,teinon.net

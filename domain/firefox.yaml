@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: firefox
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.extendfirefox.com
+- +.firefox.com
+- +.firefox.hu
+- +.firefoxtweetmachine.com
+- +.firefoxusercontent.com
+- mozilla-ohttp.fastly-edge.com
+- mozilla.map.fastly.net

@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: category-forums-ru
+# Updated: 2026-09-05 06:48:40 UTC
+# Total rules: 10
+
+DOMAIN-SUFFIX,dtf.ru
+DOMAIN-SUFFIX,opennet.dev
+DOMAIN-SUFFIX,opennet.ru
+DOMAIN-SUFFIX,prodota.ru
+DOMAIN-SUFFIX,pikabu.ru
+DOMAIN-SUFFIX,tischenko.su
+DOMAIN-SUFFIX,vc.ru
+DOMAIN-SUFFIX,yapfiles.ru
+DOMAIN-SUFFIX,yaplakal.com
+DOMAIN-SUFFIX,yap.ru

@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: raiffeisenbank
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.aval.ua
+- +.priorbank.by
+- +.raiffeisen-kosovo.com
+- +.raiffeisen-media.ru
+- +.raiffeisen.al
+- +.raiffeisen.hu
+- +.raiffeisen.ro
+- +.raiffeisen.ru
+- +.raiffeisen.ua
+- +.raiffeisenbank.ba
+- +.raiffeisenbank.rs
+- +.rb.cz
+- +.rba.hr
+- +.rbinternational.com
+- +.rzb.at
+- +.tatrabanka.sk

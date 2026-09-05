@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: vpngate
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,opengw.net
+- DOMAIN-SUFFIX,vpngate.jp
+- DOMAIN-SUFFIX,vpngate.net

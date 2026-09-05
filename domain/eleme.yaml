@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: eleme
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.doservice.com
+- +.ele.me
+- +.ele.to
+- +.eleme.cn
+- +.eleme.io
+- +.elemecdn.cn
+- +.elemecdn.com
+- +.elenet.me
+- +.fengniaojipei.net
+- +.adashx.ut.ele.me
+- +.h-adashx.ut.ele.me
+- +.v6-adashx.ut.ele.me

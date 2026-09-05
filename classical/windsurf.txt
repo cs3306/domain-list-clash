@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: windsurf
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com

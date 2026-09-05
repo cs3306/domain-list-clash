@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: sonemic
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,glitchwave.com
+- DOMAIN-SUFFIX,rateyourmusic.com
+- DOMAIN-SUFFIX,rym.fm
+- DOMAIN-SUFFIX,snmc.io
+- DOMAIN-SUFFIX,sonematic.net
+- DOMAIN-SUFFIX,sonemic.com

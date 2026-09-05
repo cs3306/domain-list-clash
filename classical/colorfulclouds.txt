@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: colorfulclouds
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,caiyunai.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,colorfulclouds.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,xiaomengai.com

@@ -1,0 +1,25 @@
+# Generated from v2fly/domain-list-community
+# Source: chinatelecom
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 18
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ctexcel.ca
+- +.ctexcel.com
+- +.ctexcel.com.hk
+- +.ctexcel.fr
+- +.ctexcel.us
+- +.189.cn
+- +.189smarthome.com
+- +.21cn.com
+- +.bestpay.cn
+- +.bestpay.com.cn
+- +.chinatelecom-h.com
+- +.chinatelecom.com.cn
+- +.chinatelecomglobal.com
+- +.chinatelecomhk.com
+- +.chntel.com
+- +.dlife.cn
+- +.play.cn
+- +.vnet.cn

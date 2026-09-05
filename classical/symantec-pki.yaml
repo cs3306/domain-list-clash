@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: symantec-pki
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,pki.symantec.com
+- DOMAIN-SUFFIX,symauth.com
+- DOMAIN-SUFFIX,symcb.com
+- DOMAIN-SUFFIX,symcd.com
+- DOMAIN-SUFFIX,ws.symantec.com

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: tiancity
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,tiancity.com
+DOMAIN-SUFFIX,tiancitycdn.com

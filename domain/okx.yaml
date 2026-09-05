@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: okx
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.okex.com
+- +.okx-dns.com
+- +.okx-dns1.com
+- +.okx-dns2.com
+- +.okx.ac
+- +.okx.cab
+- +.okx.com
+- +.okx.com.cdn.cloudflare.net
+- +.xlayer.tech
+- +.oklink.com

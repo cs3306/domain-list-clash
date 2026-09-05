@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: 36kr
+# Updated: 2026-09-05 06:48:38 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.36dianping.com
+- +.36linkr.com
+- +.36kr.com
+- +.36krcdn.com
+- +.36krcnd.com
+- +.adx.36kr.com

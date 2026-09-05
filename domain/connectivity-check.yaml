@@ -1,0 +1,34 @@
+# Generated from v2fly/domain-list-community
+# Source: connectivity-check
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 27
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.captive.apple.com
+- ping.archlinux.org
+- redirect.archlinux.org
+- +.cp.cloudflare.com
+- +.network-test.debian.org
+- +.detectportal.firefox.com
+- nmcheck.gnome.org
+- connectivitycheck.gstatic.com
+- www.gstatic.com
+- connectivitycheck.platform.hihonorcloud.com
+- connectivitycheck.platform.hicloud.com
+- networkcheck.kde.org
+- +.kuketz.de
+- edge-http.microsoft.com
+- connect.rom.miui.com
+- conn1.oppomobile.com
+- conn2.oppomobile.com
+- www.qualcomm.cn
+- www.qualcomm.com
+- connectivity.samsung.com.cn
+- +.ipv6check-http.steamserver.net
+- +.ipv6check-udp.steamserver.net
+- +.test.steampowered.com
+- connectivity-check.ubuntu.com
+- wifi.vivo.com.cn
+- +.msftconnecttest.com
+- +.msftncsi.com

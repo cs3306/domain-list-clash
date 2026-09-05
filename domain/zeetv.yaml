@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: zeetv
+# Updated: 2026-09-05 06:48:44 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.z5.app
+- +.z5.com
+- +.zee5.com
+- +.zee5.in
+- +.zee5.tv
+- +.zeebioskop.com
+- +.zeetv.co.uk
+- +.zeetv.com
+- +.zeeuk.com

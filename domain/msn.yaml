@@ -1,0 +1,28 @@
+# Generated from v2fly/domain-list-community
+# Source: msn
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 21
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.microsoftnews.cc
+- +.microsoftnews.cn
+- +.microsoftnews.com
+- +.microsoftnews.net
+- +.microsoftnews.org
+- +.microsoftnewsforkids.com
+- +.microsoftnewsforkids.net
+- +.microsoftnewsforkids.org
+- +.microsoftnewskids.com
+- +.microsoftnewskids.net
+- +.microsoftnewskids.org
+- +.msn.cn
+- +.msn.com
+- +.msnewskids.com
+- +.msnewskids.net
+- +.msnewskids.org
+- +.msnkids.com
+- +.microsoftstart.com
+- +.start.com
+- +.browser.events.data.msn.cn
+- +.browser.events.data.msn.com

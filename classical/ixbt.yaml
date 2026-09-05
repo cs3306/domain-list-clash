@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: ixbt
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,ixbt.com
+- DOMAIN-SUFFIX,ixbt.games
+- DOMAIN-SUFFIX,ixbt.pro
+- DOMAIN-SUFFIX,ixbt.ru
+- DOMAIN-SUFFIX,ixbt.market
+- DOMAIN-SUFFIX,ixbt.media
+- DOMAIN-SUFFIX,ixbt.shop
+- DOMAIN-SUFFIX,ixbt.site
+- DOMAIN-SUFFIX,ixbt.video

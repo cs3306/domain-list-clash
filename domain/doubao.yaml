@@ -1,0 +1,39 @@
+# Generated from v2fly/domain-list-community
+# Source: doubao
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 32
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.butterfly-static.cn
+- +.butterflyai.cn
+- +.coze-dns-01.com
+- +.coze.cn
+- +.coze.email
+- +.coze.site
+- +.cozeapp.net
+- +.cozebaas.cn
+- +.cozebuild.com
+- +.cozecdn.com
+- +.cozedeploy.com
+- +.cozefn.cn
+- +.cozeide.cn
+- +.cozesdk.com
+- +.cozetest.cn
+- +.cozetest2.cn
+- +.cozetest3.cn
+- +.dbbuilding.fun
+- +.building.fun
+- +.instreet.com
+- +.doubao-dev.com
+- +.doubao.com
+- +.doubaocdn.com
+- +.hi-butterfly.cn
+- +.maoxiangai.com
+- +.myparallelstory.com
+- +.oceancloudapi.com
+- +.obriccloud.com
+- +.obricclouddw.com
+- +.picpic-ai.cn
+- +.pixeldance.com
+- +.api-building.fun

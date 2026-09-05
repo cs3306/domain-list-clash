@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: atlassian
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 11
+
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
+DOMAIN-SUFFIX,atl-paas.net
+DOMAIN-SUFFIX,atlassian-dev.net
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,jira.com
+DOMAIN-SUFFIX,ss-inf.net
+DOMAIN-SUFFIX,statuspage.io

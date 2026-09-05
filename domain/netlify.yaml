@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: netlify
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 10
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bitballoon.com
+- +.netlify.app
+- +.netlify.com
+- +.netlifydns.com
+- +.netlifystatus.com
+- +.netlifyusercontent.com
+- +.ntl.fyi
+- acd89244c803f7181.awsglobalaccelerator.com
+- afa7f374f51cc8991.awsglobalaccelerator.com
+- d33wubrfki0l68.cloudfront.net

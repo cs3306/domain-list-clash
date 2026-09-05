@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: lysol
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.lizol.co.in
+- +.lysol.ca
+- +.lysol.cl
+- +.lysol.cn
+- +.lysol.co.cr
+- +.lysol.com
+- +.lysol.com.cn
+- +.lysol.com.mx
+- +.lysol.net

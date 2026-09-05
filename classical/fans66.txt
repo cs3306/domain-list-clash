@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: fans66
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,fans66.tw
+DOMAIN-SUFFIX,fansking.tw

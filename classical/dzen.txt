@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: dzen
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
+DOMAIN-SUFFIX,dzeninfra.ru

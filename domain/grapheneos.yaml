@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: grapheneos
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.attestation.app
+- +.grapheneos.app
+- +.grapheneos.ca
+- +.grapheneos.com
+- +.grapheneos.dev
+- +.grapheneos.foundation
+- +.grapheneos.info
+- +.grapheneos.net
+- +.grapheneos.network
+- +.grapheneos.online
+- +.grapheneos.org
+- +.grapheneos.ovh
+- +.grapheneos.page
+- +.grapheneos.social
+- +.seamlessupdate.app
+- +.vanadium.app

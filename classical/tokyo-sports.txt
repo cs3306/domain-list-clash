@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: tokyo-sports
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,tokyo-sports.co.jp
+DOMAIN-SUFFIX,tospo-keiba.jp

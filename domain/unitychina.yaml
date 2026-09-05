@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: unitychina
+# Updated: 2026-09-05 06:48:44 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.u3d.cn
+- +.unity.cn
+- +.unitychina.cn
+- +.unity3dcloud.cn
+- +.ads.unitychina.cn
+- +.splash-ads.cdn.unity.cn
+- +.splash-ads.unitychina.cn
+- +.unityads.unity.cn
+- +.unityads.unitychina.cn

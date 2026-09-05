@@ -1,0 +1,21 @@
+# Generated from v2fly/domain-list-community
+# Source: tvb
+# Updated: 2026-09-05 06:48:44 UTC
+# Total domains: 14
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mytvsuper.com
+- +.bigbigchannel.com.hk
+- +.bigbigshop.com
+- +.encoretvb.com
+- +.neigbuy.com
+- +.tvb.com
+- +.tvb.com.au
+- +.tvbanywhere.com
+- +.tvbanywhere.com.sg
+- +.tvbc.com.cn
+- +.tvbeventpower.com.hk
+- +.tvbusa.com
+- +.tvbweekly.com
+- +.tvmedia.net.au

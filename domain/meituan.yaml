@@ -1,0 +1,26 @@
+# Generated from v2fly/domain-list-community
+# Source: meituan
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 19
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.100.me
+- +.ddcorp.net
+- +.ddfresh.net
+- +.ddimg.mobi
+- +.ddmaicai.net
+- +.ddmc.mobi
+- +.dduser.mobi
+- +.ddxq.mobi
+- +.imaicai.mobi
+- +.51ping.com
+- +.baobaoaichi.cn
+- +.dianping.com
+- +.dpfile.com
+- +.maoyan.com
+- +.meituan.com
+- +.meituan.net
+- +.mtyun.com
+- +.neixin.cn
+- +.sankuai.com

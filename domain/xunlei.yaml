@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: xunlei
+# Updated: 2026-09-05 06:48:44 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.8uri.cn
+- +.kanimg.com
+- +.sandai.net
+- +.thunderurl.com
+- +.xunlei.com
+- +.00cdn.com
+- +.88cdn.com
+- +.p2cdn.com
+- +.thundercdn.com
+- +.xycloud.com
+- +.xycdn.com
+- +.guangyacdn.com
+- +.guangyapan.com

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: bluesky
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,bsky.app
+- DOMAIN-SUFFIX,bsky.network
+- DOMAIN-SUFFIX,bsky.social

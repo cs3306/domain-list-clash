@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: twilio
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,twilio.jp
+DOMAIN-SUFFIX,tytch.com

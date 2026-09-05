@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: hkbn
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,csifund.org
+- DOMAIN-SUFFIX,hkbn.com.hk
+- DOMAIN-SUFFIX,hkbn.net
+- DOMAIN-SUFFIX,hkbnes.net
+- DOMAIN-SUFFIX,jos.com
+- DOMAIN-SUFFIX,speedtest.com.hk

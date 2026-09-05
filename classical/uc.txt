@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: uc
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,open-uc.cn
+DOMAIN-SUFFIX,uc-engine.cn
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,uc123.com
+DOMAIN-SUFFIX,ucfly.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,uczzd.cn
+DOMAIN-SUFFIX,ads.uc.cn
+DOMAIN-SUFFIX,adslot.uc.cn

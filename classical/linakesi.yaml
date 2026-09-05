@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: linakesi
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,linakesi.com
+- DOMAIN-SUFFIX,linakesi.cn
+- DOMAIN-SUFFIX,lazycat.cloud
+- DOMAIN-SUFFIX,heiyu.space

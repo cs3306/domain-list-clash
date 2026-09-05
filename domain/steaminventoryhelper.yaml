@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: steaminventoryhelper
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.sih-db.com
+- +.sih.app
+- +.steaminventoryhelper.com

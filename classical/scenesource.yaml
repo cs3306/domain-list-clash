@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: scenesource
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,predb.me
+- DOMAIN-SUFFIX,scenesource.me
+- DOMAIN-SUFFIX,scnsrc.me

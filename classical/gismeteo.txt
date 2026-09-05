@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: gismeteo
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,gismeteo.by
+DOMAIN-SUFFIX,gismeteo.com
+DOMAIN-SUFFIX,gismeteo.net
+DOMAIN-SUFFIX,gismeteo.ru
+DOMAIN-SUFFIX,gismeteo.st
+DOMAIN-SUFFIX,meteofor.com
+DOMAIN-SUFFIX,meteofor.st

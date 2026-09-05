@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: ciweimao
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ciweimao.com
+- +.hbooker.com
+- +.kuangxiangit.com

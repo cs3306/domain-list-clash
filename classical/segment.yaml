@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: segment
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,segment.com
+- DOMAIN-SUFFIX,segment.io
+- DOMAIN-SUFFIX,segmenthub.com
+- DOMAIN-SUFFIX,segmentify.com

@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: category-ai-ru
+# Updated: 2026-09-05 06:48:39 UTC
+# Total rules: 12
+
+DOMAIN-SUFFIX,aiesa.ru
+DOMAIN-SUFFIX,alice.yandex.net
+DOMAIN-SUFFIX,alice.yandex.ru
+DOMAIN-SUFFIX,alicepro.yandex.ru
+DOMAIN-SUFFIX,copymonkey.app
+DOMAIN-SUFFIX,gerwin.io
+DOMAIN-SUFFIX,giga.chat
+DOMAIN-SUFFIX,gptunnel.ru
+DOMAIN-SUFFIX,polza.ai
+DOMAIN-SUFFIX,robotext.io
+DOMAIN-SUFFIX,rugpt.io
+DOMAIN-SUFFIX,tokenator.top

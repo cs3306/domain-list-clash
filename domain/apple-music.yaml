@@ -1,0 +1,25 @@
+# Generated from v2fly/domain-list-community
+# Source: apple-music
+# Updated: 2026-09-05 06:48:38 UTC
+# Total domains: 18
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.applemusic.berlin
+- +.applemusic.co
+- +.applemusic.com
+- +.applemusic.com.au
+- +.applemusic.hamburg
+- +.applemusic.wang
+- +.applemusicconnect.com
+- +.applemusicfestival.com
+- +.musickit.net
+- +.wwwapplemusic.com
+- +.music.apple.com
+- amp-api-edge.music.apple.com
+- amp-api.music.apple.com
+- js-cdn.music.apple.com
+- music.apple.com
+- musicstatus.music.apple.com
+- play.music.apple.com
+- speedysub.music.apple.com

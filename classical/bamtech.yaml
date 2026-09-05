@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: bamtech
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,bamgrid.com
+- DOMAIN-SUFFIX,bamtech.net
+- DOMAIN-SUFFIX,dmed.technology

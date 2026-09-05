@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: verizon
+# Updated: 2026-09-05 06:48:44 UTC
+# Total domains: 15
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.oath.cloud
+- +.oath.com
+- +.ouroath.com
+- +.static-verizon.com
+- +.uplynk.com
+- +.verizon.com
+- +.verizon.net
+- +.verizonbusinessfios.com
+- +.verizondigitalmedia.com
+- +.verizonenterprise.com
+- +.verizonfios.com
+- +.verizonmedia.com
+- +.verizonwireless.com
+- +.vzw.com
+- +.xo.com

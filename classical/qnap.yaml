@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: qnap
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,myqnapcloud.com
+- DOMAIN-SUFFIX,qlink.to
+- DOMAIN-SUFFIX,qnap.com
+- DOMAIN-SUFFIX,qnapsupport.net
+- DOMAIN-SUFFIX,mycloudnas.com
+- DOMAIN-SUFFIX,myqnapcloud.cn
+- DOMAIN-SUFFIX,qlinkto.cn
+- DOMAIN-SUFFIX,qnap.com.cn

@@ -1,0 +1,41 @@
+# Generated from v2fly/domain-list-community
+# Source: category-browser-!cn
+# Updated: 2026-09-05 06:48:39 UTC
+# Total domains: 34
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ceno.app
+- +.censorship.no
+- +.epicbrowser.com
+- +.extendfirefox.com
+- +.firefox.com
+- +.firefox.hu
+- +.firefoxtweetmachine.com
+- +.firefoxusercontent.com
+- mozilla-ohttp.fastly-edge.com
+- mozilla.map.fastly.net
+- +.torproject.org
+- +.chrome.com
+- +.chromium.org
+- +.basilisk-browser.org
+- +.brave.com
+- +.bromite.org
+- +.browser.kagi.com
+- +.cromite.org
+- +.decentr.net
+- +.dothq.org
+- +.floorp.app
+- +.iridiumbrowser.de
+- +.kiwibrowser.com
+- +.kmeleonbrowser.org
+- +.librewolf.net
+- +.minbrowser.org
+- +.netsurf-browser.org
+- +.opera.com
+- +.palemoon.org
+- +.pulsebrowser.app
+- +.qutebrowser.org
+- +.vivaldi.com
+- +.waterfox.net
+- +.zen-browser.app

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: swift
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,appleswift.com
+- DOMAIN-SUFFIX,swift.org
+- DOMAIN-SUFFIX,swiftui.cn
+- DOMAIN-SUFFIX,swiftui.com.cn

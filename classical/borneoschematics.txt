@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: borneoschematics
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,borneo.world
+DOMAIN-SUFFIX,borneoasia.com
+DOMAIN-SUFFIX,borneoschematic.com
+DOMAIN-SUFFIX,bosharso.net
+DOMAIN-SUFFIX,hostborneo.org

@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: alibabacloud
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 12
+
+DOMAIN-SUFFIX,alibabacloud.co.in
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,alibabacloud.com.au
+DOMAIN-SUFFIX,alibabacloud.com.hk
+DOMAIN-SUFFIX,alibabacloud.com.my
+DOMAIN-SUFFIX,alibabacloud.com.sg
+DOMAIN-SUFFIX,alibabacloud.com.tw
+DOMAIN-SUFFIX,alicloud.com
+DOMAIN,account-cn.alibabacloud.com
+DOMAIN,api.alibabacloud.com
+DOMAIN,cn.alibabacloud.com
+DOMAIN,status.alibabacloud.com

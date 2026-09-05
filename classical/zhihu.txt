@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: zhihu
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,laiyagushi.com
+DOMAIN-SUFFIX,vzuu.com
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

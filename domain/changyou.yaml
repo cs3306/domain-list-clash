@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: changyou
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.17173.com
+- +.17173cdn.com
+- +.changyou.com
+- +.cy.com
+- +.playcool.com
+- +.yeyou.com
+- +.yeyoucdn.com

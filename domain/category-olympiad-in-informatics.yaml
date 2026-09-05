@@ -1,0 +1,25 @@
+# Generated from v2fly/domain-list-community
+# Source: category-olympiad-in-informatics
+# Updated: 2026-09-05 06:48:40 UTC
+# Total domains: 18
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.leetcode.cn
+- +.leetcode-cn.com
+- +.lingkou.xyz
+- +.lingkou.com
+- +.lingkou.cn
+- +.51nod.com
+- +.acwing.com
+- +.adacpp.com
+- +.hihocoder.com
+- +.jisuanke.com
+- +.kidsccshow.com
+- +.luogu.com.cn
+- +.oi-wiki.com
+- +.openjudge.cn
+- +.rqnoj.cn
+- +.uoj.ac
+- +.vijos.org
+- +.xmoj.tech

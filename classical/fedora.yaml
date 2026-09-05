@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: fedora
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,fedoraforum.org
+- DOMAIN-SUFFIX,fedorainfracloud.org
+- DOMAIN-SUFFIX,fedoramagazine.org
+- DOMAIN-SUFFIX,fedorapeople.org
+- DOMAIN-SUFFIX,fedoraproject.org
+- DOMAIN-SUFFIX,getfedora.org

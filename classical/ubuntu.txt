@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: ubuntu
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io

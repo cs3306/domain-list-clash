@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: gateio
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gate.com
+- +.gate.io
+- +.gate.tv
+- +.gateapi.io
+- +.gatedata.org
+- +.gateimg.com
+- +.gateio.live
+- +.gateio.services

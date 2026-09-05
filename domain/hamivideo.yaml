@@ -1,0 +1,26 @@
+# Generated from v2fly/domain-list-community
+# Source: hamivideo
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 19
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- apl-hamivideo.cdn.hinet.net
+- chatscc-hamivideo2.cdn.hinet.net
+- efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
+- favoritescc-hamivideo2.cdn.hinet.net
+- hamivideo.hinet.net
+- hls-hamivideo.cdn.hinet.net
+- lgcscc-hamivideo2.cdn.hinet.net
+- mobilelive-hamivideo.cdn.hinet.net
+- pvr-hamivideo.cdn.hinet.net
+- scc-hamivideo.cdn.hinet.net
+- scc.ott.hinet.net
+- static-hamivideo.cdn.hinet.net
+- t.ssp.hinet.net
+- thumbnail-hamivideo.cdn.hinet.net
+- tlmr-hamivideo2.cdn.hinet.net
+- tvcastlive-hamivideo.cdn.hinet.net
+- weblive-hamivideo.cdn.hinet.net
+- weblivea-hamivideo.cdn.hinet.net
+- webvodad-hamivideo.cdn.hinet.net

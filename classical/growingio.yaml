@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: growingio
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,datayi.cn
+- DOMAIN-SUFFIX,gio.ren
+- DOMAIN-SUFFIX,giocdn.com
+- DOMAIN-SUFFIX,growin.cn
+- DOMAIN-SUFFIX,growingio.cn
+- DOMAIN-SUFFIX,growingio.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: cnet
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cnet.co.kr
+- +.cnet.com
+- +.cnet.de
+- +.cnetfrance.fr
+- +.download.com

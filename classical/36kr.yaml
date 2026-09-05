@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: 36kr
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,36dianping.com
+- DOMAIN-SUFFIX,36linkr.com
+- DOMAIN-SUFFIX,36kr.com
+- DOMAIN-SUFFIX,36krcdn.com
+- DOMAIN-SUFFIX,36krcnd.com
+- DOMAIN-SUFFIX,adx.36kr.com

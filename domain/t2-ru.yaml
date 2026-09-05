@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: t2-ru
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.b2c-digest.ru
+- +.t2.ru
+- +.tele2.ru

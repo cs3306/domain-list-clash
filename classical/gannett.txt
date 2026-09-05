@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: gannett
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,gannett-cdn.com
+DOMAIN-SUFFIX,gannett.com
+DOMAIN-SUFFIX,gannettdigital.com
+DOMAIN-SUFFIX,usatoday.com
+DOMAIN-SUFFIX,usatodaynetworkservice.com

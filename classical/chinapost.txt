@@ -1,0 +1,24 @@
+# Generated from v2fly/domain-list-community
+# Source: chinapost
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 19
+
+DOMAIN-SUFFIX,chinapost.com.cn
+DOMAIN-SUFFIX,chinapost.cn
+DOMAIN-SUFFIX,11183.com.cn
+DOMAIN-SUFFIX,11185.cn
+DOMAIN-SUFFIX,ems.com.cn
+DOMAIN-SUFFIX,chinapost-life.com
+DOMAIN-SUFFIX,chinapostdaily.com.cn
+DOMAIN-SUFFIX,chinapostnews.com.cn
+DOMAIN-SUFFIX,chinapostnews.cn
+DOMAIN-SUFFIX,ctvpost.com
+DOMAIN-SUFFIX,chnppmuseum.com
+DOMAIN-SUFFIX,cnpsec.com
+DOMAIN-SUFFIX,cptu.cn
+DOMAIN-SUFFIX,cptu.org.cn
+DOMAIN-SUFFIX,postoa.com.cn
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,ule.com
+DOMAIN-SUFFIX,ulecdn.com
+DOMAIN-SUFFIX,postmail.cn

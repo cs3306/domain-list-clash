@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: positive-technologies
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ptcloud.ru
+- +.ptsecurity.com
+- +.standoff365.com

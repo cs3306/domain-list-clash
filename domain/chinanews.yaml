@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: chinanews
+# Updated: 2026-09-05 06:48:41 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.chinanews.com
+- +.chinanews.com.cn
+- +.chinaqw.com
+- +.cns.com.cn
+- +.cnsimg.net
+- +.ecns.cn
+- +.inewsweek.cn
+- +.jwview.com
+- +.xinmeng.info

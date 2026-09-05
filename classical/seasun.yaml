@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: seasun
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,seasungames.cn
+- DOMAIN-SUFFIX,seasungames.com
+- DOMAIN-SUFFIX,seasunwbl.com
+- DOMAIN-SUFFIX,xishanju.com
+- DOMAIN-SUFFIX,xoyo.com
+- DOMAIN-SUFFIX,xoyocdn.com
+- DOMAIN-SUFFIX,cbjq.com
+- DOMAIN-SUFFIX,testplus.cn

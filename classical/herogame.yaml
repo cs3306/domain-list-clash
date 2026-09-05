@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: herogame
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,hero.com
+- DOMAIN-SUFFIX,herogame.com
+- DOMAIN-SUFFIX,heroesports.com
+- DOMAIN-SUFFIX,shyxhy.com
+- DOMAIN-SUFFIX,yingxiong.com

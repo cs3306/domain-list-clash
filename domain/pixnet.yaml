@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: pixnet
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.pimg.tw
+- +.pixanalytics.com
+- +.pixfs.net
+- +.pixinsight.com.tw
+- +.pixnet.cc
+- +.pixnet.net
+- +.pixnet.pro
+- +.pixnet.tw
+- +.pixplug.in

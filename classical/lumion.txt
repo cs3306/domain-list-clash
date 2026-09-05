@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: lumion
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,lumion-la.com
+DOMAIN-SUFFIX,lumion.com
+DOMAIN-SUFFIX,lumion3d.com.my
+DOMAIN-SUFFIX,lumion3d.net
+DOMAIN-SUFFIX,lumiontech.net
+DOMAIN-SUFFIX,mylumion.com

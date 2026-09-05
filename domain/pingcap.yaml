@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: pingcap
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.asktug.com
+- +.pingcap.cn
+- +.pingcap.com
+- +.tidb.ai
+- +.tidb.net
+- +.tidbcloud.com
+- +.tikv.org

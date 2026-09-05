@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: vrzwk
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,vrzwk.cn
+DOMAIN-SUFFIX,vrzwk.com
+DOMAIN-SUFFIX,vrzwk.net
+DOMAIN-SUFFIX,vrzwk.top

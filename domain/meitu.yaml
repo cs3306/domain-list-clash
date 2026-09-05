@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: meitu
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.meitu.com
+- +.meitudata.com
+- +.meitustat.com
+- +.designkit.cn
+- +.kaipai.com
+- +.meipai.com
+- +.meituxiuxiu.com
+- +.meiyan.com
+- +.miraclevision.com
+- +.roboneo.com
+- +.whee.com
+- +.wink.cn
+- +.zcool.com.cn

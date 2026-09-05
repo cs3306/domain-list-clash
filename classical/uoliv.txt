@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: uoliv
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,liv.ac.uk
+DOMAIN-SUFFIX,liverpool.ac.uk
+DOMAIN-SUFFIX,livinno.org
+DOMAIN-SUFFIX,opac-project.eu

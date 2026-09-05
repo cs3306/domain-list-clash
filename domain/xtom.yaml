@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: xtom
+# Updated: 2026-09-05 06:48:44 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.v.ps
+- +.vps.hosting
+- +.xtom.au
+- +.xtom.com
+- +.xtom.de
+- +.xtom.ee
+- +.xtom.hk
+- +.xtom.jp
+- +.xtom.nl
+- +.xtom.sg
+- +.xtom.social
+- +.xtom.us

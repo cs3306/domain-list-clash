@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: cityu-hk
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,cityu.hk
+- DOMAIN-SUFFIX,cityu.edu.hk
+- DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
+- DOMAIN-SUFFIX,xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g

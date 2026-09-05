@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: xda
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xdaimages.com

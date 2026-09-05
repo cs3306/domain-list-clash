@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: gismeteo
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.gismeteo.by
+- +.gismeteo.com
+- +.gismeteo.net
+- +.gismeteo.ru
+- +.gismeteo.st
+- +.meteofor.com
+- +.meteofor.st

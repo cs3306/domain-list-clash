@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: apkpure
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,apkpures.xyz
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com

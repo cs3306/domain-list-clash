@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: nytimes
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.nyt.com
+- +.nyt.net
+- +.nytchina.com
+- +.nytcn.me
+- +.nytco.com
+- +.nyti.ms
+- +.nytimes.com
+- +.nytstyle.com
+- +.timestalks.com

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: trackernetwork
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,thetrackernetwork.com
+- DOMAIN-SUFFIX,tracker.gg
+- DOMAIN-SUFFIX,tracker.network

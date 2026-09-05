@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: creativecommons
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,ccstatic.org
+- DOMAIN-SUFFIX,creativecommons.org
+- DOMAIN-SUFFIX,creativecommons.engineering
+- DOMAIN-SUFFIX,licensebuttons.net

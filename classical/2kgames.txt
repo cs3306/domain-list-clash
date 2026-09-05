@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: 2kgames
+# Updated: 2026-09-05 06:48:38 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kct.onl
+DOMAIN-SUFFIX,2kgames.com
+DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,2kweb.online

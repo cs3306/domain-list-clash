@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: tld-ru
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 11
+
+DOMAIN-KEYWORD,moscow
+DOMAIN-KEYWORD,ru
+DOMAIN-KEYWORD,su
+DOMAIN-KEYWORD,tatar
+DOMAIN-KEYWORD,xn--80adxhks
+DOMAIN-KEYWORD,xn--80asehdb
+DOMAIN-KEYWORD,xn--80aswg
+DOMAIN-KEYWORD,xn--c1avg
+DOMAIN-KEYWORD,xn--d1acj3b
+DOMAIN-KEYWORD,xn--p1acf
+DOMAIN-KEYWORD,xn--p1ai

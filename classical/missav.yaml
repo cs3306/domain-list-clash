@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: missav
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,missav.ai
+- DOMAIN-SUFFIX,missav.com
+- DOMAIN-SUFFIX,missav.live
+- DOMAIN-SUFFIX,missav.uno
+- DOMAIN-SUFFIX,missav.vip
+- DOMAIN-SUFFIX,missav.ws
+- DOMAIN-SUFFIX,missav123.com

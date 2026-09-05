@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: niconico
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 10
+
+payload:
+- DOMAIN-KEYWORD,nico
+- DOMAIN-SUFFIX,nico.ms
+- DOMAIN-SUFFIX,nicochannel.jp
+- DOMAIN-SUFFIX,nicodic.jp
+- DOMAIN-SUFFIX,nicomanga.jp
+- DOMAIN-SUFFIX,niconico.com
+- DOMAIN-SUFFIX,nicoseiga.jp
+- DOMAIN-SUFFIX,nicovideo.jp
+- DOMAIN-SUFFIX,nimg.jp
+- DOMAIN-SUFFIX,simg.jp

@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: lizhi
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,gzlzfm.com
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,lizhifm.com
+DOMAIN-SUFFIX,lizhiinc.com
+DOMAIN-SUFFIX,lz310.com
+DOMAIN-SUFFIX,lzpipi.com

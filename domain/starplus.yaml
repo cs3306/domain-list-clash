@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: starplus
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.starott.com
+- +.starplus.com
+- +.star.api.edge.bamgrid.com
+- +.star.connections.edge.bamgrid.com
+- +.star.content.edge.bamgrid.com
+- +.star.playback.edge.bamgrid.com

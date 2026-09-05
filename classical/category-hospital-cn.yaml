@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: category-hospital-cn
+# Updated: 2026-09-05 06:48:40 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,fuwai.com
+- DOMAIN-SUFFIX,pkuh6.cn
+- DOMAIN-SUFFIX,puh3.net.cn
+- DOMAIN,hospital.pku.edu.cn
+- DOMAIN,ss.bjmu.edu.cn
+- DOMAIN-SUFFIX,yctdyy.com
+- DOMAIN-SUFFIX,smuszh.com
+- DOMAIN-SUFFIX,cd120.com
+- DOMAIN-SUFFIX,cd120.info
+- DOMAIN-SUFFIX,hnxzctec.com
+- DOMAIN-SUFFIX,ba-hospital.com

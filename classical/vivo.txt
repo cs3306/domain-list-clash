@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: vivo
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 8
+
+DOMAIN-SUFFIX,blueos.com.cn
+DOMAIN-SUFFIX,budingscan.com
+DOMAIN-SUFFIX,iqoo.com
+DOMAIN-SUFFIX,vivo.cn
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,vivo.com.cn
+DOMAIN-SUFFIX,vivoglobal.com
+DOMAIN-SUFFIX,vvstc.com

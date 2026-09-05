@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: cnbc
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbcfm.com
+DOMAIN-SUFFIX,nbcuni.com
+DOMAIN-SUFFIX,nbcudigitaladops.com

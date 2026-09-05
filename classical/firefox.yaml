@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: firefox
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,extendfirefox.com
+- DOMAIN-SUFFIX,firefox.com
+- DOMAIN-SUFFIX,firefox.hu
+- DOMAIN-SUFFIX,firefoxtweetmachine.com
+- DOMAIN-SUFFIX,firefoxusercontent.com
+- DOMAIN,mozilla-ohttp.fastly-edge.com
+- DOMAIN,mozilla.map.fastly.net

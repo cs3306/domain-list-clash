@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: hoyoverse
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 9
+
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

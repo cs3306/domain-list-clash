@@ -1,0 +1,38 @@
+# Generated from v2fly/domain-list-community
+# Source: category-entertainment-ru
+# Updated: 2026-09-05 06:48:40 UTC
+# Total domains: 31
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cdnvideo.ru
+- +.cdnvideohub.com
+- +.kinescopecdn.net
+- +.trbcdn.net
+- +.kinorium.com
+- +.kinopoisk.ru
+- +.kinopoisk-ru.clstorage.net
+- +.okkoapi.tv
+- +.playfamily.ru
+- +.okko.sport
+- +.okko.tv
+- +.restream-media.net
+- +.restream.ru
+- +.more.tv
+- +.wink.am
+- +.wink.ru
+- +.24h.tv
+- +.amediateka.ru
+- +.beeline.tv
+- +.ivi.ru
+- +.ivicdn.tv
+- +.premier.one
+- +.smotreshka.tv
+- +.start.ru
+- +.tvigle.ru
+- +.viju.ru
+- +.promodj.com
+- +.rutube.ru
+- +.rutubelist.ru
+- +.rtbcdn.ru
+- +.rutube.sport

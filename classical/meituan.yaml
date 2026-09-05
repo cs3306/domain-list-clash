@@ -1,0 +1,25 @@
+# Generated from v2fly/domain-list-community
+# Source: meituan
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 19
+
+payload:
+- DOMAIN-SUFFIX,100.me
+- DOMAIN-SUFFIX,ddcorp.net
+- DOMAIN-SUFFIX,ddfresh.net
+- DOMAIN-SUFFIX,ddimg.mobi
+- DOMAIN-SUFFIX,ddmaicai.net
+- DOMAIN-SUFFIX,ddmc.mobi
+- DOMAIN-SUFFIX,dduser.mobi
+- DOMAIN-SUFFIX,ddxq.mobi
+- DOMAIN-SUFFIX,imaicai.mobi
+- DOMAIN-SUFFIX,51ping.com
+- DOMAIN-SUFFIX,baobaoaichi.cn
+- DOMAIN-SUFFIX,dianping.com
+- DOMAIN-SUFFIX,dpfile.com
+- DOMAIN-SUFFIX,maoyan.com
+- DOMAIN-SUFFIX,meituan.com
+- DOMAIN-SUFFIX,meituan.net
+- DOMAIN-SUFFIX,mtyun.com
+- DOMAIN-SUFFIX,neixin.cn
+- DOMAIN-SUFFIX,sankuai.com

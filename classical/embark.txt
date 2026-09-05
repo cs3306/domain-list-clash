@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: embark
+# Updated: 2026-09-05 06:48:41 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,arcraiders.com
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
+DOMAIN-SUFFIX,reachthefinals.com

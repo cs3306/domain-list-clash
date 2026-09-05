@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: category-forums-ir
+# Updated: 2026-09-05 06:48:40 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,quera.ir
+DOMAIN-SUFFIX,quera.org

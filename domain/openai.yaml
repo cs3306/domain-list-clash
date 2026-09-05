@@ -1,0 +1,29 @@
+# Generated from v2fly/domain-list-community
+# Source: openai
+# Updated: 2026-09-05 06:48:43 UTC
+# Total domains: 22
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.chat.com
+- +.chatgpt.com
+- +.chatgpt.site
+- +.crixet.com
+- +.oaistatic.com
+- +.oaistatsig.com
+- +.oaiusercontent.com
+- +.openai.com
+- +.sora.com
+- +.openai.com.cdn.cloudflare.net
+- openaiapi-site.azureedge.net
+- openaiassets.blob.core.windows.net
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- openaicom.imgix.net
+- openaicomproductionae4b.blob.core.windows.net
+- production-openaicom-storage.azureedge.net
+- browser-intake-datadoghq.com
+- o33249.ingest.sentry.io
+- openai.qualtrics.com
+- +.chatgpt.livekit.cloud
+- +.host.livekit.cloud
+- +.turn.livekit.cloud

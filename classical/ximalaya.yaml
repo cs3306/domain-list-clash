@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: ximalaya
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,ximalaya.com
+- DOMAIN-SUFFIX,xmcdn.com
+- DOMAIN-SUFFIX,adbehavior.ximalaya.com
+- DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+- DOMAIN-SUFFIX,adse.ximalaya.com

@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: tongcheng
+# Updated: 2026-09-05 06:48:44 UTC
+# Total rules: 8
+
+payload:
+- DOMAIN-SUFFIX,40017.cn
+- DOMAIN-SUFFIX,17u.cn
+- DOMAIN-SUFFIX,17u.net
+- DOMAIN-SUFFIX,17usoft.com
+- DOMAIN-SUFFIX,17usoft.net
+- DOMAIN-SUFFIX,elong.com
+- DOMAIN-SUFFIX,elongstatic.com
+- DOMAIN-SUFFIX,ly.com

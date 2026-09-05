@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: youzan
+# Updated: 2026-09-05 06:48:44 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.daogou.ai
+- +.koudaitong.com
+- +.quntuantuan.cn
+- +.xinlingshou.com
+- +.youzan.com
+- +.youzanyun.com
+- +.yzcdn.cn

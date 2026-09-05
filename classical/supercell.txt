@@ -1,0 +1,28 @@
+# Generated from v2fly/domain-list-community
+# Source: supercell
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 23
+
+DOMAIN-SUFFIX,boombeach.com
+DOMAIN-SUFFIX,brawlstars.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,clash.com
+DOMAIN-SUFFIX,clashmini.com
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,clashroyale.com
+DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,gamesfirsthelsinki.com
+DOMAIN-SUFFIX,hayday.com
+DOMAIN-SUFFIX,haydaygame.com
+DOMAIN-SUFFIX,mo.co
+DOMAIN-SUFFIX,seeurlpcl.com
+DOMAIN-SUFFIX,squadbusters.com
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,supercell.net
+DOMAIN-SUFFIX,supercellcreators.com
+DOMAIN-SUFFIX,supercellgames.com
+DOMAIN-SUFFIX,supercellid.com
+DOMAIN-SUFFIX,supercellstore.com
+DOMAIN-SUFFIX,supr.cl
+DOMAIN,supercell.helpshift.com
+DOMAIN,supercell.zendesk.com

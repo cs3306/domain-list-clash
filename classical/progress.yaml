@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: progress
+# Updated: 2026-09-05 06:48:43 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,chef.io
+- DOMAIN-SUFFIX,getfiddler.com
+- DOMAIN-SUFFIX,kemptechnologies.com
+- DOMAIN-SUFFIX,progress.com
+- DOMAIN-SUFFIX,sharefile.com
+- DOMAIN-SUFFIX,telerik.com

@@ -1,0 +1,18 @@
+# Generated from v2fly/domain-list-community
+# Source: atlassian
+# Updated: 2026-09-05 06:48:38 UTC
+# Total domains: 11
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.trello.com
+- +.trellocdn.com
+- +.atl-paas.net
+- +.atlassian-dev.net
+- +.atlassian.com
+- +.atlassian.net
+- +.bitbucket.io
+- +.bitbucket.org
+- +.jira.com
+- +.ss-inf.net
+- +.statuspage.io
