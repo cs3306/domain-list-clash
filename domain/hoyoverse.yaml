@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: hoyoverse
+# Updated: 2026-09-12 07:00:13 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.genshinimpact.com
+- +.honkaiimpact3.com
+- +.honkaistarrail.com
+- +.hoyo.link
+- +.hoyolab.com
+- +.hoyoverse.com
+- +.n0vadesktop.com
+- +.zenlesszonezero.com
+- +.log-upload-os.hoyoverse.com

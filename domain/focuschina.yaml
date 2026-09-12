@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: focuschina
+# Updated: 2026-09-12 07:00:12 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.focuschina.com
+- +.made-in-china.com
+- +.micstatic.com
+- +.trademessenger.com
+- +.vemic.com

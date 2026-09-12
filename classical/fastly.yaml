@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: fastly
+# Updated: 2026-09-12 07:00:12 UTC
+# Total rules: 7
+
+payload:
+- DOMAIN-SUFFIX,fastly-edge.com
+- DOMAIN-SUFFIX,fastly-terrarium.com
+- DOMAIN-SUFFIX,fastly.com
+- DOMAIN-SUFFIX,fastly.io
+- DOMAIN-SUFFIX,fastly.net
+- DOMAIN-SUFFIX,fastlylabs.com
+- DOMAIN-SUFFIX,fastlylb.net

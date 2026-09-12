@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: youjizz
+# Updated: 2026-09-12 07:00:15 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,yjcontentdelivery.com
+DOMAIN-SUFFIX,youjizz.com

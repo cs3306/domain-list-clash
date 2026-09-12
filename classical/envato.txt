@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: envato
+# Updated: 2026-09-12 07:00:12 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,themeforest.net

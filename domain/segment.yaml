@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: segment
+# Updated: 2026-09-12 07:00:14 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.segment.com
+- +.segment.io
+- +.segmenthub.com
+- +.segmentify.com

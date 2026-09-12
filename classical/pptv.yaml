@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: pptv
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,pplive.cn
+- DOMAIN-SUFFIX,pplive.com
+- DOMAIN-SUFFIX,pptv.com

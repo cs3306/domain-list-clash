@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: faststone
+# Updated: 2026-09-12 07:00:12 UTC
+# Total rules: 1
+
+payload:
+- DOMAIN-SUFFIX,faststone.org

@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: otpbank
+# Updated: 2026-09-12 07:00:14 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ckb.me
+- +.dskbank.bg
+- +.ipotekabank.uz
+- +.mobiasbanca.md
+- +.otpbank.al
+- +.otpbank.com.ua
+- +.otpbank.hu
+- +.otpbank.ru
+- +.otpbanka.hr
+- +.otpbanka.rs
+- +.otpbanka.si
+- +.otpgroup.info

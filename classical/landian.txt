@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: landian
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,landian.news
+DOMAIN-SUFFIX,lancdn.com
+DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,landian.vip
+DOMAIN-SUFFIX,landian.xyz
+DOMAIN-SUFFIX,ourl.co
+DOMAIN-SUFFIX,wsoso.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: kkbox
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kk.stream
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kktix.com

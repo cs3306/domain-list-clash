@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: weiphone
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,feng.com
+- DOMAIN-SUFFIX,fengimg.com
+- DOMAIN-SUFFIX,weiphone.net
+- DOMAIN-SUFFIX,wfdata.club

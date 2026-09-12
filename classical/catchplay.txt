@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: catchplay
+# Updated: 2026-09-12 07:00:09 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net

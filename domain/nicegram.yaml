@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: nicegram
+# Updated: 2026-09-12 07:00:14 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.nicegram.app
+- +.nicegram.cloud
+- +.adsgram.ai

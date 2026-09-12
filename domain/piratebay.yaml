@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: piratebay
+# Updated: 2026-09-12 07:00:14 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.pirates-forum.org
+- +.torrindex.net
+- +.thepiratebay.org
+- +.apibay.org

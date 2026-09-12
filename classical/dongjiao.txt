@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: dongjiao
+# Updated: 2026-09-12 07:00:12 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,anmo.com
+DOMAIN-SUFFIX,djdjapp.com
+DOMAIN-SUFFIX,dongjiao.cc
+DOMAIN-SUFFIX,dongjiaoapp.com

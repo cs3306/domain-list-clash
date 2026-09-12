@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: android
+# Updated: 2026-09-12 07:00:09 UTC
+# Total rules: 4
+
+DOMAIN-KEYWORD,android
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+DOMAIN,android.googlesource.com

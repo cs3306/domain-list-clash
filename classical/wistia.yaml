@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: wistia
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
+- DOMAIN-SUFFIX,wistia.com
+- DOMAIN-SUFFIX,wistia.net

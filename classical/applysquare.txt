@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: applysquare
+# Updated: 2026-09-12 07:00:09 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,applysquare.net

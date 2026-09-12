@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: inshot
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,inshot.cc
+- DOMAIN-SUFFIX,inshot.com
+- DOMAIN-SUFFIX,inshotapp.com

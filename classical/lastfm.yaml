@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: lastfm
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,last.fm
+- DOMAIN,lastfm.freetls.fastly.net
+- DOMAIN,lastfm-img.freetls.fastly.net
+- DOMAIN,ws.audioscrobbler.com

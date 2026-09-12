@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: swag
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,5w.ag
+- DOMAIN-SUFFIX,swag-live.co
+- DOMAIN-SUFFIX,swag.live

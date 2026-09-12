@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: petrochina
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,95504.net
+DOMAIN-SUFFIX,95504test.com
+DOMAIN-SUFFIX,cnpc.com.cn
+DOMAIN-SUFFIX,petrochina.com.cn

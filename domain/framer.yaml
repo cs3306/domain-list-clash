@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: framer
+# Updated: 2026-09-12 07:00:12 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.framer.com
+- +.framer.website
+- +.framercanvas.com
+- +.framerstatic.com
+- +.framerusercontent.com

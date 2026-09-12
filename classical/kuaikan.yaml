@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: kuaikan
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,kkmh.com
+- DOMAIN-SUFFIX,kuaikanmanhua.com
+- DOMAIN-SUFFIX,v3mh.com

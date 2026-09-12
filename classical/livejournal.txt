@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: livejournal
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,livejournal.com
+DOMAIN-SUFFIX,livejournal.net

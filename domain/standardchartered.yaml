@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: standardchartered
+# Updated: 2026-09-12 07:00:14 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.sc.com
+- +.standardchartered.com
+- standchartbank.sc.omtrdc.net
+- standchartbank.tt.omtrdc.net

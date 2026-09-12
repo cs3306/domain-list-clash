@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: icloudprivaterelay
+# Updated: 2026-09-12 07:00:14 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mask-api.icloud.com
+- +.mask-h2.icloud.com
+- +.mask.icloud.com

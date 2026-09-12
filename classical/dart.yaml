@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: dart
+# Updated: 2026-09-12 07:00:12 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,dart.dev
+- DOMAIN-SUFFIX,dartlang.org
+- DOMAIN-SUFFIX,dartpad.dev

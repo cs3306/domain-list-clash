@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: kodik
+# Updated: 2026-09-12 07:00:14 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.kodik-storage.com
+- +.kodik.biz
+- +.kodik.cc
+- +.kodik.info
+- +.kodikplayer.com

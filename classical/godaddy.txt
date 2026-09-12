@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: godaddy
+# Updated: 2026-09-12 07:00:13 UTC
+# Total rules: 5
+
+DOMAIN-KEYWORD,godaddy
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
+DOMAIN-SUFFIX,wsimg.com
+DOMAIN-SUFFIX,x.co

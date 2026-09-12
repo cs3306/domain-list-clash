@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: snodehome
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,szbdyd.com
+- DOMAIN-SUFFIX,snodehome.com
+- DOMAIN-SUFFIX,snodehome.cn

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: qt
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,qt.io
+DOMAIN-SUFFIX,qt-project.org

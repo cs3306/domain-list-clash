@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: cdek
+# Updated: 2026-09-12 07:00:11 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,ad-cdek.ru
+DOMAIN-SUFFIX,cdek.shopping
+DOMAIN-SUFFIX,cdek.ru

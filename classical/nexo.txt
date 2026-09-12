@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: nexo
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io

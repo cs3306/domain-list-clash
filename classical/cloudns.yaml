@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: cloudns
+# Updated: 2026-09-12 07:00:11 UTC
+# Total rules: 2
+
+payload:
+- DOMAIN-SUFFIX,cloudns.nz
+- DOMAIN-SUFFIX,cloudns.ph

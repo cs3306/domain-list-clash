@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: qweather
+# Updated: 2026-09-12 07:00:14 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,hecdn.net
+DOMAIN-SUFFIX,heweather.net
+DOMAIN-SUFFIX,qweather.com
+DOMAIN-SUFFIX,qweather.net
+DOMAIN-SUFFIX,qweatherapi.com
