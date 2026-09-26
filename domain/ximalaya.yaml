@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: ximalaya
+# Updated: 2026-09-26 07:18:44 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ximalaya.com
+- +.xmcdn.com
+- +.adbehavior.ximalaya.com
+- +.adse.wsa.ximalaya.com
+- +.adse.ximalaya.com

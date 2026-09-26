@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: tailscale
+# Updated: 2026-09-26 07:18:44 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.tailscale.com
+- +.tailscale.io
+- +.ts.net

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: truyen-hentai
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,truyen-hentai.com
+- DOMAIN-SUFFIX,truyen-hentai.fr
+- DOMAIN-SUFFIX,truyen-hentai.ru

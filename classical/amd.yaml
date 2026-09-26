@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: amd
+# Updated: 2026-09-26 07:18:41 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,amd.com
+- DOMAIN-SUFFIX,amd.com.cn
+- DOMAIN-SUFFIX,amdfanstore.com
+- DOMAIN-SUFFIX,amdgaming.com
+- DOMAIN-SUFFIX,radeon.com
+- DOMAIN,drivers.amd.com

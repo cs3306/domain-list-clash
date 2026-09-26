@@ -1,0 +1,6 @@
+# Generated from v2fly/domain-list-community
+# Source: lowiro
+# Updated: 2026-09-26 07:18:43 UTC
+# Total rules: 1
+
+DOMAIN-SUFFIX,lowiro.com

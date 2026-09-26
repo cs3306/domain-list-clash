@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: taikang
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,taikang.com
+DOMAIN-SUFFIX,taikanglife.com
+DOMAIN-SUFFIX,taikangzhijia.com
+DOMAIN-SUFFIX,tkhealthcare.com

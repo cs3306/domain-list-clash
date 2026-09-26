@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: nexitally
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,nexitally.com
+- DOMAIN-SUFFIX,nexitallysafe.com
+- DOMAIN-SUFFIX,nexitcore.com

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: pinggy
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,pinggy.io
+DOMAIN-SUFFIX,pinggy.link

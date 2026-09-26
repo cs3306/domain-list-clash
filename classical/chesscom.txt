@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: chesscom
+# Updated: 2026-09-26 07:18:42 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,chess.com
+DOMAIN-SUFFIX,chesscomfiles.com

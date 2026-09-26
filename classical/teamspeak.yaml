@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: teamspeak
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,myteamspeak.com
+- DOMAIN-SUFFIX,teamspeak.com
+- DOMAIN-SUFFIX,teamspeak-services.com

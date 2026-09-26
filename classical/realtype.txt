@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: realtype
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,realtype.co.jp
+DOMAIN-SUFFIX,realtype.jp

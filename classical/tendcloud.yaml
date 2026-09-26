@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: tendcloud
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 5
+
+payload:
+- DOMAIN-SUFFIX,tendcloud.com
+- DOMAIN-SUFFIX,talkingdata.com
+- DOMAIN-SUFFIX,talkinggame.com
+- DOMAIN-SUFFIX,cpatrk.net
+- DOMAIN-SUFFIX,tdsdk.cpatrk.net

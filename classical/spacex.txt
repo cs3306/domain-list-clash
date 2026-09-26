@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: spacex
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,starlink.com

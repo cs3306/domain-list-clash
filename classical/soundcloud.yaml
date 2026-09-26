@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: soundcloud
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,sndcdn.com
+- DOMAIN-SUFFIX,soundcloud.cloud
+- DOMAIN-SUFFIX,soundcloud.com

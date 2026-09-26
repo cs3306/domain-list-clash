@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: dangdang
+# Updated: 2026-09-26 07:18:43 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,dangdang.com
+DOMAIN-SUFFIX,ddimg.cn

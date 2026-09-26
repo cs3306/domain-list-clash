@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: bitwarden
+# Updated: 2026-09-26 07:18:41 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.eu
+DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,btwrdn.co
+DOMAIN-SUFFIX,btwrdn.com

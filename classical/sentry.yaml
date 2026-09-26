@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: sentry
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,getsentry.com
+- DOMAIN-SUFFIX,sentry.dev
+- DOMAIN-SUFFIX,sentry.io
+- DOMAIN-SUFFIX,sentry-cdn.com

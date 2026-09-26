@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: nationalgeographic
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,natgeomaps.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,nationalgeographicpartners.com
+DOMAIN-SUFFIX,ngeo.com

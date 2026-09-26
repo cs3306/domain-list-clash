@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: apple-podcasts
+# Updated: 2026-09-26 07:18:41 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,applepodcasts.com
+- DOMAIN-SUFFIX,podcasts.apple.com
+- DOMAIN,amp-api.podcasts.apple.com
+- DOMAIN,podcasts.apple.com

@@ -1,0 +1,6 @@
+# Generated from v2fly/domain-list-community
+# Source: spacemail
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 1
+
+DOMAIN-SUFFIX,spacemail.com

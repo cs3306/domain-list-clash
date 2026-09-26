@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: notion
+# Updated: 2026-09-26 07:18:44 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.notion-static.com
+- +.notion-status.com
+- +.notion.com
+- +.notion.new
+- +.notion.site
+- +.notion.so
+- +.notionusercontent.com

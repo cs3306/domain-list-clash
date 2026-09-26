@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: tmdb
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,themoviedb.org
+- DOMAIN-SUFFIX,tmdb.org
+- DOMAIN,tmdb-image-prod.b-cdn.net
+- DOMAIN,tmdb-web-image-prod.b-cdn.net

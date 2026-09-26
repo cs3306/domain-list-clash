@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: zynga
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,zynga.com
+- DOMAIN-SUFFIX,zyngaplayersupport.com
+- DOMAIN-SUFFIX,zyngapoker.com

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: openweather
+# Updated: 2026-09-26 07:18:44 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,openweather.co.uk
+DOMAIN-SUFFIX,openweathermap.org

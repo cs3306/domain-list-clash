@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: dandanplay
+# Updated: 2026-09-26 07:18:43 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplay.net
