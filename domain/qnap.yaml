@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: qnap
+# Updated: 2026-10-03 07:49:09 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.myqnapcloud.com
+- +.qlink.to
+- +.qnap.com
+- +.qnapsupport.net
+- +.mycloudnas.com
+- +.myqnapcloud.cn
+- +.qlinkto.cn
+- +.qnap.com.cn

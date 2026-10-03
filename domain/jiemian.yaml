@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: jiemian
+# Updated: 2026-10-03 07:49:08 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cailianpress.com
+- +.chinastarmarket.cn
+- +.cls.cn
+- +.jiemian.com
+- +.jiemian.com.cn
+- +.jingpt.com
+- +.lanjinger.com
+- +.moer.cn

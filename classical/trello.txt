@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: trello
+# Updated: 2026-10-03 07:49:09 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com

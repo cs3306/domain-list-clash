@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: chinaso
+# Updated: 2026-10-03 07:49:06 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,chinaso.com
+DOMAIN-SUFFIX,pg0.cn

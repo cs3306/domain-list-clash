@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: bongacams
+# Updated: 2026-10-03 07:49:04 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,bcicdn.com
+DOMAIN-SUFFIX,bcrncdn.com
+DOMAIN-SUFFIX,bcvcdn.com
+DOMAIN-SUFFIX,bgicdn.com
+DOMAIN-SUFFIX,bongacams.com

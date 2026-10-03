@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: kkbox
+# Updated: 2026-10-03 07:49:08 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.kfs.io
+- +.kk.stream
+- +.kkbox.com
+- +.kkbox.com.tw
+- +.kktix.com

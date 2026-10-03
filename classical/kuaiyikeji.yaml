@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: kuaiyikeji
+# Updated: 2026-10-03 07:49:08 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,dengguobi.com
+- DOMAIN-SUFFIX,houyicaiji.com
+- DOMAIN-SUFFIX,jinglingbiaozhu.com

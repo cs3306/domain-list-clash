@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: bitflyer
+# Updated: 2026-10-03 07:49:04 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitflyer.jp

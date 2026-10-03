@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: servicepipe
+# Updated: 2026-10-03 07:49:09 UTC
+# Total rules: 2
+
+payload:
+- DOMAIN-SUFFIX,servicepipe.tech
+- DOMAIN-SUFFIX,servicepipe.ru

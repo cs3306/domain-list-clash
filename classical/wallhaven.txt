@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: wallhaven
+# Updated: 2026-10-03 07:49:09 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,whvn.cc

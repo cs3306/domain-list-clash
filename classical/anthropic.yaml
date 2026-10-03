@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: anthropic
+# Updated: 2026-10-03 07:49:04 UTC
+# Total rules: 9
+
+payload:
+- DOMAIN-SUFFIX,anthropic.com
+- DOMAIN-SUFFIX,clau.de
+- DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,claude.com
+- DOMAIN-SUFFIX,claude.dev
+- DOMAIN-SUFFIX,claudemcpclient.com
+- DOMAIN-SUFFIX,claudemcpcontent.com
+- DOMAIN-SUFFIX,claudeusercontent.com
+- DOMAIN,servd-anthropic-website.b-cdn.net

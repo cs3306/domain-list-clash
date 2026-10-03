@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: duowan
+# Updated: 2026-10-03 07:49:07 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com

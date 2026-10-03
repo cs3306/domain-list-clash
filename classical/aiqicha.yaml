@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: aiqicha
+# Updated: 2026-10-03 07:49:04 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,aiqicha.baidu.com
+- DOMAIN-SUFFIX,aiqicha.cn
+- DOMAIN-SUFFIX,aiqicha.com

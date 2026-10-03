@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: mosmetro
+# Updated: 2026-10-03 07:49:09 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,mosmetro.ru
+DOMAIN-SUFFIX,mosmetro.tech

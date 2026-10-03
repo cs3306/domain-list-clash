@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: hku
+# Updated: 2026-10-03 07:49:08 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.hku.hk
+- +.hku.edu.hk
+- +.xn--pssu7cv61af44b.hk
+- +.xn--pssu7cv61af44b.xn--j6w193g

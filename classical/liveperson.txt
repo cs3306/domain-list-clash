@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: liveperson
+# Updated: 2026-10-03 07:49:09 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net

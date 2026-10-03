@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: hisense
+# Updated: 2026-10-03 07:49:08 UTC
+# Total rules: 6
+
+DOMAIN-SUFFIX,hisense-home.com
+DOMAIN-SUFFIX,hisense.com
+DOMAIN-SUFFIX,hisensehitachi.com
+DOMAIN-SUFFIX,hisensekf.com
+DOMAIN-SUFFIX,hismarttv.com
+DOMAIN-SUFFIX,juhaokan.org

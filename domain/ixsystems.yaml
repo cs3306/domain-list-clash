@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: ixsystems
+# Updated: 2026-10-03 07:49:08 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ixsystems.com
+- +.truenas.com

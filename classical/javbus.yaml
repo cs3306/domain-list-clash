@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: javbus
+# Updated: 2026-10-03 07:49:08 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,javbus.com
+- DOMAIN-SUFFIX,javbus22.com
+- DOMAIN-SUFFIX,javcdn.cc

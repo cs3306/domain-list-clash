@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: bitly
+# Updated: 2026-10-03 07:49:04 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bit.ly
+- +.bitly.com
+- +.bitly.is

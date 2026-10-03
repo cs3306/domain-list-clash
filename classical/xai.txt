@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: xai
+# Updated: 2026-10-03 07:49:09 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,x.ai

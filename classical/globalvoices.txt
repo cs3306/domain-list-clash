@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: globalvoices
+# Updated: 2026-10-03 07:49:08 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,globalvoices.org
+DOMAIN-SUFFIX,globalvoicesonline.org

@@ -1,0 +1,6 @@
+# Generated from v2fly/domain-list-community
+# Source: techtimes
+# Updated: 2026-10-03 07:49:09 UTC
+# Total rules: 1
+
+DOMAIN-SUFFIX,techtimes.com

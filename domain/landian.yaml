@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: landian
+# Updated: 2026-10-03 07:49:08 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.landian.news
+- +.lancdn.com
+- +.landiannews.com
+- +.landian.vip
+- +.landian.xyz
+- +.ourl.co
+- +.wsoso.com
