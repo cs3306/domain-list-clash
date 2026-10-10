@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: coolapk
+# Updated: 2026-10-10 08:15:28 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.coolapk.com
+- +.coolapkmarket.com
+- +.coolapkmarket.net

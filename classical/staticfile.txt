@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: staticfile
+# Updated: 2026-10-10 08:15:29 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,staticfile.net
+DOMAIN-SUFFIX,staticfile.org

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: geetest
+# Updated: 2026-10-10 08:15:28 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,geetest.com
+DOMAIN,geetest.datasink.sensorsdata.cn

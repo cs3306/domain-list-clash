@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: xiaohongshu
+# Updated: 2026-10-10 08:15:30 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.askdiandian.com
+- +.diandianlife.top
+- +.redelight.cn
+- +.rednote.com
+- +.rednote.com.my
+- +.rednotecdn.com
+- +.rnote.com
+- +.xhscdn.com
+- +.xhscdn.net
+- +.xhslink.com
+- +.xhsrcdn.com
+- +.xiaohongshu.com

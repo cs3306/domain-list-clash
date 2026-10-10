@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: nexusmods
+# Updated: 2026-10-10 08:15:29 UTC
+# Total rules: 2
+
+payload:
+- DOMAIN-SUFFIX,nexus-cdn.com
+- DOMAIN-SUFFIX,nexusmods.com

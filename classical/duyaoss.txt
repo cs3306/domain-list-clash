@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: duyaoss
+# Updated: 2026-10-10 08:15:28 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,duyaossr.com

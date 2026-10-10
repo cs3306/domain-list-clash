@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: khanacademy
+# Updated: 2026-10-10 08:15:29 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,khanacademy.org
+DOMAIN-SUFFIX,kastatic.org

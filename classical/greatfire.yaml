@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: greatfire
+# Updated: 2026-10-10 08:15:29 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,applecensorship.com
+- DOMAIN-SUFFIX,freebrowser.org
+- DOMAIN-SUFFIX,freewechat.com
+- DOMAIN-SUFFIX,freeweibo.com
+- DOMAIN-SUFFIX,freezhihu.org
+- DOMAIN-SUFFIX,googlecensorship.org
+- DOMAIN-SUFFIX,googleplaycensorship.com
+- DOMAIN-SUFFIX,greatfire.org
+- DOMAIN-SUFFIX,greatfirevpn.com
+- DOMAIN-SUFFIX,pao-pao.net
+- DOMAIN-SUFFIX,wikiunblocked.org

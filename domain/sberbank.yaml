@@ -1,0 +1,25 @@
+# Generated from v2fly/domain-list-community
+# Source: sberbank
+# Updated: 2026-10-10 08:15:29 UTC
+# Total domains: 18
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.bps-sberbank.by
+- +.sber-bank.by
+- +.sber.ru
+- +.sberbank.com
+- +.sberbank.ru
+- +.sbrf.ru
+- +.yookassa.ru
+- +.yoomoney.ru
+- +.cplsb.ru
+- +.sberspasibo.ru
+- +.spasibo.digital
+- +.spasibo.market
+- +.spasibobonus.ru
+- +.spasibosb.ru
+- +.spasibosberbank.ru
+- +.ads.sber.ru
+- +.clickstream.sberbank.ru
+- visor.sberbank.ru

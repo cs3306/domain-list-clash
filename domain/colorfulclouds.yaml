@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: colorfulclouds
+# Updated: 2026-10-10 08:15:28 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.caiyunai.com
+- +.caiyunapp.com
+- +.caiyuncdn.com
+- +.colorfulclouds.com
+- +.colorfulclouds.net
+- +.xiaomengai.com

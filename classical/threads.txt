@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: threads
+# Updated: 2026-10-10 08:15:30 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net

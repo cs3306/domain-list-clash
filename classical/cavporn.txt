@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: cavporn
+# Updated: 2026-10-10 08:15:27 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,cavporn.com
+DOMAIN-SUFFIX,cavporn.github.io

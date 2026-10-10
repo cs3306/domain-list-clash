@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: actalis
+# Updated: 2026-10-10 08:15:25 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,actalis.com
+DOMAIN-SUFFIX,actalis.it

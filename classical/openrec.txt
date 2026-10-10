@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: openrec
+# Updated: 2026-10-10 08:15:29 UTC
+# Total rules: 2
+
+DOMAIN,dqd0jw5gvbchn.cloudfront.net
+DOMAIN-SUFFIX,openrec.tv
