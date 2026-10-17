@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: deepseek
+# Updated: 2026-10-17 06:44:49 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com
