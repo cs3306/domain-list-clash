@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: rebrandly
+# Updated: 2026-10-24 07:01:35 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.rb.gy
+- +.rebrandly.com

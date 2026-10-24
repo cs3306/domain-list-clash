@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: fluxer
+# Updated: 2026-10-24 07:01:34 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,fluxer.app
+- DOMAIN-SUFFIX,fluxer.com
+- DOMAIN-SUFFIX,fluxer.dev
+- DOMAIN-SUFFIX,fluxer.gg
+- DOMAIN-SUFFIX,fluxer.gift
+- DOMAIN-SUFFIX,fluxer.media
+- DOMAIN-SUFFIX,fluxer.tools
+- DOMAIN-SUFFIX,fluxerapp.com
+- DOMAIN-SUFFIX,fluxerstatus.com
+- DOMAIN-SUFFIX,fluxerstatic.com
+- DOMAIN-SUFFIX,fluxerusercontent.com

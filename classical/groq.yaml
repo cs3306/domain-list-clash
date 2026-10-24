@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: groq
+# Updated: 2026-10-24 07:01:35 UTC
+# Total rules: 1
+
+payload:
+- DOMAIN-SUFFIX,groq.com

@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: github-copilot
+# Updated: 2026-10-24 07:01:35 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,githubcopilot.com
+- DOMAIN,copilot-proxy.githubusercontent.com
+- DOMAIN,copilot-workspace.githubnext.com
+- DOMAIN,copilotprodattachments.blob.core.windows.net
+- DOMAIN,copilot-telemetry-service.githubusercontent.com
+- DOMAIN,copilot-telemetry.githubusercontent.com

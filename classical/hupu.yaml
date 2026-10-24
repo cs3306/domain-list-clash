@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: hupu
+# Updated: 2026-10-24 07:01:35 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,hoopchina.com.cn
+- DOMAIN-SUFFIX,hupu.com
+- DOMAIN-SUFFIX,hupucdn.com
+- DOMAIN-SUFFIX,shihuo.cn

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: mapbox
+# Updated: 2026-10-24 07:01:35 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,mapbox.cn
+DOMAIN-SUFFIX,mapbox.com

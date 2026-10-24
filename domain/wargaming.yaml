@@ -1,0 +1,19 @@
+# Generated from v2fly/domain-list-community
+# Source: wargaming
+# Updated: 2026-10-24 07:01:36 UTC
+# Total domains: 12
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.masteroforion.com
+- +.wargaming.com
+- +.wargaming.net
+- +.wgcdn.co
+- +.wgcrowd.io
+- +.worldoftanks.com
+- +.worldoftanks.eu
+- +.worldofwarplanes.com
+- +.worldofwarships.asia
+- +.worldofwarships.com
+- +.wotblitz.com
+- +.wowsblitz.com

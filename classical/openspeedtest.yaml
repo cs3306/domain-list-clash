@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: openspeedtest
+# Updated: 2026-10-24 07:01:35 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,open.cachefly.net
+- DOMAIN-SUFFIX,openspeedtest.com
+- DOMAIN-SUFFIX,openspeedtest.in
+- DOMAIN-SUFFIX,openspeedtest.org

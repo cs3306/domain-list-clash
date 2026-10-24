@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: magnit
+# Updated: 2026-10-24 07:01:35 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,kazanexpress.ru
+- DOMAIN-SUFFIX,magnit.com
+- DOMAIN-SUFFIX,magnit.ru
+- DOMAIN-SUFFIX,mm.ru

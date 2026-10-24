@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: anaconda
+# Updated: 2026-10-24 07:01:31 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,anaconda.cloud
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,conda.io

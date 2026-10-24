@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: avito
+# Updated: 2026-10-24 07:01:31 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,avito.com
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
+DOMAIN,stats.avito.ru

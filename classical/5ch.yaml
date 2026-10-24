@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: 5ch
+# Updated: 2026-10-24 07:01:31 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,2ch.net
+- DOMAIN-SUFFIX,5ch.io
+- DOMAIN-SUFFIX,5ch.net

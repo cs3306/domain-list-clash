@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: beget
+# Updated: 2026-10-24 07:01:31 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.beget.app
+- +.beget.cloud
+- +.beget.com
+- +.beget.de
+- +.beget.hosting
+- +.beget.pro
+- +.beget.ru
+- +.beget.tech
+- +.begetcdn.cloud
+- +.beserver.ru
+- +.bget.ru
+- +.sprut.io
+- +.xn--90aefb9d.xn--p1ai

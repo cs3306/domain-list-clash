@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: lianjia
+# Updated: 2026-10-24 07:01:35 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,ljcdn.com
+DOMAIN-SUFFIX,beckyroom.com
+DOMAIN-SUFFIX,bkzhibo.com
+DOMAIN-SUFFIX,ke.com

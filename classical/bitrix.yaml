@@ -1,0 +1,17 @@
+# Generated from v2fly/domain-list-community
+# Source: bitrix
+# Updated: 2026-10-24 07:01:31 UTC
+# Total rules: 11
+
+payload:
+- DOMAIN-SUFFIX,1c-bitrix.ru
+- DOMAIN-SUFFIX,bitrix.info
+- DOMAIN-SUFFIX,bitrix24.com
+- DOMAIN-SUFFIX,bitrix24.net
+- DOMAIN-SUFFIX,bitrix24.ru
+- DOMAIN-SUFFIX,bitrix24.tech
+- DOMAIN-SUFFIX,bitrix24public.com
+- DOMAIN-SUFFIX,bitrix24shop.ru
+- DOMAIN-SUFFIX,bitrix24site.ru
+- DOMAIN-SUFFIX,bitrixphone.com
+- DOMAIN-SUFFIX,bitrixsoft.com
