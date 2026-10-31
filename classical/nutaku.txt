@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: nutaku
+# Updated: 2026-10-31 08:10:13 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,nutaku.com
+DOMAIN-SUFFIX,nutaku.net

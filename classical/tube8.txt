@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: tube8
+# Updated: 2026-10-31 08:10:13 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,tube8.com
+DOMAIN-SUFFIX,tube8.fr

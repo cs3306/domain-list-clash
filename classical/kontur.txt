@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: kontur
+# Updated: 2026-10-31 08:10:13 UTC
+# Total rules: 7
+
+DOMAIN-SUFFIX,kontur-inc.com
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN-SUFFIX,ktalk.host
+DOMAIN-SUFFIX,ktalk.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host

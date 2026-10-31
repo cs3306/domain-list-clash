@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: mts-ru
+# Updated: 2026-10-31 08:10:13 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.mts-ws.net
+- +.mts.ru
+- +.mymts.ru
+- +.a.mts.ru
+- +.obs.mts.ru
+- +.dbo-dengi.online
+- +.mtsbank.ru
+- +.mtsdengi.ru
+- +.tvoyodbo.online
+- +.kion.ru
+- +.mtsmedia.ru
+- +.on-media.ru
+- +.mts-link.ru

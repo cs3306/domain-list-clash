@@ -1,0 +1,22 @@
+# Generated from v2fly/domain-list-community
+# Source: category-wiki-cn
+# Updated: 2026-10-31 08:10:10 UTC
+# Total domains: 15
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.allhistory.com
+- +.fgo.wiki
+- +.mbalib.com
+- +.sec-wiki.com
+- +.shidianbaike.com
+- +.chaz.fun
+- +.huijistatic.com
+- +.huijiwiki.com
+- +.mcmod.cn
+- app.moegirl.org.cn
+- storage.moegirl.org.cn
+- +.pwsannong.com
+- +.qiuwenbaike.cn
+- +.qiuwen.wiki
+- +.zdic.net

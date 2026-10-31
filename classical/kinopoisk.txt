@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: kinopoisk
+# Updated: 2026-10-31 08:10:13 UTC
+# Total rules: 5
+
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,kp.yandex.net
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: blurams
+# Updated: 2026-10-31 08:10:07 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,blurams.app
+DOMAIN-SUFFIX,blurams.com

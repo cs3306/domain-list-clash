@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: cursor
+# Updated: 2026-10-31 08:10:11 UTC
+# Total domains: 5
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cursor-cdn.com
+- +.cursor.com
+- +.cursor.sh
+- +.cursorapi.com
+- +.cursorvm.com

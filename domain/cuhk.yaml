@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: cuhk
+# Updated: 2026-10-31 08:10:11 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cuhk.hk
+- +.cuhk.edu.hk
+- +.xn--fiq80y.hk
+- +.xn--fiq80y.xn--j6w193g
+- +.xn--fiq80y3xbiwr.hk
+- +.xn--fiq80y3xbiwr.xn--j6w193g
+- +.xn--fiq80y3xbiwrs0kiu9d.hk
+- +.xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g

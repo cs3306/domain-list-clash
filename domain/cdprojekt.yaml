@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: cdprojekt
+# Updated: 2026-10-31 08:10:10 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cdpred.services
+- +.cdprojekt.com
+- +.cdprojekt.red
+- +.cdprojektred.com
+- +.cyberpunk.net
+- +.playgwent.com
+- +.thewitcher.com

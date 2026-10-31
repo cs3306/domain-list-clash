@@ -1,0 +1,23 @@
+# Generated from v2fly/domain-list-community
+# Source: hdrezka
+# Updated: 2026-10-31 08:10:12 UTC
+# Total domains: 16
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.hdrezka-home.tv
+- +.hdrezka.ac
+- +.hdrezka.ag
+- +.hdrezka.cm
+- +.hdrezka.co
+- +.hdrezka.me
+- +.hdrezka.org
+- +.hdrezka.site
+- +.rezka.ag
+- +.rezka.fi
+- +.statichdrezka.ac
+- +.hdrzk.org
+- +.static.voidboost.com
+- +.stream.voidboost.cc
+- +.stream.voidboost.one
+- +.voidslam.org
