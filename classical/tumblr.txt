@@ -1,0 +1,6 @@
+# Generated from v2fly/domain-list-community
+# Source: tumblr
+# Updated: 2026-11-07 08:31:28 UTC
+# Total rules: 1
+
+DOMAIN-SUFFIX,tumblr.com

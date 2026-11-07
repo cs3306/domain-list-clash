@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: fcbox
+# Updated: 2026-11-07 08:31:26 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,fcbox.com
+DOMAIN-SUFFIX,fcboxmall.com

@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: webflow
+# Updated: 2026-11-07 08:31:28 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,webflow-ext.com
+- DOMAIN-SUFFIX,webflow.com
+- DOMAIN-SUFFIX,webflow.io
+- DOMAIN-SUFFIX,website-files.com

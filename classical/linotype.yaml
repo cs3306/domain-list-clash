@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: linotype
+# Updated: 2026-11-07 08:31:27 UTC
+# Total rules: 1
+
+payload:
+- DOMAIN-SUFFIX,linotype.com

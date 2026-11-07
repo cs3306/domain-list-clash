@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: certum
+# Updated: 2026-11-07 08:31:25 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,certum.pl
+- DOMAIN-SUFFIX,ocsp-certum.com
+- DOMAIN-SUFFIX,ocsp-responder.com

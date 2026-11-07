@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: qcc
+# Updated: 2026-11-07 08:31:28 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,qichacha.com

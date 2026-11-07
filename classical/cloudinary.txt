@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: cloudinary
+# Updated: 2026-11-07 08:31:25 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net

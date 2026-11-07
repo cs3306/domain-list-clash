@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: projectmoon
+# Updated: 2026-11-07 08:31:28 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,projectmoon.studio
+DOMAIN-SUFFIX,limbuscompany.global
+DOMAIN-SUFFIX,limbuscompanyapi.com
+DOMAIN-SUFFIX,limbuscompanycdn.org
