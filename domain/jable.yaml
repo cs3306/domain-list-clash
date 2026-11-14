@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: jable
+# Updated: 2026-11-14 08:46:01 UTC
+# Total domains: 3
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cdnlab.live
+- +.jable.tv
+- +.mushroomtrack.com

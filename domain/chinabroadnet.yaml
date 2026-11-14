@@ -1,0 +1,16 @@
+# Generated from v2fly/domain-list-community
+# Source: chinabroadnet
+# Updated: 2026-11-14 08:46:00 UTC
+# Total domains: 9
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.10099.com.cn
+- +.cbn.cn
+- +.ahitv.com
+- +.cqccn.com
+- +.gcable.com.cn
+- +.sc96655.com
+- +.isxtv.com
+- +.sdgdwljt.com
+- +.mnc015.mcc460.pub.3gppnetwork.org

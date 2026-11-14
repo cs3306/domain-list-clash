@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: discuz
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,comsenz.com
+- DOMAIN-SUFFIX,discuz.net
+- DOMAIN-SUFFIX,discuz.org

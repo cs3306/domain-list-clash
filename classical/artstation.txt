@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: artstation
+# Updated: 2026-11-14 08:45:57 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com

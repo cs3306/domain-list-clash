@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: disqus
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,disq.us
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,disqusservice.com

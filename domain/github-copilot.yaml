@@ -1,0 +1,14 @@
+# Generated from v2fly/domain-list-community
+# Source: github-copilot
+# Updated: 2026-11-14 08:46:01 UTC
+# Total domains: 7
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.githubcopilot.com
+- copilot-proxy.githubusercontent.com
+- copilot-workspace.githubnext.com
+- production-copilot-host-westus.webpubsub.azure.com
+- copilotprodattachments.blob.core.windows.net
+- copilot-telemetry-service.githubusercontent.com
+- copilot-telemetry.githubusercontent.com

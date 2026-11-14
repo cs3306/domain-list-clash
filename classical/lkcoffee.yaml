@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: lkcoffee
+# Updated: 2026-11-14 08:46:01 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,lkcoffee.com
+- DOMAIN-SUFFIX,luckincoffeecdn.com
+- DOMAIN-SUFFIX,yyds.co

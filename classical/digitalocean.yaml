@@ -1,0 +1,12 @@
+# Generated from v2fly/domain-list-community
+# Source: digitalocean
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 6
+
+payload:
+- DOMAIN-SUFFIX,digitalocean.com
+- DOMAIN-SUFFIX,digitalocean-ui.com
+- DOMAIN-SUFFIX,digitaloceanspaces.com
+- DOMAIN-SUFFIX,do.co
+- DOMAIN-SUFFIX,nginxconfig.io
+- DOMAIN-SUFFIX,ondigitalocean.com

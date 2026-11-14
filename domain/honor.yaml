@@ -1,0 +1,15 @@
+# Generated from v2fly/domain-list-community
+# Source: honor
+# Updated: 2026-11-14 08:46:01 UTC
+# Total domains: 8
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.hihonor.cn
+- +.hihonor.com
+- +.hihonorcdn.com
+- +.hihonorcloud.com
+- +.honor.cn
+- +.honor.com
+- +.honor.com.cn
+- +.honorfile.com

@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: kingkonglive
+# Updated: 2026-11-14 08:46:01 UTC
+# Total domains: 2
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.kingkong.com.tw
+- +.kingkongapp.com

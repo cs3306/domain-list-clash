@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: collabora
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,collabora.co.uk
+DOMAIN-SUFFIX,collabora.com
+DOMAIN-SUFFIX,collabora.org
+DOMAIN-SUFFIX,collaboraoffice.com

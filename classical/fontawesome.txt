@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: fontawesome
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,fortawesome.com

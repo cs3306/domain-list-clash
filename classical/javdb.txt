@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: javdb
+# Updated: 2026-11-14 08:46:01 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,jav.app
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,jdbimgs.com
+DOMAIN-SUFFIX,jdbstatic.com

@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: johren
+# Updated: 2026-11-14 08:46:01 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,johren.games
+DOMAIN-SUFFIX,johren.net

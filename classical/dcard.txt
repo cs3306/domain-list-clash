@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: dcard
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,dcard.cc
+DOMAIN-SUFFIX,dcard.io
+DOMAIN-SUFFIX,dcard.link
+DOMAIN-SUFFIX,dcard.tw

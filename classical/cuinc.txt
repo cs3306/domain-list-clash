@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: cuinc
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,cuinc.oen.tw
+DOMAIN-SUFFIX,cuinc.tw

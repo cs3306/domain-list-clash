@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: realitykings
+# Updated: 2026-11-14 08:46:02 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,realitykings.com
+DOMAIN-SUFFIX,rk.com

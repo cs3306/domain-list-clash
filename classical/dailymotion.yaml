@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: dailymotion
+# Updated: 2026-11-14 08:46:00 UTC
+# Total rules: 3
+
+payload:
+- DOMAIN-SUFFIX,dailymotion.com
+- DOMAIN-SUFFIX,dm-event.net
+- DOMAIN-SUFFIX,dmcdn.net

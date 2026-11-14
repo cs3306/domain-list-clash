@@ -1,0 +1,11 @@
+# Generated from v2fly/domain-list-community
+# Source: ligastavok
+# Updated: 2026-11-14 08:46:01 UTC
+# Total domains: 4
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.ligadobra.ru
+- +.ligastavok-csr.ru
+- +.ligastavok.ru
+- +.sozvezdie-dobra.ru

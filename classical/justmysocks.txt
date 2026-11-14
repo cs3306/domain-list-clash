@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: justmysocks
+# Updated: 2026-11-14 08:46:01 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,justmysocks1.net
+DOMAIN-SUFFIX,justmysocks2.net
+DOMAIN-SUFFIX,justmysocks4.net

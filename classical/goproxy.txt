@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: goproxy
+# Updated: 2026-11-14 08:46:01 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,goproxy.cn
+DOMAIN-SUFFIX,goproxy.io
