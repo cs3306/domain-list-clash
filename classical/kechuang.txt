@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: kechuang
+# Updated: 2026-11-21 09:25:35 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,kechuang.org
+DOMAIN-SUFFIX,kexinshe.com

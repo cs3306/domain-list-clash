@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: grafanalabs
+# Updated: 2026-11-21 09:25:35 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net

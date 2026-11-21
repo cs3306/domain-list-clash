@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: rutube
+# Updated: 2026-11-21 09:25:35 UTC
+# Total rules: 4
+
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+DOMAIN-SUFFIX,rutube.sport
