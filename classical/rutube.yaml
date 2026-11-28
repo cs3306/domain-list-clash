@@ -1,0 +1,10 @@
+# Generated from v2fly/domain-list-community
+# Source: rutube
+# Updated: 2026-11-28 09:58:38 UTC
+# Total rules: 4
+
+payload:
+- DOMAIN-SUFFIX,rutube.ru
+- DOMAIN-SUFFIX,rutubelist.ru
+- DOMAIN-SUFFIX,rtbcdn.ru
+- DOMAIN-SUFFIX,rutube.sport

@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: rostelecom
+# Updated: 2026-11-28 09:58:38 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.restream-media.net
+- +.restream.ru
+- +.more.tv
+- +.wink.am
+- +.wink.ru
+- +.azbukainterneta.ru
+- +.o7.com
+- +.onlime.ru
+- +.rostelecom-rb.ru
+- +.rostelecom.ru
+- +.rt.ru
+- +.xn--e1aapchhekkk.xn--p1ai
+- sentry.iptv.rt.ru

@@ -1,0 +1,8 @@
+# Generated from v2fly/domain-list-community
+# Source: faceit
+# Updated: 2026-11-28 09:58:36 UTC
+# Total rules: 3
+
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com
+DOMAIN-SUFFIX,fce.gg

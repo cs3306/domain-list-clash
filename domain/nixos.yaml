@@ -1,0 +1,20 @@
+# Generated from v2fly/domain-list-community
+# Source: nixos
+# Updated: 2026-11-28 09:58:38 UTC
+# Total domains: 13
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.nix.dev
+- +.nix.store
+- +.nixcon.org
+- +.nixcon2017.org
+- +.nixlang.com
+- +.nixos.org
+- +.nixpkgs.org
+- nix-community.github.io
+- +.builtwithnix.org
+- +.cachix.org
+- +.mynixos.com
+- +.nix-community.org
+- +.nixos.wiki

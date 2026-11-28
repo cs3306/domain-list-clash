@@ -1,0 +1,13 @@
+# Generated from v2fly/domain-list-community
+# Source: cygames
+# Updated: 2026-11-28 09:58:36 UTC
+# Total domains: 6
+# Format: domain behavior (use with behavior: domain)
+
+payload:
+- +.cygames.co.jp
+- +.cygames.com
+- +.cygames.jp
+- +.worldflipper.jp
+- +.umamusume.akamaized.net
+- +.worldflipper.akamaized.net

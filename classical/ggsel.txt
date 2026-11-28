@@ -1,0 +1,7 @@
+# Generated from v2fly/domain-list-community
+# Source: ggsel
+# Updated: 2026-11-28 09:58:38 UTC
+# Total rules: 2
+
+DOMAIN-SUFFIX,ggsel.com
+DOMAIN-SUFFIX,ggsel.net

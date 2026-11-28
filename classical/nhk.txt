@@ -1,0 +1,9 @@
+# Generated from v2fly/domain-list-community
+# Source: nhk
+# Updated: 2026-11-28 09:58:38 UTC
+# Total rules: 4
+
+DOMAIN-KEYWORD,nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp
